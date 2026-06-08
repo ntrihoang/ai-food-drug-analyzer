@@ -1,0 +1,10 @@
+# Bỏ qua môi trường ảo
+.venv/
+#bỏ qua database và raw_data
+data/raw_data
+data/database
+
+# Bỏ qua file log và cache
+*.log
+__pycache__/
+*.pyc
