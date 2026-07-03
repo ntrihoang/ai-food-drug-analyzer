@@ -1,0 +1,1121 @@
+drug_id,drug_name,standardized_ingredient,drug_class
+1,rosuvastatin calcium,rosuvastatin calcium,HMG-CoA Reductase Inhibitor
+2,hydromorphone hydrochloride,hydromorphone hydrochloride,Opioid Agonist
+3,hydroxyzine hydrochloride,hydroxyzine dihydrochloride,Antihistamine
+4,liothyronine sodium,liothyronine sodium,l-Triiodothyronine
+5,doxycycline hyclate,doxycycline hyclate,Tetracycline-class Drug
+6,phenazopyridine hydrochloride,phenazopyridine hydrochloride,UNKNOWN_CLASS
+7,welchol,colesevelam hydrochloride,Bile Acid Sequestrant
+8,methylphenidate,methylphenidate hydrochloride,Central Nervous System Stimulant
+9,mexiletine hydrochloride,mexiletine hydrochloride,Antiarrhythmic
+10,tamsulosin hydrochloride,tamsulosin hydrochloride,alpha-Adrenergic Blocker
+11,hyoscyamine sulfate odt,hyoscyamine sulfate,UNKNOWN_CLASS
+12,trazodone hydrochloride,trazodone hydrochloride,Serotonin Reuptake Inhibitor
+13,lisdexamfetamine dimesylate,lisdexamfetamine dimesylate,Central Nervous System Stimulant
+14,atorvastatin calcium,atorvastatin calcium trihydrate,HMG-CoA Reductase Inhibitor
+15,vasotec,enalapril maleate,Angiotensin Converting Enzyme Inhibitor
+16,amlodipine and valsartan,amlodipine besylate,Angiotensin 2 Receptor Blocker
+17,valacyclovir hydrochloride,valacyclovir hydrochloride,Herpes Simplex Virus Nucleoside Analog DNA Polymerase Inhibitor
+18,olmesartan medoxomil,olmesartan medoxomil,Angiotensin 2 Receptor Blocker
+19,metformin hcl,metformin hydrochloride,Biguanide
+20,alecensa,alectinib hydrochloride,Kinase Inhibitor
+21,meclizine hydrochloride,meclizine hydrochloride,Antiemetic
+22,cetirizine hydrochloride,cetirizine hydrochloride,Histamine-1 Receptor Antagonist
+23,venlafaxine hydrochloride,venlafaxine hydrochloride,Serotonin and Norepinephrine Reuptake Inhibitor
+24,metoprolol tartrate,metoprolol tartrate,beta-Adrenergic Blocker
+25,quinine sulfate,quinine sulfate,Antimalarial
+26,carvedilol phosphate,carvedilol phosphate,alpha-Adrenergic Blocker
+27,rivastigmine tartrate,rivastigmine tartrate,Cholinesterase Inhibitor
+28,doxepin hydrochloride,doxepin hydrochloride,Tricyclic Antidepressant
+29,chlordiazepoxide hydrochloride,chlordiazepoxide hydrochloride,Benzodiazepine
+30,metoprolol succinate,metoprolol succinate,beta-Adrenergic Blocker
+31,parnate,tranylcypromine sulfate,Monoamine Oxidase Inhibitor
+32,doxazosin mesylate,doxazosin mesylate,alpha-Adrenergic Blocker
+33,desmopressin acetate,desmopressin acetate,Factor VIII Activator
+34,propafenone hydrochloride,propafenone hydrochloride,Antiarrhythmic
+35,minocycline hydrochloride,minocycline hydrochloride,Tetracycline-class Drug
+36,guanfacine,guanfacine hydrochloride,Central alpha-2 Adrenergic Agonist
+37,pitavastatin,pitavastatin calcium,HMG-CoA Reductase Inhibitor
+38,terazosin,terazosin hydrochloride,alpha-Adrenergic Blocker
+39,sulfamethoxazole and trimethoprim,sulfamethoxazole,Dihydrofolate Reductase Inhibitor Antibacterial
+40,spongilla lacustris mt,spongilla lacustris,UNKNOWN_CLASS
+41,duloxetine,duloxetine hydrochloride,Serotonin and Norepinephrine Reuptake Inhibitor
+42,oxycodone hydrochloride,oxycodone hydrochloride,Opioid Agonist
+43,clindamycin hydrochloride,clindamycin hydrochloride,Lincosamide Antibacterial
+44,buspirone hydrochloride,buspirone hydrochloride,UNKNOWN_CLASS
+45,clonidine hydrochloride,clonidine hydrochloride,Central alpha-2 Adrenergic Agonist
+46,sumatriptan,sumatriptan succinate,Serotonin-1b and Serotonin-1d Receptor Agonist
+47,thyroid,thyroid,UNKNOWN_CLASS
+48,lidocaine hydrochloride,lidocaine hydrochloride,Amide Local Anesthetic
+49,tascenso odt,fingolimod lauryl sulfate,Sphingosine 1-phosphate Receptor Modulator
+50,benztropine mesylate,benztropine mesylate,Anticholinergic
+51,diltiazem hydrochloride,diltiazem hydrochloride,Calcium Channel Blocker
+52,desvenlafaxine succinate,desvenlafaxine succinate,Serotonin and Norepinephrine Reuptake Inhibitor
+53,levothyroxine sodium,levothyroxine sodium,l-Thyroxine
+54,warfarin sodium,warfarin sodium,Vitamin K Antagonist
+55,sertraline,sertraline hydrochloride,Serotonin Reuptake Inhibitor
+56,ciprofloxacin,ciprofloxacin hydrochloride,Fluoroquinolone Antibacterial
+57,midodrine hydrochloride,midodrine hydrochloride,alpha-Adrenergic Agonist
+58,fluoxetine,fluoxetine hydrochloride,Serotonin Reuptake Inhibitor
+59,dicyclomine hydrochloride,dicyclomine hydrochloride,Anticholinergic
+60,tramadol hydrochloride extended-release,tramadol hydrochloride,Opioid Agonist
+61,amiodarone hydrochloride,amiodarone hydrochloride,Antiarrhythmic
+62,major oral rinse,chlorhexidine gluconate,Decreased Cell Wall Integrity
+63,aminocaproic acid,aminocaproic acid,Antifibrinolytic Agent
+64,almotriptan,almotriptan malate,Serotonin-1b and Serotonin-1d Receptor Agonist
+65,memantine hydrochloride,memantine hydrochloride,N-methyl-D-aspartate Receptor Antagonist
+66,morphine sulfate,morphine sulfate,Opioid Agonist
+67,levocetirizine dihydrochloride,levocetirizine dihydrochloride,Histamine-1 Receptor Antagonist
+68,azithromycin,azithromycin monohydrate,Macrolide Antimicrobial
+69,tizanidine hydrochloride,tizanidine hydrochloride,Central alpha-2 Adrenergic Agonist
+70,tolectin,tolmetin sodium,Nonsteroidal Anti-inflammatory Drug
+71,labetalol hydrochloride,labetalol hydrochloride,beta-Adrenergic Blocker
+72,promethazine hydrochloride,promethazine hydrochloride,Phenothiazine
+73,sildenafil,sildenafil citrate,Phosphodiesterase 5 Inhibitor
+74,flecainide acetate,flecainide acetate,Antiarrhythmic
+75,azithromycin,azithromycin dihydrate,Macrolide Antimicrobial
+76,diclofenac potassium,diclofenac potassium,Nonsteroidal Anti-inflammatory Drug
+77,phenytoin sodium,phenytoin sodium,Anti-epileptic Agent
+78,lurasidone hydrochloride,lurasidone hydrochloride,Atypical Antipsychotic
+79,quetiapine fumarate,quetiapine fumarate,Atypical Antipsychotic
+80,bupropion hydrochloride xl,bupropion hydrochloride,Aminoketone
+81,clorazepate dipotassium,clorazepate dipotassium,Benzodiazepine
+82,rizatriptan benzoate,rizatriptan benzoate,Serotonin-1b and Serotonin-1d Receptor Agonist
+83,ondansetron hydrochloride,ondansetron hydrochloride,Serotonin-3 Receptor Antagonist
+84,fluvoxamine maleate,fluvoxamine maleate,Serotonin Reuptake Inhibitor
+85,pravastatin sodium,pravastatin sodium,HMG-CoA Reductase Inhibitor
+86,nicardipine hydrochloride,nicardipine hydrochloride,Dihydropyridine Calcium Channel Blocker
+87,methadone hydrochloride,methadone hydrochloride,Opioid Agonist
+88,bisoprolol fumarate and hydrochlorothiazide,bisoprolol fumarate,Thiazide Diuretic
+89,doxylamine succinate and pyridoxine hydrochloride,doxylamine succinate,Antihistamine
+90,trihexyphenidyl hydrochloride,trihexyphenidyl hydrochloride,UNKNOWN_CLASS
+91,divalproex sodium,divalproex sodium,Anti-epileptic Agent
+92,hydralazine hydrochloride,hydralazine hydrochloride,Arteriolar Vasodilator
+93,eltrombopag,eltrombopag olamine,Thrombopoietin Receptor Agonist
+94,losartan potassium,losartan potassium,Angiotensin 2 Receptor Blocker
+95,nystatin,nystatin,Polyene Antifungal
+96,fluphenazine hydrochloride,fluphenazine hydrochloride,Phenothiazine
+97,hydroxyzine pamoate,hydroxyzine pamoate,Antihistamine
+98,fetzima,levomilnacipran hydrochloride,UNKNOWN_CLASS
+99,omega-3-acid ethyl esters,omega-3-acid ethyl esters,Omega-3 Fatty Acid
+100,diclofenac sodium,diclofenac sodium,Nonsteroidal Anti-inflammatory Drug
+101,zelvysia,sapropterin dihydrochloride,Phenylalanine Hydroxylase Activator
+102,zolpidem tartrate,zolpidem tartrate,gamma-Aminobutyric Acid A Receptor Positive Modulator
+103,abacavir,abacavir sulfate,Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor
+104,atomoxetine,atomoxetine hydrochloride,Norepinephrine Reuptake Inhibitor
+105,esomeprazole magnesium dr,esomeprazole magnesium dihydrate,Proton Pump Inhibitor
+106,sevelamer carbonate,sevelamer carbonate,Phosphate Binder
+107,phentermine hydrochloride,phentermine hydrochloride,Sympathomimetic Amine Anorectic
+108,aplenzin,bupropion hydrobromide,Aminoketone
+109,trifluoperazine hydrochloride,trifluoperazine hydrochloride,Phenothiazine
+110,oxybutynin chloride,oxybutynin chloride,Cholinergic Muscarinic Antagonist
+111,motofen,atropine sulfate,Anticholinergic
+112,mycophenolic acid,mycophenolate sodium,Antimetabolite Immunosuppressant
+113,ziprasidone hydrochloride,ziprasidone hydrochloride,Atypical Antipsychotic
+114,"brompheniramine maleate, pseudoephedrine hydrochloride and dextromethorphan hydrobromide",brompheniramine maleate,Sigma-1 Agonist
+115,dabigatran etexilate,dabigatran etexilate mesylate,Direct Thrombin Inhibitor
+116,perphenazine and amitriptyline hydrochloride,amitriptyline hydrochloride,Phenothiazine
+117,pantoprazole sodium,pantoprazole sodium,Proton Pump Inhibitor
+118,sotalol hydrochloride,sotalol hydrochloride,Antiarrhythmic
+119,viibryd,vilazodone hydrochloride,UNKNOWN_CLASS
+120,esomeprazole magnesium,esomeprazole magnesium,Proton Pump Inhibitor
+121,abiraterone acetate,abiraterone acetate,Cytochrome P450 17A1 Inhibitor
+122,neomycin sulfate,neomycin sulfate,Aminoglycoside Antibacterial
+123,pioglitazone,pioglitazone hydrochloride,Peroxisome Proliferator Receptor alpha Agonist
+124,velsipity,etrasimod arginine,Sphingosine 1-phosphate Receptor Modulator
+125,montelukast sodium,montelukast sodium,Leukotriene Receptor Antagonist
+126,vardenafil hydrochloride,vardenafil hydrochloride,Phosphodiesterase 5 Inhibitor
+127,tofacitinib,tofacitinib citrate,Janus Kinase Inhibitor
+128,propranolol hydrochloride,propranolol hydrochloride,beta-Adrenergic Blocker
+129,fingolimod,fingolimod hydrochloride,Sphingosine 1-phosphate Receptor Modulator
+130,loperamide hydrochloride,loperamide hydrochloride,Opioid Agonist
+131,alfuzosin hydrochloride,alfuzosin hydrochloride,alpha-Adrenergic Blocker
+132,prazosin hydrochloride,prazosin hydrochloride,alpha-Adrenergic Blocker
+133,clopidogrel,clopidogrel bisulfate,P2Y12 Platelet Inhibitor
+134,rabeprazole sodium,rabeprazole sodium,Proton Pump Inhibitor
+135,creon,pancrelipase amylase,UNKNOWN_CLASS
+136,orphenadrine citrate,orphenadrine citrate,Muscle Relaxant
+137,nortriptyline hydrochloride,nortriptyline hydrochloride,Tricyclic Antidepressant
+138,tenofovir disoproxil fumarate,tenofovir disoproxil fumarate,Hepatitis B Virus Nucleoside Analog Reverse Transcriptase Inhibitor
+139,phendimetrazine tartrate,phendimetrazine tartrate,Sympathomimetic Amine Anorectic
+140,prednisolone sodium phosphate,prednisolone sodium phosphate,Corticosteroid
+141,alendronate sodium,alendronate sodium,Bisphosphonate
+142,sodium citrate and citric acid,anhydrous citric acid,Anti-coagulant
+143,diethylpropion hydrochloride,diethylpropion hydrochloride,Sympathomimetic Amine Anorectic
+144,selegiline hydrochloride,selegiline hydrochloride,Monoamine Oxidase Inhibitor
+145,donepezil hydrochloride,donepezil hydrochloride,Cholinesterase Inhibitor
+146,ropinirole hydrochloride,ropinirole hydrochloride,Nonergot Dopamine Agonist
+147,pramipexole dihydrochloride,pramipexole dihydrochloride,Nonergot Dopamine Agonist
+148,sacubitril and valsartan,sacubitril,Angiotensin 2 Receptor Blocker
+149,demeclocycline hydrochloride,demeclocycline hydrochloride,Tetracycline-class Antimicrobial
+150,colibacillinum,escherichia coli,UNKNOWN_CLASS
+151,bethanechol chloride,bethanechol chloride,Cholinergic Muscarinic Agonist
+152,naproxen sodium,naproxen sodium,Nonsteroidal Anti-inflammatory Drug
+153,premarin,"estrogens, conjugated",Estrogen
+154,terbinafine hydrochloride,terbinafine hydrochloride,Allylamine Antifungal
+155,sunitinib malate,sunitinib malate,Kinase Inhibitor
+156,methimazole,methimazole,Thyroid Hormone Synthesis Inhibitor
+157,brinsupri,brensocatib,UNKNOWN_CLASS
+158,atorvastatin calcium,atorvastatin calcium propylene glycol solvate,HMG-CoA Reductase Inhibitor
+159,oseltamivir phosphate,oseltamivir phosphate,Neuraminidase Inhibitor
+160,citalopram,citalopram hydrobromide,Serotonin Reuptake Inhibitor
+161,oxymorphone hydrochloride,oxymorphone hydrochloride,Opioid Agonist
+162,suprep bowel prep,"magnesium sulfate, unspecified form",Calculi Dissolution Agent
+163,nintedanib,nintedanib esylate,Kinase Inhibitor
+164,ketorolac tromethamine,ketorolac tromethamine,Cyclooxygenase Inhibitor
+165,"carbidopa, levodopa and entacapone",carbidopa,Aromatic Amino Acid
+166,imatinib mesylate,imatinib mesylate,Kinase Inhibitor
+167,bufo rana,bufo bufo cutaneous gland,UNKNOWN_CLASS
+168,moxifloxacin hydrochloride,moxifloxacin hydrochloride,Fluoroquinolone Antibacterial
+169,md gastroview,diatrizoate meglumine,Radiographic Contrast Agent
+170,ninlaro,ixazomib citrate,Proteasome Inhibitor
+171,midazolam hydrochloride,midazolam hydrochloride,Benzodiazepine
+172,codeine sulfate,codeine sulfate,Opioid Agonist
+173,levorphanol tartrate,levorphanol tartrate,Opioid Agonist
+174,loxapine,loxapine succinate,UNKNOWN_CLASS
+175,escitalopram,escitalopram oxalate,Serotonin Reuptake Inhibitor
+176,tamoxifen citrate,tamoxifen citrate,Estrogen Agonist/Antagonist
+177,votrient,pazopanib hydrochloride,Kinase Inhibitor
+178,paroxetine,paroxetine hydrochloride hemihydrate,Serotonin Reuptake Inhibitor
+179,varenicline,varenicline tartrate,Cholinergic Receptor Agonist
+180,solifenacin succinate,solifenacin succinate,Cholinergic Muscarinic Antagonist
+181,theophylline,theophylline anhydrous,Methylxanthine
+182,iclusig,ponatinib hydrochloride,Kinase Inhibitor
+183,chlorpromazine hydrochloride,chlorpromazine hydrochloride,Phenothiazine
+184,frovatriptan succinate,frovatriptan succinate,Serotonin-1b and Serotonin-1d Receptor Agonist
+185,glycopyrrolate oral solution,glycopyrrolate,Anticholinergic
+186,foundayo,orforglipron calcium,UNKNOWN_CLASS
+187,focalin xr,dexmethylphenidate hydrochloride,Central Nervous System Stimulant
+188,hydroxychloroquine sulfate,hydroxychloroquine sulfate,Antimalarial
+189,prochlorperazine maleate,prochlorperazine maleate,Phenothiazine
+190,sutab,magnesium sulfate anhydrous,Calculi Dissolution Agent
+191,streptococcinum,streptococcus pyogenes,UNKNOWN_CLASS
+192,imipramine hydrochloride,imipramine hydrochloride,Tricyclic Antidepressant
+193,benazepril hydrochloride,benazepril hydrochloride,Angiotensin Converting Enzyme Inhibitor
+194,paroxetine,paroxetine hydrochloride,Serotonin Reuptake Inhibitor
+195,granisetron hydrochloride,granisetron hydrochloride,Serotonin-3 Receptor Antagonist
+196,"moxifloxacin hydrochloride tablets, 400 mg",moxifloxacin hydrochloride monohydrate,Fluoroquinolone Antibacterial
+197,cyclobenzaprine hydrochloride,cyclobenzaprine hydrochloride,Muscle Relaxant
+198,pyridostigmine bromide,pyridostigmine bromide,Cholinesterase Inhibitor
+199,fosfomycin tromethamine,fosfomycin tromethamine,UNKNOWN_CLASS
+200,exxua,gepirone hydrochloride,UNKNOWN_CLASS
+201,metoclopramide,metoclopramide hydrochloride,Dopamine-2 Receptor Antagonist
+202,ergocalciferol,ergocalciferol,Provitamin D2 Compound
+203,nebivolol,nebivolol hydrochloride,beta-Adrenergic Blocker
+204,esomeprazole magnesium,esomeprazole magnesium trihydrate,Proton Pump Inhibitor
+205,cefuroxime axetil,cefuroxime axetil,Cephalosporin Antibacterial
+206,karbinal er,carbinoxamine maleate,Histamine-1 Receptor Antagonist
+207,colestid,colestipol hydrochloride,Bile Acid Sequestrant
+208,savella,milnacipran hydrochloride,Serotonin and Norepinephrine Reuptake Inhibitor
+209,radiogardase,ferric ferrocyanide,Decorporation Agent
+210,hydrocodone bitartrate and homatropine methylbromide,homatropine methylbromide,Opioid Agonist
+211,lescol xl,fluvastatin sodium,HMG-CoA Reductase Inhibitor
+212,acamprosate calcium,acamprosate calcium,UNKNOWN_CLASS
+213,cholestyramine,cholestyramine,Bile Acid Sequestrant
+214,methotrexate,methotrexate sodium,Folate Analog Metabolic Inhibitor
+215,morbillinum,measles virus,UNKNOWN_CLASS
+216,tolterodine tartrate,tolterodine tartrate,Cholinergic Muscarinic Antagonist
+217,paroxetine,paroxetine hydrochloride anhydrous,Serotonin Reuptake Inhibitor
+218,amphetamine sulfate,amphetamine sulfate,Central Nervous System Stimulant
+219,amygdalus persica,prunus persica flower,UNKNOWN_CLASS
+220,meperidine hydrochloride,meperidine hydrochloride,Opioid Agonist
+221,gleostine,lomustine,Alkylating Drug
+222,nuedexta,dextromethorphan hydrobromide,Antiarrhythmic
+223,naltrexone hydrochloride,naltrexone hydrochloride,Opioid Antagonist
+224,albuterol,albuterol sulfate,beta2-Adrenergic Agonist
+225,phenoxybenzamine hydrochloride,phenoxybenzamine hydrochloride,alpha-Adrenergic Blocker
+226,fosinopril sodium,fosinopril sodium,Angiotensin Converting Enzyme Inhibitor
+227,miplyffa,arimoclomol citrate,Organic Cation Transporter 2 Inhibitors
+228,penicillin v potassium,penicillin v potassium,Penicillin-class Antibacterial
+229,rasagiline,rasagiline mesylate,Monoamine Oxidase Inhibitor
+230,benzphetamine hydrochloride,benzphetamine hydrochloride,Sympathomimetic Amine Anorectic
+231,ancobon,flucytosine,Nucleoside Analog Antifungal
+232,cevimeline,cevimeline hydrochloride,Cholinergic Receptor Agonist
+233,armour thyroid,sus scrofa thyroid,UNKNOWN_CLASS
+234,methenamine hippurate,methenamine hippurate,UNKNOWN_CLASS
+235,cromolyn sodium oral solution (concentrate),cromolyn sodium,Mast Cell Stabilizer
+236,cyproheptadine hydrochloride,cyproheptadine hydrochloride,UNKNOWN_CLASS
+237,chloroquine phosphate,chloroquine phosphate,Antimalarial
+238,dicloxacillin sodium,dicloxacillin sodium,Penicillin-class Antibacterial
+239,phenelzine sulfate,phenelzine sulfate,Monoamine Oxidase Inhibitor
+240,clomipramine hydrochloride,clomipramine hydrochloride,Tricyclic Antidepressant
+241,sodium polystyrene sulfonate,sodium polystyrene sulfonate,UNKNOWN_CLASS
+242,zejula,niraparib tosylate,Poly(ADP-Ribose) Polymerase Inhibitor
+243,verapamil hydrochloride,verapamil hydrochloride,Calcium Channel Blocker
+244,pentazocine and naloxone,naloxone hydrochloride,Opioid Antagonist
+245,naratriptan,naratriptan hydrochloride,Serotonin-1b and Serotonin-1d Receptor Agonist
+246,acetylcysteine,acetylcysteine,Antidote
+247,reyataz,atazanavir sulfate,Protease Inhibitor
+248,trimipramine,trimipramine maleate,Tricyclic Antidepressant
+249,disopyramide phosphate,disopyramide phosphate,Antiarrhythmic
+250,clemastine fumarate,clemastine fumarate,UNKNOWN_CLASS
+251,prasugrel,prasugrel hydrochloride,P2Y12 Platelet Inhibitor
+252,sevelamer hydrochloride,sevelamer hydrochloride,Phosphate Binder
+253,leucovorin calcium,leucovorin calcium,Folate Analog
+254,prucalopride,prucalopride succinate,Serotonin-4 Receptor Agonist
+255,trimethobenzamide hydrochloride,trimethobenzamide hydrochloride,Antiemetic
+256,erythromycin ethylsuccinate,erythromycin ethylsuccinate,Macrolide Antimicrobial
+257,olpruva,sodium phenylbutyrate,UNKNOWN_CLASS
+258,scemblix,asciminib hydrochloride,UNKNOWN_CLASS
+259,ekterly,sebetralstat,Plasma Kallikrein Inhibitor
+260,nurtec odt,rimegepant sulfate,Calcitonin Gene-related Peptide Receptor Antagonist
+261,tetracycline hydrochloride,tetracycline hydrochloride,Tetracycline-class Antimicrobial
+262,fosamprenavir calcium,fosamprenavir calcium,Protease Inhibitor
+263,trospium chloride,trospium chloride,Cholinergic Muscarinic Antagonist
+264,quinapril,quinapril hydrochloride,Angiotensin Converting Enzyme Inhibitor
+265,hydroxyzine hydrochloride,hydroxyzine hydrochloride,Antihistamine
+266,amantadine hydrochloride,amantadine hydrochloride,Influenza A M2 Protein Inhibitor
+267,fludrocortisone acetate,fludrocortisone acetate,UNKNOWN_CLASS
+268,vancomycin hydrochloride,vancomycin hydrochloride,Glycopeptide Antibacterial
+269,quinidine gluconate,quinidine gluconate,Antiarrhythmic
+270,saxagliptin,saxagliptin hydrochloride,Dipeptidyl Peptidase 4 Inhibitor
+271,spiriva handihaler,tiotropium bromide monohydrate,Anticholinergic
+272,ensacove,ensartinib hydrochloride,UNKNOWN_CLASS
+273,crataegus,hawthorn leaf with flower,UNKNOWN_CLASS
+274,esterified estrogens and methyltestosterone,"estrogens, esterified",Androgen
+275,balsalazide disodium,balsalazide disodium,Aminosalicylate
+276,cefdinir,cefdinir monohydrate,Cephalosporin Antibacterial
+277,zenzedi,dextroamphetamine sulfate,Central Nervous System Stimulant
+278,entecavir,entecavir anhydrous,Hepatitis B Virus Nucleoside Analog Reverse Transcriptase Inhibitor
+279,betaxolol,betaxolol hydrochloride,beta-Adrenergic Blocker
+280,desipramine hydrochloride,desipramine hydrochloride,Tricyclic Antidepressant
+281,risedronate sodium,risedronate sodium hemipentahydrate,Bisphosphonate
+282,galantamine,galantamine hydrobromide,Cholinesterase Inhibitor
+283,cinacalcet,cinacalcet hydrochloride,Calcium-sensing Receptor Agonist
+284,ibandronate sodium,ibandronate sodium,Bisphosphonate
+285,raloxifene hydrochloride,raloxifene hydrochloride,Estrogen Agonist/Antagonist
+286,methenamine mandelate,methenamine mandelate,UNKNOWN_CLASS
+287,colchicine,colchiceine,UNKNOWN_CLASS
+288,ibtrozi,taletrectinib adipate,Kinase Inhibitor
+289,isentress,raltegravir potassium,Human Immunodeficiency Virus Integrase Strand Transfer Inhibitor
+290,trimethoprim,trimethoprim,Dihydrofolate Reductase Inhibitor Antibacterial
+291,alogliptin and pioglitazone,alogliptin benzoate,Dipeptidyl Peptidase 4 Inhibitor
+292,hydrocodone polistirex and chlorpheniramine polistirex extended-release,chlorpheniramine maleate,Histamine-1 Receptor Antagonist
+293,steglatro,ertugliflozin pidolate,UNKNOWN_CLASS
+294,necon,norethindrone and ethinyl estradiol,UNKNOWN_CLASS
+295,tepmetko,tepotinib hydrochloride,Kinase Inhibitor
+296,carbidopa and levodopa,carbidopa hydrate,Aromatic Amino Acid
+297,thioridazine hydrochloride,thioridazine hydrochloride,Phenothiazine
+298,calcitriol,calcitriol,Vitamin D3 Analog
+299,sodium iodide i 123,sodium iodide i-123,UNKNOWN_CLASS
+300,seysara,sarecycline hydrochloride,Tetracycline-class Drug
+301,biktarvy,bictegravir sodium,Hepatitis B Virus Nucleoside Analog Reverse Transcriptase Inhibitor
+302,ivabradine,ivabradine hydrochloride,Hyperpolarization-activated Cyclic Nucleotide-gated Channel Blocker
+303,darifenacin,darifenacin hydrobromide,Cholinergic Muscarinic Antagonist
+304,tiagabine hydrochloride,tiagabine hydrochloride,Anti-epileptic Agent
+305,erlotinib,erlotinib hydrochloride,Kinase Inhibitor
+306,phytonadione,phytonadione,Vitamin K
+307,fesoterodine fumarate,fesoterodine fumarate,UNKNOWN_CLASS
+308,valganciclovir,valganciclovir hydrochloride,Cytomegalovirus Nucleoside Analog DNA Polymerase Inhibitor
+309,promethazine hydrochloride and phenylephrine hydrochloride,phenylephrine hydrochloride,Phenothiazine
+310,methamphetamine hydrochloride,methamphetamine hydrochloride,Amphetamine Anorectic
+311,fentanyl citrate,fentanyl citrate,Opioid Agonist
+312,januvia,sitagliptin phosphate,Dipeptidyl Peptidase 4 Inhibitor
+313,trintellix,vortioxetine hydrobromide,UNKNOWN_CLASS
+314,ambrisentan,ambrisentan,Endothelin Receptor Antagonist
+315,movantik,naloxegol oxalate,Opioid Antagonist
+316,k phos original,"potassium phosphate, monobasic",UNKNOWN_CLASS
+317,caffeine citrate,caffeine citrate,Central Nervous System Stimulant
+318,dexamethasone sodium phosphate,dexamethasone sodium phosphate,Corticosteroid
+319,prochlorperazine edisylate,prochlorperazine edisylate,Phenothiazine
+320,gemcitabine,gemcitabine hydrochloride,Nucleoside Metabolic Inhibitor
+321,methylprednisolone sodium succinate,methylprednisolone sodium succinate,Corticosteroid
+322,atracurium besylate,atracurium besylate,Nondepolarizing Neuromuscular Blocker
+323,ceftaroline fosamil,ceftaroline fosamil,Cephalosporin Antibacterial
+324,doxorubicin hydrochloride,doxorubicin hydrochloride,Anthracycline Topoisomerase Inhibitor
+325,intralipid,soybean oil,Lipid Emulsion
+326,daptomycin in sodium chloride,daptomycin,Lipopeptide Antibacterial
+327,levophed,norepinephrine bitartrate,Catecholamine
+328,heparin sodium,heparin sodium,Anti-coagulant
+329,magnesium sulfate,magnesium sulfate heptahydrate,Calculi Dissolution Agent
+330,cytarabine,cytarabine,Nucleoside Metabolic Inhibitor
+331,levoleucovorin,levoleucovorin calcium,Folate Analog
+332,succinylcholine chloride,succinylcholine chloride,Depolarizing Neuromuscular Blocker
+333,zaltrap,aflibercept,Vascular Endothelial Growth Factor Inhibitor
+334,tigecycline,tigecycline,Tetracycline-class Antibacterial
+335,foscarnet,foscarnet sodium,Pyrophosphate Analog DNA Polymerase Inhibitor
+336,mitomycin,mitomycin,Alkylating Drug
+337,micafungin,micafungin sodium,Echinocandin Antifungal
+338,tobramycin,tobramycin sulfate,Aminoglycoside Antibacterial
+339,calcium chloride,calcium chloride,Blood Coagulation Factor
+340,fludeoxyglucose f18,fludeoxyglucose f-18,Radioactive Diagnostic Agent
+341,cefazolin,cefazolin sodium,Cephalosporin Antibacterial
+342,ampicillin,ampicillin sodium,Penicillin-class Antibacterial
+343,sodium chloride,sodium chloride,Osmotic Laxative
+344,neostigmine methylsulfate,neostigmine methylsulfate,Cholinesterase Inhibitor
+345,irinotecan hydrochloride,irinotecan hydrochloride,Topoisomerase Inhibitor
+346,decitabine,decitabine,Nucleoside Metabolic Inhibitor
+347,sodium nitroprusside,sodium nitroprusside,Vasodilator
+348,columvi,glofitamab,Bispecific CD20-directed CD3 T Cell Engager
+349,sezaby,phenobarbital sodium,UNKNOWN_CLASS
+350,ceftriaxone and dextrose,ceftriaxone sodium,Cephalosporin Antibacterial
+351,potassium chloride in dextrose and sodium chloride,"dextrose, unspecified form",Osmotic Laxative
+352,rocuronium,rocuronium bromide,Nondepolarizing Neuromuscular Blocker
+353,nelarabine,nelarabine,Nucleoside Metabolic Inhibitor
+354,clindamycin,clindamycin phosphate,Lincosamide Antibacterial
+355,mannitol,mannitol,Osmotic Diuretic
+356,meropenem,meropenem,Penem Antibacterial
+357,oxaliplatin,oxaliplatin,Platinum-based Drug
+358,protopam chloride,pralidoxime chloride,Cholinesterase Reactivator
+359,sodium phosphates,"sodium phosphate, dibasic, anhydrous",Osmotic Laxative
+360,esmolol hydrochloride,esmolol hydrochloride,beta-Adrenergic Blocker
+361,ephedrine sulfate,ephedrine sulfate,Norepinephrine Releasing Agent
+362,palonosetron hydrochloride,palonosetron hydrochloride,Serotonin-3 Receptor Antagonist
+363,cefepime,cefepime hydrochloride,Cephalosporin Antibacterial
+364,azacitidine,azacitidine,Nucleoside Metabolic Inhibitor
+365,simulect,basiliximab,Interleukin-2 Receptor Blocking Antibody
+366,vasopressin in 0.9% sodium chloride,vasopressin,Decreased Diuresis
+367,cisatracurium besylate,cisatracurium besylate,Nondepolarizing Neuromuscular Blocker
+368,adrenalin (epinephrine in sodium chloride),epinephrine,Catecholamine
+369,enalaprilat,enalaprilat,Angiotensin Converting Enzyme Inhibitor
+370,calcium gluconate,calcium gluconate monohydrate,Blood Coagulation Factor
+371,dextrose,dextrose monohydrate,UNKNOWN_CLASS
+372,sodium phenylacetate and sodium benzoate,sodium benzoate,Nitrogen Binding Agent
+373,zoledronic acid,zoledronic acid,Bisphosphonate
+374,technetium tc 99m sestamibi,tetrakis(2-methoxyisobutylisocyanide)copper(i) tetrafluoroborate,UNKNOWN_CLASS
+375,flyrcado,flurpiridaz f-18,Radioactive Diagnostic Agent
+376,penicillin g potassium,penicillin g potassium,Penicillin-class Antibacterial
+377,epoprostenol,epoprostenol sodium,Prostacycline Vasodilator
+378,elevidys,delandistrogene moxeparvovec-rokl,UNKNOWN_CLASS
+379,acetazolamide,acetazolamide sodium,Carbonic Anhydrase Inhibitor
+380,nalbuphine hydrochloride,nalbuphine hydrochloride,Opioid Agonist/Antagonist
+381,ketamine hydrochloride,ketamine hydrochloride,General Anesthetic
+382,bacteriostatic water,water,UNKNOWN_CLASS
+383,xerava,eravacycline dihydrochloride,Tetracycline-class Antibacterial
+384,colistimethate sodium,colistimethate sodium,Polymyxin-class Antibacterial
+385,danyelza,naxitamab,Glycolipid Disialoganglioside-directed Antibody
+386,mesna,mesna,Cytoprotective Agent
+387,ultra-technekow v4,technetium tc-99m sodium pertechnetate,UNKNOWN_CLASS
+388,methylene blue,methylene blue,Oxidation-Reduction Agent
+389,cyanokit,hydroxocobalamin,Antidote
+390,tirofiban hydrochloride,tirofiban hydrochloride,Platelet Aggregation Inhibitor
+391,technescan hdp,oxidronate disodium,UNKNOWN_CLASS
+392,arsenic trioxide,arsenic trioxide,UNKNOWN_CLASS
+393,pemetrexed,pemetrexed disodium hemipentahydrate,Folate Analog Metabolic Inhibitor
+394,kimmtrak,tebentafusp,Bispecific gp100 Peptide-HLA-directed CD3 T Cell Engager
+395,pemetrexed,pemetrexed disodium,Folate Analog Metabolic Inhibitor
+396,vivimusta,bendamustine hydrochloride,Alkylating Drug
+397,keytruda,pembrolizumab,Programmed Death Receptor-1 Blocking Antibody
+398,niktimvo,axatilimab,Colony Stimulating Factor-1 Receptor Blocker
+399,octreotide,octreotide acetate,Somatostatin Analog
+400,nypozi txid,filgrastim,Leukocyte Growth Factor
+401,ak-fluor,fluorescein sodium,Diagnostic Dye
+402,elfabrio,pegunigalsidase alfa,UNKNOWN_CLASS
+403,technescan pyp,sodium pyrophosphate,UNKNOWN_CLASS
+404,yervoy,ipilimumab,CTLA-4-directed Blocking Antibody
+405,cidofovir dihydrate,cidofovir,Cytomegalovirus Nucleoside Analog DNA Polymerase Inhibitor
+406,idamycin pfs,idarubicin hydrochloride,Anthracycline Topoisomerase Inhibitor
+407,truxima,rituximab,CD20-directed Cytolytic Antibody
+408,ertapenem,ertapenem sodium,Penem Antibacterial
+409,technescan mag3,betiatide,UNKNOWN_CLASS
+410,amikacin sulfate,amikacin sulfate,Aminoglycoside Antibacterial
+411,tofidence,tocilizumab,Interleukin-6 Receptor Antagonist
+412,dyural 40 kit,"methylprednisolone acetate, lidocaine hydrochloride, bupivacaine hydrochloride, povidine iodine, sodium chloride, isopropyl alcohol",UNKNOWN_CLASS
+413,dobutamine,dobutamine hydrochloride,beta-Adrenergic Agonist
+414,glofil-125,iothalamate sodium i-125,Radioactive Diagnostic Agent
+415,esomeprazole sodium,esomeprazole sodium,Proton Pump Inhibitor
+416,cefotetan,cefotetan disodium,Cephalosporin Antibacterial
+417,herzuma,trastuzumab,HER2/neu Receptor Antagonist
+418,fosaprepitant,fosaprepitant dimeglumine,Substance P/Neurokinin-1 Receptor Antagonist
+419,pulmotech maa,albumin aggregated,UNKNOWN_CLASS
+420,potassium phosphate,dibasic potassium phosphate,Osmotic Laxative
+421,eribulin mesylate,eribulin mesylate,Microtubule Inhibitor
+422,ferabright,ferumoxytol,Parenteral Iron Replacement
+423,docetaxel,docetaxel anhydrous,Microtubule Inhibitor
+424,cefuroxime and dextrose,cefuroxime sodium,Cephalosporin Antibacterial
+425,mitoxantrone,mitoxantrone hydrochloride,Topoisomerase Inhibitor
+426,vecuronium bromide,vecuronium bromide,Nondepolarizing Neuromuscular Blocker
+427,milrinone lactate in 5% dextrose,milrinone lactate,Phosphodiesterase 3 Inhibitor
+428,unituxin,dinutuximab,Glycolipid Disialoganglioside-directed Antibody
+429,diphenhydramine hydrochloride,diphenhydramine hydrochloride,Histamine-1 Receptor Antagonist
+430,thiamine hydrochloride,thiamine hydrochloride,UNKNOWN_CLASS
+431,lmd in dextrose,dextran 40,Plasma Volume Expander
+432,dexrazoxane,dexrazoxane hydrochloride,Cytoprotective Agent
+433,cupric chloride,cupric chloride,UNKNOWN_CLASS
+434,indium in 111 oxyquinoline,indium in-111 oxyquinoline,UNKNOWN_CLASS
+435,epysqli,eculizumab,Complement Inhibitor
+436,volumex,human serum albumin i-131,Radiopharmaceutical Activity
+437,topotecan hydrochloride,topotecan hydrochloride,Topoisomerase Inhibitor
+438,gentamicin sulfate in sodium chloride,gentamicin sulfate,Aminoglycoside Antibacterial
+439,thallous chloride tl 201,thallous chloride tl-201,Radioactive Diagnostic Agent
+440,daunorubicin hydrochloride,daunorubicin hydrochloride,Anthracycline Topoisomerase Inhibitor
+441,precedex,dexmedetomidine hydrochloride,Central alpha-2 Adrenergic Agonist
+442,aminophylline,aminophylline dihydrate,Methylxanthine
+443,dopamine hydrochloride,dopamine hydrochloride,Catecholamine
+444,saphnelo,anifrolumab,Type I Interferon Receptor Antagonist
+445,caspofungin acetate,caspofungin acetate,Echinocandin Antifungal
+446,gallium citrate ga-67,gallium chloride ga-67,UNKNOWN_CLASS
+447,adakveo,crizanlizumab,Selectin Blocker
+448,procainamide hydrochloride,procainamide hydrochloride,Antiarrhythmic
+449,pedmark,sodium thiosulfate,UNKNOWN_CLASS
+450,"piperacillin, tazobactam",piperacillin sodium,Penicillin-class Antibacterial
+451,mylotarg,gemtuzumab ozogamicin,CD33-directed Immunoconjugate
+452,novolog,insulin aspart,Insulin Analog
+453,avastin,bevacizumab,Vascular Endothelial Growth Factor Inhibitor
+454,vincristine sulfate,vincristine sulfate,Vinca Alkaloid
+455,dyural 80-lm,"methylprednisolone acetate, lidocaine hydrochloride, bupivacaine hydrochloride, povidine iodine, isopropyl alcohol",UNKNOWN_CLASS
+456,pamidronate disodium,pamidronate disodium,Bisphosphonate
+457,cefoxitin and dextrose,cefoxitin sodium,Cephalosporin Antibacterial
+458,aztreonam,aztreonam,Monobactam Antibacterial
+459,oxacillin,oxacillin sodium,Penicillin-class Antibacterial
+460,potassium phosphates,"potassium phosphate, dibasic",Osmotic Laxative
+461,ganciclovir,ganciclovir sodium,Cytomegalovirus Nucleoside Analog DNA Polymerase Inhibitor
+462,bleomycin,bleomycin sulfate,Cytoprotective Agent
+463,bizengri,zenocutuzumab,UNKNOWN_CLASS
+464,succinylcholine chloride,succinylcholine chloride dihydrate,Depolarizing Neuromuscular Blocker
+465,kit for the preparation of technetium tc 99m pentetate,pentetic acid,Lead Chelator
+466,polymyxin b,polymyxin b sulfate,Polymyxin-class Antibacterial
+467,lincocin,lincomycin hydrochloride,UNKNOWN_CLASS
+468,glucagon,glucagon,UNKNOWN_CLASS
+469,"phenylephrine hydrochloride injection, solution",phenylephrine,alpha-1 Adrenergic Agonist
+470,solu-cortef,hydrocortisone sodium succinate,Corticosteroid
+471,vpriv,velaglucerase alfa,Hydrolytic Lysosomal Glucocerebroside-specific Enzyme
+472,potassium acetate,potassium acetate,Osmotic Laxative
+473,ammonia n-13,ammonia n-13,Radioactive Diagnostic Agent
+474,zanosar,streptozocin,Alkylating Drug
+475,ultiva,remifentanil hydrochloride,Opioid Agonist
+476,methylergonovine maleate,methylergonovine maleate,Ergot Derivative
+477,tzield,teplizumab,CD3-directed Antibody
+478,elaprase,idursulfase,Hydrolytic Lysosomal Glycosaminoglycan-specific Enzyme
+479,dexlido-m kit,"dexamethasone sodium phosphate, lidocaine hydrochloride, maricaine, povidine iodine",UNKNOWN_CLASS
+480,revonto,dantrolene sodium,Skeletal Muscle Relaxant
+481,as-3,adenine,UNKNOWN_CLASS
+482,nafcillin,nafcillin sodium,Penicillin-class Antibacterial
+483,naglazyme,galsulfase,Hydrolytic Lysosomal Glycosaminoglycan-specific Enzyme
+484,doubledex kit,"dexamethasone sodium phosphate, povidine iodine",UNKNOWN_CLASS
+485,praxbind,idarucizumab,Humanized Monoclonal Antibody Fragment
+486,kadcyla,trastuzumab emtansine,UNKNOWN_CLASS
+487,sodium phosphates,"sodium phosphate, dibasic, heptahydrate",UNKNOWN_CLASS
+488,sodium fluoride f18,sodium fluoride f-18,Radioactive Diagnostic Agent
+489,deferoxamine mesylate,deferoxamine mesylate,Iron Chelator
+490,dexlido kit,"dexamethasone sodium phosphate, lidocaine hydrochloride, povidine iodine",UNKNOWN_CLASS
+491,opdivo,nivolumab,Programmed Death Receptor-1 Blocking Antibody
+492,fosphenytoin,fosphenytoin sodium,Anti-epileptic Agent
+493,manganese,manganese chloride,Paramagnetic Contrast Agent
+494,melphalan hydrochloride,melphalan hydrochloride,UNKNOWN_CLASS
+495,lamzede,velmanase alfa-tycv,UNKNOWN_CLASS
+496,recarbrio,cilastatin,Penem Antibacterial
+497,bridion,sugammadex sodium,gamma-Cyclodextrins
+498,ceretec,technetium tc-99m exametazime,Radioactive Diagnostic Agent
+499,vinorelbine,vinorelbine tartrate,Vinca Alkaloid
+500,dihydroergotamine mesylate,dihydroergotamine mesylate,Ergotamine Derivative
+501,tevimbra,tislelizumab,Programmed Death Receptor-1 Blocking Antibody
+502,fluorouracil,fluorouracil,Nucleoside Metabolic Inhibitor
+503,ibutilide fumarate,ibutilide fumarate,Antiarrhythmic
+504,kit for the preparation of technetium tc 99m medronate,technetium tc-99m medronate,Radioactive Diagnostic Agent
+505,ketorocaine l kit,"ketorolac tromethamine, lidocaine hydrochloride, povidine iodine",UNKNOWN_CLASS
+506,ketorocaine lm kit,"ketorolac tromethamine, lidocaine hydrochloride, bupivacaine hydrochloride, povidine iodine",UNKNOWN_CLASS
+507,selarsdi,ustekinumab-aekn,Interleukin-12 Antagonist
+508,amphotericin b,amphotericin b,Lipid-based Polyene Antifungal
+509,vimizim,elosulfase alfa,Hydrolytic Lysosomal Glycosaminoglycan-specific Enzyme
+510,gallium ga-68 psma-11,gallium ga-68 gozetotide,Radioactive Diagnostic Agent
+511,vizamyl,flutemetamol f-18,Radioactive Diagnostic Agent
+512,pralatrexate,pralatrexate,Folate Analog Metabolic Inhibitor
+513,onpattro,patisiran sodium,Small Interfering RNA
+514,meropenem,meropenem anhydrous,Penem Antibacterial
+515,cyclophosphamide,cyclophosphamide anhydrous,UNKNOWN_CLASS
+516,cyramza,ramucirumab,Vascular Endothelial Growth Factor Receptor 2 Antagonist
+517,photofrin,porfimer sodium,Photoactivated Radical Generator
+518,optiray 350,ioversol,Radiographic Contrast Agent
+519,empliciti,elotuzumab,SLAMF7-directed Immunostimulatory Antibody
+520,sylvant,siltuximab,Interleukin-6 Antagonist
+521,adreview,iobenguane i-123,UNKNOWN_CLASS
+522,andexxa,andexanet alfa,UNKNOWN_CLASS
+523,elzonris,tagraxofusp,CD123 Interaction
+524,sodium nitrite,sodium nitrite,UNKNOWN_CLASS
+525,pemetrexed,pemetrexed disodium heptahydrate,Folate Analog Metabolic Inhibitor
+526,levothyroxine sodium,levothyroxine sodium anhydrous,l-Thyroxine
+527,enoxaparin sodium,enoxaparin sodium,Low Molecular Weight Heparin
+528,viltepso,viltolarsen,UNKNOWN_CLASS
+529,fludarabine phosphate,fludarabine phosphate,Nucleoside Metabolic Inhibitor
+530,lunsumio,mosunetuzumab,UNKNOWN_CLASS
+531,sarclisa,isatuximab,CD38-directed Cytolytic Antibody
+532,regadenoson,regadenoson anhydrous,Pharmacologic Cardiac Stress Test Agent
+533,lumisight,pegulicianine,UNKNOWN_CLASS
+534,chloramphenicol sodium succinate,chloramphenicol sodium succinate,Amphenicol-class Antibacterial
+535,cortrosyn,cosyntropin,Adrenocorticotropic Hormone
+536,infed,iron dextran,Parenteral Iron Replacement
+537,sincalide,sincalide,Cholecystokinin Analog
+538,retacrit,epoetin,Erythropoiesis-stimulating Agent
+539,perjeta,pertuzumab,HER2/neu Receptor Antagonist
+540,tyruko,natalizumab,Integrin Receptor Antagonist
+541,oxytocin,oxytocin,Oxytocic
+542,zemdri (plazomicin),plazomicin,UNKNOWN_CLASS
+543,buprenorphine hydrochloride,buprenorphine hydrochloride,Partial Opioid Agonist
+544,ocrevus,ocrelizumab,CD20-directed Cytolytic Antibody
+545,sufentanil citrate,sufentanil citrate,Opioid Agonist
+546,alymsys,bevacizumab-maly,Vascular Endothelial Growth Factor Inhibitor
+547,neuraceq,florbetaben f-18,Radioactive Diagnostic Agent
+548,imfinzi,durvalumab,Programmed Death Ligand-1 Blocker
+549,ebanga,ansuvimab,Zaire Ebolavirus Glycoprotein-directed Antibody
+550,zynlonta,loncastuximab tesirine,UNKNOWN_CLASS
+551,pentobarbital sodium,pentobarbital sodium,UNKNOWN_CLASS
+552,isoproterenol hydrochloride,isoproterenol hydrochloride,beta-Adrenergic Agonist
+553,infliximab,infliximab,Tumor Necrosis Factor Blocker
+554,acyclovir,acyclovir sodium,Herpes Simplex Virus Nucleoside Analog DNA Polymerase Inhibitor
+555,eraxis,anidulafungin,Echinocandin Antifungal
+556,raxibacumab,raxibacumab,Anthrax Protective Antigen-directed Antibody
+557,lymphir,denileukin diftitox,CD25-directed Cytotoxin
+558,simponi aria,golimumab,Tumor Necrosis Factor Blocker
+559,sodium acetate,sodium acetate,UNKNOWN_CLASS
+560,sodium tetradecyl sulfate,sodium tetradecyl sulfate,UNKNOWN_CLASS
+561,phentolamine mesylate,phentolamine mesylate,alpha-Adrenergic Blocker
+562,fabrazyme,agalsidase beta,Hydrolytic Lysosomal Neutral Glycosphingolipid-specific Enzyme
+563,cefotaxime,cefotaxime sodium,Cephalosporin Antibacterial
+564,aldurazyme,laronidase,Hydrolytic Lysosomal Glycosaminoglycan-specific Enzyme
+565,dotarem,gadoterate meglumine,Gadolinium-based Contrast Agent
+566,babybig,human botulinum neurotoxin a/b immune globulin,Human Immunoglobulin G
+567,ustekinumab,ustekinumab,Interleukin-12 Antagonist
+568,protamine sulfate,protamine sulfate,Heparin Reversal Agent
+569,"sodium citrate blood-pack units, (pl 146 plastic)",trisodium citrate dihydrate,Anti-coagulant
+570,skyrizi,risankizumab-rzaa,UNKNOWN_CLASS
+571,xenpozyme,olipudase alfa,UNKNOWN_CLASS
+572,vyepti,eptinezumab,Calcitonin Gene-related Peptide Antagonist
+573,erythrocin lactobionate,erythromycin lactobionate,Macrolide Antimicrobial
+574,mardex 25 kit,"dexamethasone sodium phosphate, bupivacaine hydrochloride, povidine iodine",UNKNOWN_CLASS
+575,chlorothiazide sodium,chlorothiazide sodium,Thiazide Diuretic
+576,darzalex,daratumumab,CD38-directed Cytolytic Antibody
+577,multiple vitamins (adult) pharmacy bulk package,"ascorbic acid, vitamin a palmitate, cholecalciferol, thiamine hydrochloride, riboflavin 5 phosphate sodium, pyridoxine hydrochloride, niacinamide, dexpanthenol, alpha-tocopherol acetate, vitamin k, folic acid, biotin, cyanocobalamin",UNKNOWN_CLASS
+578,ruby-fill,rubidium chloride rb-82,Radioactive Diagnostic Agent
+579,thymoglobulin,lapine t-lymphocyte immune globulin,Immunoglobulin G
+580,ethacrynate sodium,ethacrynate sodium,Loop Diuretic
+581,elucirem,gadopiclenol,UNKNOWN_CLASS
+582,rybrevant,amivantamab,UNKNOWN_CLASS
+583,cinqair,reslizumab,Interleukin-5 Antagonist
+584,imjudo,tremelimumab,CTLA-4-directed Blocking Antibody
+585,tromethamine,tromethamine,UNKNOWN_CLASS
+586,micafungin,micafungin,Echinocandin Antifungal
+587,lumizyme,alglucosidase alfa,Hydrolytic Lysosomal Glycogen-specific Enzyme
+588,pentamidine isethionate,pentamidine isethionate,Antiprotozoal
+589,orencia,abatacept,Selective T Cell Costimulation Modulator
+590,lemtrada,alemtuzumab,CD52-directed Cytolytic Antibody
+591,terlivaz,terlipressin,Vasopressin Receptor Agonist
+592,defitelio,defibrotide sodium,UNKNOWN_CLASS
+593,cosentyx,secukinumab,Interleukin-17A Antagonist
+594,cellcept,mycophenolate mofetil hydrochloride,Antimetabolite Immunosuppressant
+595,(sotradecol) sodium tetradecyl sulfate,tetradecyl hydrogen sulfate (ester),UNKNOWN_CLASS
+596,neoprofen,ibuprofen lysine,Nonsteroidal Anti-inflammatory Drug
+597,technetium tc 99m medronate,medronic acid,UNKNOWN_CLASS
+598,ellence,epirubicin hydrochloride,Anthracycline Topoisomerase Inhibitor
+599,ziihera,zanidatamab,UNKNOWN_CLASS
+600,mepsevii,vestronidase alfa,Lysosomal beta Glucuronidase
+601,hetastarch in sodium chloride,hetastarch,Plasma Volume Expander
+602,tecentriq,atezolizumab,Programmed Death Receptor-1 Blocking Antibody
+603,vasopressin,"vasopressin, unspecified",UNKNOWN_CLASS
+604,nexviazyme,avalglucosidase alfa,Hydrolytic Lysosomal Glycogen-specific Enzyme
+605,imaavy,nipocalimab,UNKNOWN_CLASS
+606,bivigam,human immunoglobulin g,Human Immunoglobulin G
+607,tremfya,guselkumab,Interleukin-23 Antagonist
+608,omniscan,gadodiamide,Paramagnetic Contrast Agent
+609,pombiliti atga,cipaglucosidase alfa,Hydrolytic Lysosomal Glycogen-specific Enzyme
+610,sodium acetate,sodium acetate anhydrous,Osmotic Laxative
+611,azathioprine sodium,azathioprine sodium,Purine Antimetabolite
+612,cerezyme,imiglucerase,Hydrolytic Lysosomal Glucocerebroside-specific Enzyme
+613,multihance,gadobenate dimeglumine,Gadolinium-based Contrast Agent
+614,loqtorzi,toripalimab,Programmed Death Receptor-1 Blocking Antibody
+615,giapreza,angiotensin ii,Vasoconstrictor
+616,papaverine hydrochloride,papaverine hydrochloride,UNKNOWN_CLASS
+617,penicillin g sodium,penicillin g sodium,Penicillin-class Antibacterial
+618,prostin vr pediatric,alprostadil,Prostaglandin Analog
+619,veopoz,pozelimab,Complement Inhibitor
+620,allopurinol,allopurinol sodium,Xanthine Oxidase Inhibitor
+621,anthim,obiltoxaximab,Anthrax Protective Antigen-directed Antibody
+622,byfavo,remimazolam besylate,UNKNOWN_CLASS
+623,ga-68-dotatoc,edotreotide gallium ga-68,UNKNOWN_CLASS
+624,libtayo,cemiplimab,UNKNOWN_CLASS
+625,omnipaque,iohexol,Radiographic Contrast Agent
+626,evkeeza,evinacumab,Angiopoietin-like 3 Inhibitor
+627,zevtera,ceftobiprole medocaril sodium,Cephalosporin Antibacterial
+628,padcev ejfv,enfortumab vedotin,UNKNOWN_CLASS
+629,valproate sodium,valproate sodium,Anti-epileptic Agent
+630,pylarify,piflufolastat f-18,Radioactive Diagnostic Agent
+631,panhematin,hemin,UNKNOWN_CLASS
+632,inmazeb,atoltivimab,UNKNOWN_CLASS
+633,tivdak,tisotumab vedotin,UNKNOWN_CLASS
+634,enjaymo,sutimlimab,Classical Complement Pathway Inhibitor
+635,dextrose,dextrose,UNKNOWN_CLASS
+636,pemfexy,pemetrexed monohydrate,Folate Analog Metabolic Inhibitor
+637,emrelis,telisotuzumab vedotin,UNKNOWN_CLASS
+638,ferrlecit,sodium ferric gluconate complex,Parenteral Iron Replacement
+639,lynozyfic,linvoseltamab,UNKNOWN_CLASS
+640,rytelo,imetelstat sodium,Oligonucleotide Telomerase Inhibitor
+641,briumvi,ublituximab,CD20-directed Cytolytic Antibody
+642,butorphanol tartrate,butorphanol tartrate,Opioid Agonist/Antagonist
+643,cosela,trilaciclib dihydrochloride,Kinase Inhibitor
+644,cysteine hydrochloride,cysteine hydrochloride,UNKNOWN_CLASS
+645,proleukin,aldesleukin,Lymphocyte Growth Factor
+646,besponsa,inotuzumab ozogamicin,CD22-directed Immunoconjugate
+647,xofigo,radium ra-223 dichloride,Radioactive alpha-Particle Emitting Therapeutic Agent
+648,polifleks,isotonic sodium chloride solution,Osmotic Laxative
+649,leukine,sargramostim,Leukocyte Growth Factor
+650,zerbaxa,ceftolozane sulfate,Cephalosporin Antibacterial
+651,diphenhydramine hydrochloride,diphenhydramine hcl,Histamine-1 Receptor Antagonist
+652,ambelvist,gadoquatrane,UNKNOWN_CLASS
+653,spevigo,spesolimab,Interleukin-36 Receptor Antagonist
+654,methohexital sodium,methohexital sodium,Barbiturate
+655,eovist,gadoxetate disodium,Gadolinium-based Contrast Agent
+656,ceftazidime,ceftazidime,Cephalosporin Antibacterial
+657,gadavist,gadobutrol,Gadolinium-based Contrast Agent
+658,ethyol,amifostine,Cytoprotective Agent
+659,feraheme,ferumoxytol non-stoichiometric magnetite,Parenteral Iron Replacement
+660,clinolipid,olive oil,Lipid Emulsion
+661,pluvicto,lutetium lu-177 vipivotide tetraxetan,Radioligand Therapeutic Agent
+662,korsuva,difelikefalin acetate,Kappa Opioid Receptor Agonist
+663,mtl1 leucoflex,anticoagulant citrate phosphate dextrose solution with as-1,UNKNOWN_CLASS
+664,entyvio,vedolizumab,Integrin Receptor Antagonist
+665,iomervu,iomeprol,Radiographic Contrast Agent
+666,unloxcyt,cosibelimab,Programmed Death Ligand-1 Blocker
+667,acd a,citric acid monohydrate,Anti-coagulant
+668,mircera,methoxy polyethylene glycol-epoetin beta,Erythropoiesis-stimulating Agent
+669,ultravist,iopromide,Radiographic Contrast Agent
+670,hercessi,trastuzumab-strf,HER2/neu Receptor Antagonist
+671,baxdela,delafloxacin meglumine,Fluoroquinolone Antibacterial
+672,avycaz,avibactam sodium,Cephalosporin Antibacterial
+673,pyridoxine hydrochloride,pyridoxine hydrochloride,Vitamin B6 Analog
+674,netspot,68ga-dotatate,UNKNOWN_CLASS
+675,lutathera,lutetium oxodotreotide lu-177,UNKNOWN_CLASS
+676,locametz,gozetotide,UNKNOWN_CLASS
+677,technetium tc 99m sestamibi,technetium tc-99m sestamibi,Radioactive Diagnostic Agent
+678,imuldosa,ustekinumab-srlf,Interleukin-12 Antagonist
+679,rezzayo,rezafungin,Echinocandin Antifungal
+680,dalbavancin,dalbavancin hydrochloride,Lipoglycopeptide Antibacterial
+681,doxycycline hyclate,doxycycline anhydrous,Tetracycline-class Drug
+682,orbactiv,oritavancin,Lipoglycopeptide Antibacterial
+683,kit for the preparation of technetium tc99m pyrophosphate,technetium tc-99m pyrophosphate,Radioactive Diagnostic Agent
+684,kit for the preparation of technetium tc 99m mebrofenin,mebrofenin,UNKNOWN_CLASS
+685,kimyrsa,oritavancin diphosphate,Lipoglycopeptide Antibacterial
+686,chirhostim 40,secretin human,UNKNOWN_CLASS
+687,lincomycin,lincomycin,UNKNOWN_CLASS
+688,yartemlea,narsoplimab,UNKNOWN_CLASS
+689,parsabiv,etelcalcetide hydrochloride,Calcium-sensing Receptor Agonist
+690,omegaven,fish oil,UNKNOWN_CLASS
+691,margenza,margetuximab,HER2/neu Receptor Antagonist
+692,monoferric,ferric derisomaltose,UNKNOWN_CLASS
+693,r-gene,arginine hydrochloride,UNKNOWN_CLASS
+694,tauvid,flortaucipir f-18,UNKNOWN_CLASS
+695,cytalux,pafolacianine sodium,Optical Imaging Agent
+696,epinephrine,epinephrine bitartrate,Catecholamine
+697,gohibic,vilobelimab,UNKNOWN_CLASS
+698,skyrizi,risankizumab,Interleukin-23 Antagonist
+699,fluorescein,fluorescein,Diagnostic Dye
+700,zinplava,bezlotoxumab,UNKNOWN_CLASS
+701,vectibix,panitumumab,Epidermal Growth Factor Receptor Antagonist
+702,vibativ,telavancin hydrochloride,Lipoglycopeptide Antibacterial
+703,dactinomycin,dactinomycin,Actinomycin
+704,edetate calcium disodium,edetate calcium disodium,Anti-coagulant
+705,albuminex,albumin human,Human Serum Albumin
+706,beleodaq,belinostat,Histone Deacetylase Inhibitor
+707,ruconest,conestat alfa,UNKNOWN_CLASS
+708,vyvgart,efgartigimod alfa,Neonatal Fc Receptor Blocker
+709,ropidex,"dexamethasone sodium phosphate, ropivacaine hydrochloride, povidine iodine",UNKNOWN_CLASS
+710,pentamidine isethionate,pentamidine diisethionate,Antiprotozoal
+711,tobramycin,tobramycin,Aminoglycoside Antibacterial
+712,avzivi,bevacizumab-tnjn,Vascular Endothelial Growth Factor Inhibitor
+713,glucagon,glucagon hydrochloride,Antihypoglycemic Agent
+714,jemperli,dostarlimab,Programmed Death Receptor-1 Blocking Antibody
+715,khapzory,levoleucovorin disodium,Folate Analog
+716,poteligeo,mogamulizumab,Chemokine Receptor Type 4 Interaction
+717,fluorodopa f18,fluorodopa f-18,UNKNOWN_CLASS
+718,kepivance,palifermin,Mucocutaneous Epithelial Cell Growth Factor
+719,gadoteridol,gadoteridol,Paramagnetic Contrast Agent
+720,elahere,mirvetuximab soravtansine,UNKNOWN_CLASS
+721,gamifant,emapalumab,Interferon gamma Blocker
+722,vinblastine sulfate,vinblastine sulfate,Vinca Alkaloid
+723,avlayah,tividenofusp alfa,UNKNOWN_CLASS
+724,cerianna,fluoroestradiol f-18,Radioactive Diagnostic Agent
+725,nulibry,fosdenopterin hydrobromide,Cyclic Pyranopterin Monophosphate
+726,rapivab,peramivir,UNKNOWN_CLASS
+727,fetroja,cefiderocol sulfate tosylate,Cephalosporin Antibacterial
+728,dopram,doxapram hydrochloride,Respiratory Stimulant
+729,imipenem and cilastatin,cilastatin sodium,Penem Antibacterial
+730,exondys 51,eteplirsen,Antisense Oligonucleotide
+731,leqembi,lecanemab,Amyloid Beta-directed Antibody
+732,krystexxa,pegloticase,Uric Acid-specific Enzyme
+733,cresemba,isavuconazonium sulfate,Azole Antifungal
+734,amondys 45,casimersen,Antisense Oligonucleotide
+735,nalmefene hydrochloride,nalmefene hydrochloride,Opioid Antagonist
+736,lumason,"distearoylphosphatidylcholine, dl-",Contrast Agent for Ultrasound Imaging
+737,apidra,insulin glulisine,Insulin Analog
+738,trodelvy,sacituzumab govitecan,UNKNOWN_CLASS
+739,vyondys 53,golodirsen,Antisense Oligonucleotide
+740,pramosone cream,hydrocortisone acetate,Corticosteroid
+741,fluocinonide,fluocinonide,Corticosteroid
+742,ciclopirox,ciclopirox,Decreased DNA Replication
+743,urea cream 40%,urea,UNKNOWN_CLASS
+744,halobetasol propionate,halobetasol propionate,Corticosteroid
+745,mupirocin,mupirocin,RNA Synthetase Inhibitor Antibacterial
+746,marbeta 25 kit,"betamethasone sodium phosphate and betamethasone acetate, bupivacaine hydrochloride, povidine iodine",UNKNOWN_CLASS
+747,triamcinolone acetonide,triamcinolone acetonide,Corticosteroid
+748,lidocaine,lidocaine,Amide Local Anesthetic
+749,sodium sulfacetamide,sulfacetamide sodium,Sulfonamide Antibacterial
+750,calcipotriene and betamethasone dipropionate,betamethasone dipropionate,Corticosteroid
+751,mlk f4 kit,"triamcinolone acetonide, lidocaine hydrochloride, bupivacaine hydrochloride, povidine iodine",UNKNOWN_CLASS
+752,salinocaine,benzocaine,Standardized Chemical Allergen
+753,hydrocortisone valerate,hydrocortisone valerate,Corticosteroid
+754,penciclovir,penciclovir,Herpesvirus Nucleoside Analog DNA Polymerase Inhibitor
+755,mlk kit f2,"marcaine, lidocaine, kenalog, povidone iodine",UNKNOWN_CLASS
+756,fluticasone propionate,fluticasone propionate,Corticosteroid
+757,clindamycin phosphate and benzoyl peroxide,benzoyl peroxide,Lincosamide Antibacterial
+758,tazarotene,tazarotene,Retinoid
+759,naftifine hydrochloride,naftifine hydrochloride,Allylamine Antifungal
+760,clobetasol propionate,clobetasol propionate,Corticosteroid
+761,adapalene,adapalene,Retinoid
+762,mupirocin,mupirocin calcium,RNA Synthetase Inhibitor Antibacterial
+763,ssd cream,silver sulfadiazine,Sulfonamide Antibacterial
+764,econazole nitrate,econazole nitrate,Azole Antifungal
+765,fluocinolone acetonide,fluocinolone acetonide,Corticosteroid
+766,anzupgo,delgocitinib,Janus Kinase Inhibitor
+767,betamethasone valerate,betamethasone valerate,Corticosteroid
+768,"desonide ointment, 0.05%",desonide,Corticosteroid
+769,desoximetasone,desoximetasone,Corticosteroid
+770,ammonium lactate,ammonium lactate,Acidifying Activity
+771,inveltys,loteprednol etabonate,Corticosteroid
+772,grafco applicator 45 cm,potassium nitrate,UNKNOWN_CLASS
+773,tachosil,fibrinogen human,Human Blood Coagulation Factor
+774,bupivilog kit,"marcaine, kenalog, povidone iodine",UNKNOWN_CLASS
+775,lidolog kit,"lidocaine, kenalog, povidone iodine",UNKNOWN_CLASS
+776,diclox patch 30ct,diclofenac epolamine,Nonsteroidal Anti-inflammatory Drug
+777,sodium sulfacetamide - sulfur wash,sulfacetamide,Sulfonamide Antibacterial
+778,betalido kit,"betamethasone sodium phosphate, betamethasone acetate, lidocaine, povidine iodine",UNKNOWN_CLASS
+779,numbrino,cocaine hydrochloride,UNKNOWN_CLASS
+780,salicylic acid,salicylic acid,UNKNOWN_CLASS
+781,clotrimazole,clotrimazole,Azole Antifungal
+782,cordran,flurandrenolide,Corticosteroid
+783,vtama,tapinarof,Aryl Hydrocarbon Receptor Agonist
+784,klisyri,tirbanibulin,Microtubule Inhibitor
+785,dyural l kit,"methylprednisolone acetate, lidocaine hydrochloride, povidine iodine, isopropyl alcohol",UNKNOWN_CLASS
+786,tavaborole,tavaborole,Oxaborole Antifungal
+787,silver nitrate,silver nitrate,UNKNOWN_CLASS
+788,hydroquinone 4%,hydroquinone,Melanin Synthesis Inhibitor
+789,mometasone furoate,mometasone furoate,Corticosteroid
+790,multi-specialty kit,"depo-medrol, lidocaine, isopropyl alcohol",UNKNOWN_CLASS
+791,testosterone,testosterone,Androgen
+792,marbeta l kit,"betamethasone sodium phosphate, betamethasone acetate, lidocaine hydrochloride, bupivacaine hydrochloride, povidine iodine, isopropyl alcohol",UNKNOWN_CLASS
+793,collagenase santyl,collagenase clostridium histolyticum,Collagen-specific Enzyme
+794,permethrin,permethrin,Pyrethroid
+795,filsuvez,birch triterpenes,UNKNOWN_CLASS
+796,ciclopirox olamine,ciclopirox olamine,Decreased DNA Replication
+797,calcipotriene,calcipotriene,Vitamin D Analog
+798,zevaskyn,prademagene zamikeracel,UNKNOWN_CLASS
+799,ycanth,cantharidin,UNKNOWN_CLASS
+800,oxistat,oxiconazole nitrate,Azole Antifungal
+801,dyclopro,dyclonine hydrochloride,UNKNOWN_CLASS
+802,luzu,luliconazole,Azole Antifungal
+803,amcinonide,amcinonide,Corticosteroid
+804,halcinonide topical solution,halcinonide,Corticosteroid
+805,monsels solution,ferric subsulfate,Parenteral Iron Replacement
+806,podocon 25,podophyllum resin,UNKNOWN_CLASS
+807,veregen,sinecatechins,UNKNOWN_CLASS
+808,physicians ez use m-pred,"methylprednisolone acetate, bupivacaine hydrochloride, povidone-iodine",UNKNOWN_CLASS
+809,alclometasone dipropionate,alclometasone dipropionate,Corticosteroid
+810,podofilox,podofilox,Decreased Mitosis
+811,pimecrolimus,pimecrolimus,Calcineurin Inhibitor Immunosuppressant
+812,physicians ez use b-12 compliance,physicians ez use b-12 compliance,UNKNOWN_CLASS
+813,ertaczo,sertaconazole nitrate,Azole Antifungal
+814,xelpros,latanoprost,UNKNOWN_CLASS
+815,enoxiluv kit,"enoxaparin sodium, isopropyl alcohol",UNKNOWN_CLASS
+816,blt-25 kit,"bupivacaine hydrochloride, lidocaine hydrochloride, triamcinolone acetonide, povidine iodine",UNKNOWN_CLASS
+817,aklief,trifarotene,Retinoid
+818,frenna ac,aluminum chloride,UNKNOWN_CLASS
+819,selenium sulfide,selenium sulfide,UNKNOWN_CLASS
+820,hydrocortisone butyrate,hydrocortisone butyrate,Corticosteroid
+821,eurax,crotamiton,UNKNOWN_CLASS
+822,bl-c kit,"betamethasone sodium phosphate, betamethasone acetate, lidocaine, iodixanol, povidine iodine",UNKNOWN_CLASS
+823,mycozyl al,tolnaftate,UNKNOWN_CLASS
+824,exelderm,sulconazole nitrate,Azole Antifungal
+825,nexobrid,anacaulase-bcdb,UNKNOWN_CLASS
+826,qbrexza,glycopyrronium tosylate,Anticholinergic
+827,glydo- lidocaine hydrochloride jelly,lidocaine hydrochloride anhydrous,Amide Local Anesthetic
+828,mirvaso,brimonidine tartrate,alpha-Adrenergic Agonist
+829,diflorasone diacetate,diflorasone diacetate,Corticosteroid
+830,sulfamylon,mafenide acetate,Methylated Sulfonamide Antibacterial
+831,clocortolone pivalate,clocortolone pivalate,Corticosteroid
+832,rhofade,oxymetazoline hydrochloride,Vasoconstrictor
+833,adquey,difamilast,UNKNOWN_CLASS
+834,sofdra,sofpironium bromide,UNKNOWN_CLASS
+835,rhopressa,netarsudil mesylate,Rho Kinase Inhibitor
+836,diabecin hr,benzalkonium chloride,Amide Local Anesthetic
+837,vusion,miconazole nitrate,Azole Antifungal
+838,eucrisa,crisaborole,Phosphodiesterase 4 Inhibitor
+839,regranex gel 0.01%,becaplermin,Human Platelet-derived Growth Factor
+840,jublia,efinaconazole,Azole Antifungal
+841,valchlor,mechlorethamine,Alkylating Drug
+842,malathion,malathion,Cholinesterase Inhibitor
+843,hyronan,"sodium hyaluronate, lidocaine, isopropyl alcohol",UNKNOWN_CLASS
+844,marlido kit,"marcaine, lidocaine, povidone iodine",UNKNOWN_CLASS
+845,winlevi,clascoterone,Androgen Receptor Inhibitor
+846,opzelura,ruxolitinib phosphate,Janus Kinase Inhibitor
+847,tryptyr,acoltremon,UNKNOWN_CLASS
+848,ameluz,aminolevulinic acid hydrochloride,Optical Imaging Agent
+849,marlido 25 kit,"lidocaine hydrochloride, bupivacaine hydrochloride, povidine iodine",UNKNOWN_CLASS
+850,testosterone cypionate,testosterone cypionate,Androgen
+851,xeomin,botulinum toxin type a,Acetylcholine Release Inhibitor
+852,erzofri extended-release,paliperidone palmitate,Atypical Antipsychotic
+853,haloperidol decanoate,haloperidol decanoate,Typical Antipsychotic
+854,zyprexa relprevv,olanzapine pamoate,UNKNOWN_CLASS
+855,haloperidol lactate,haloperidol lactate,Typical Antipsychotic
+856,fluphenazine decanoate,fluphenazine decanoate,Phenothiazine
+857,betaloan suik,betamethasone acetate,Corticosteroid
+858,cyanocobalamin,cyanocobalamin,Vitamin B12
+859,methylprednisolone acetate,methylprednisolone acetate,Corticosteroid
+860,carboprost tromethamine,carboprost tromethamine,Prostaglandin Analog
+861,epinephrine professional,epinephrine and isopropyl alcohol,UNKNOWN_CLASS
+862,miacalcin,calcitonin salmon,Calcitonin
+863,fulvestrant,fulvestrant,Estrogen Receptor Antagonist
+864,ziprasidone mesylate,ziprasidone mesylate,Atypical Antipsychotic
+865,humatrope,somatropin,UNKNOWN_CLASS
+866,beyfortus,nirsevimab,Respiratory Syncytial Virus Anti-F Protein Monoclonal Antibody
+867,thyrogen,thyrotropin alfa,Thyroid Stimulating Hormone
+868,enflonsia,clesrovimab,UNKNOWN_CLASS
+869,rylaze,asparaginase,Asparagine-specific Enzyme
+870,nabi-hb,human hepatitis b virus immune globulin,Human Immunoglobulin
+871,aristada,aripiprazole lauroxil,Atypical Antipsychotic
+872,bicillin c-r 900/300,penicillin g benzathine,Penicillin-class Antibacterial
+873,aquasol a,vitamin a palmitate,UNKNOWN_CLASS
+874,revcovi,elapegademase,UNKNOWN_CLASS
+875,hydroxyprogesterone caproate,hydroxyprogesterone caproate,Progestin
+876,myobloc,rimabotulinumtoxinb,Acetylcholine Release Inhibitor
+877,testosterone enanthate,testosterone enanthate,Androgen
+878,purified cortrophin gel,corticotropin,Adrenocorticotropic Hormone
+879,duodote,atropine and pralidoxime chloride,UNKNOWN_CLASS
+880,plegridy,peginterferon beta-1a,Interferon beta
+881,pro-c-dure 6 kit,kenalog,UNKNOWN_CLASS
+882,synagis,palivizumab,Respiratory Syncytial Virus Anti-F Protein Monoclonal Antibody
+883,hydroxocobalamin,hydroxocobalamin acetate,Antidote
+884,letybo,letibotulinumtoxina,Acetylcholine Release Inhibitor
+885,streptomycin,streptomycin sulfate,Aminoglycoside Antibacterial
+886,rethymic,allogeneic thymocyte-depleted thymus tissue-agdc,UNKNOWN_CLASS
+887,omvoh,mirikizumab-mrkz,UNKNOWN_CLASS
+888,adalimumab,adalimumab,Tumor Necrosis Factor Blocker
+889,scandonest 3% plain,mepivacaine hydrochloride,Amide Local Anesthetic
+890,gattex,teduglutide,GLP-2 Analog
+891,imcivree,setmelanotide,Melanocortin 4 Receptor Agonist
+892,sajazir,icatibant acetate,Bradykinin B2 Receptor Antagonist
+893,alhemo,concizumab,Tissue Factor Pathway Inhibitor Antagonist
+894,symlinpen,pramlintide acetate,Amylin Analog
+895,taltz,ixekizumab,Interleukin-17A Antagonist
+896,ganirelix acetate,ganirelix acetate,Gonadotropin Releasing Hormone Receptor Antagonist
+897,scenesse,afamelanotide,UNKNOWN_CLASS
+898,rivfloza,nedosiran sodium,UNKNOWN_CLASS
+899,standardized mite dermatophagoides farinae,dermatophagoides farinae,Standardized Insect Allergenic Extract
+900,fasenra,benralizumab,Interleukin-5 Receptor alpha-directed Cytolytic Antibody
+901,armlupeg,pegfilgrastim,Leukocyte Growth Factor
+902,plerixafor,plerixafor,Hematopoietic Stem Cell Mobilizer
+903,enspryng,satralizumab,UNKNOWN_CLASS
+904,leuprolide acetate,leuprolide acetate,UNKNOWN_CLASS
+905,gonal-f rff redi-ject,follitropin,Gonadotropin
+906,adbry,tralokinumab,Interleukin-13 Antagonist
+907,fondaparinux sodium,fondaparinux sodium,Factor Xa Inhibitor
+908,standardized mite dermatophagoides pteronyssinus,dermatophagoides pteronyssinus,Standardized Insect Allergenic Extract
+909,xolair,omalizumab,Anti-IgE
+910,ajovy,fremanezumab,UNKNOWN_CLASS
+911,elrexfio,elranatamab,UNKNOWN_CLASS
+912,ovidrel,choriogonadotropin alfa,Gonadotropin
+913,cetrotide,cetrorelix acetate,UNKNOWN_CLASS
+914,cimzia,certolizumab pegol,Tumor Necrosis Factor Blocker
+915,simlandi,adalimumab-ryvk,UNKNOWN_CLASS
+916,bimzelx,bimekizumab,UNKNOWN_CLASS
+917,herceptin hylecta,hyaluronidase (human recombinant),Endoglycosidase
+918,praluent,alirocumab,PCSK9 Inhibitor
+919,fragmin,dalteparin sodium,Anti-coagulant
+920,gonal-f,follitropin alfa,UNKNOWN_CLASS
+921,voyxact,sibeprenlimab,UNKNOWN_CLASS
+922,standardized redtop grass,agrostis gigantea pollen,Non-Standardized Pollen Allergenic Extract
+923,dupixent,dupilumab,Interleukin-4 Receptor alpha Antagonist
+924,glatiramer acetate,glatiramer acetate,UNKNOWN_CLASS
+925,rystiggo,rozanolixizumab,Neonatal Fc Receptor Blocker
+926,palynziq,pegvaliase,Phenylalanine Metabolizing Enzyme
+927,standardized sweet vernal grass,anthoxanthum odoratum pollen,Standardized Pollen Allergenic Extract
+928,zilbrysq,zilucoplan,Complement Inhibitor
+929,short ragweed,ambrosia artemisiifolia pollen,Standardized Pollen Allergenic Extract
+930,isosulfan blue,isosulfan blue,UNKNOWN_CLASS
+931,omvoh,mirikizumab,Interleukin-23 Antagonist
+932,piasky,crovalimab,Complement C5 Inhibitor
+933,givlaari,givosiran sodium,Aminolevulinate Synthase 1-directed RNA Interaction
+934,idacio,adalimumab-aacf,UNKNOWN_CLASS
+935,oxlumo,lumasiran sodium,UNKNOWN_CLASS
+936,amvuttra,vutrisiran sodium,Small Interfering RNA
+937,ebglyss,lebrikizumab,Interleukin-13 Antagonist
+938,standardized bermuda grass,cynodon dactylon pollen,Standardized Pollen Allergenic Extract
+939,lerochol,lerodalcibep,UNKNOWN_CLASS
+940,standardized orchard grass,dactylis glomerata pollen,Standardized Pollen Allergenic Extract
+941,standardized meadow fescue grass,lolium pratense pollen,Standardized Pollen Allergenic Extract
+942,tecvayli,teclistamab,UNKNOWN_CLASS
+943,talvey,talquetamab,UNKNOWN_CLASS
+944,ilumya,tildrakizumab,Interleukin-23 Antagonist
+945,vyalev,foscarbidopa,UNKNOWN_CLASS
+946,hemlibra,emicizumab,UNKNOWN_CLASS
+947,nucala,mepolizumab,Interleukin-5 Antagonist
+948,signifor,pasireotide,Somatostatin Analog
+949,aphexda,motixafortide acetate,UNKNOWN_CLASS
+950,qfitlia,fitusiran,Antithrombin-directed RNA Interaction
+951,hympavzi,marstacimab,UNKNOWN_CLASS
+952,tezspire,tezepelumab,Thymic Stromal Lymphopoietin Blocker
+953,kevzara,sarilumab,Interleukin-6 Receptor Antagonist
+954,standardized perennial rye grass,lolium perenne pollen,Standardized Pollen Allergenic Extract
+955,cetrorelix acetate,cetrorelix acetate for injection,UNKNOWN_CLASS
+956,standardized timothy grass,phleum pratense pollen,Standardized Pollen Allergenic Extract
+957,lanreotide acetate,lanreotide acetate,Somatostatin Analog
+958,nplate,romiplostim,Thrombopoietin Receptor Agonist
+959,vyleesi,bremelanotide acetate,Melanocortin Receptor Agonist
+960,standardized kentucky blue (june) grass,poa pratensis pollen,Standardized Pollen Allergenic Extract
+961,rolvedon,eflapegrastim,Leukocyte Growth Factor
+962,keytruda qlex,berahyaluronidase alfa,Endoglycosidase
+963,supprelin la,histrelin acetate,Gonadotropin Releasing Hormone Receptor Agonist
+964,ngenla,somatrogon,Recombinant Human Growth Hormone
+965,camcevi,leuprolide mesylate,Gonadotropin Releasing Hormone Receptor Agonist
+966,terbutaline sulfate,terbutaline sulfate,UNKNOWN_CLASS
+967,reblozyl,luspatercept,Erythroid Maturation Agent
+968,enbrel,etanercept,Tumor Necrosis Factor Blocker
+969,aimovig,erenumab,UNKNOWN_CLASS
+970,redemplo,plozasiran,UNKNOWN_CLASS
+971,exdensur,depemokimab,UNKNOWN_CLASS
+972,zoladex,goserelin acetate,Gonadotropin Releasing Hormone Receptor Agonist
+973,crysvita,burosumab,UNKNOWN_CLASS
+974,apomorphine hydrocloride,apomorphine hydrochloride,Dopaminergic Agonist
+975,nemluvio,nemolizumab,Interleukin-31 Receptor alpha Antagonist
+976,leqvio,inclisiran sodium,UNKNOWN_CLASS
+977,takhzyro,lanadelumab,Plasma Kallikrein Inhibitor
+978,kalbitor,ecallantide,Plasma Kallikrein Inhibitor
+979,humulin r u-500,insulin human,Insulin
+980,ryzneuta,efbemalenograstim alfa,Leukocyte Growth Factor
+981,standardized cat hair,felis catus hair,Standardized Animal Hair Allergenic Extract
+982,kesimpta,ofatumumab,CD20-directed Cytolytic Antibody
+983,kineret,anakinra,Interleukin-1 Receptor Antagonist
+984,zycubo,copper histidinate,UNKNOWN_CLASS
+985,kybella,deoxycholic acid,Cytolytic Agent
+986,empaveli,pegcetacoplan,Complement Inhibitor
+987,lecanemab autoinjector,lecanemab-irmb,Amyloid Beta-directed Antibody
+988,arcalyst,rilonacept,UNKNOWN_CLASS
+989,tryngolza,olezarsen sodium,UNKNOWN_CLASS
+990,zegalogue,dasiglucagon,Antihypoglycemic Agent
+991,dawnzera,donidalorsen sodium,UNKNOWN_CLASS
+992,benlysta,belimumab,B Lymphocyte Stimulator-specific Inhibitor
+993,egrifta sv,tesamorelin,UNKNOWN_CLASS
+994,forzinity,elamipretide hydrochloride,UNKNOWN_CLASS
+995,repatha,evolocumab,PCSK9 Inhibitor
+996,epkinly,epcoritamab,Bispecific CD20-directed CD3 T Cell Engager
+997,teriparatide,teriparatide acetate,Parathyroid Hormone Analog
+998,papzimeos,zopapogene imadenovec,UNKNOWN_CLASS
+999,amphadase,hyaluronidase,Endoglycosidase
+1000,zymfentra,infliximab-dyyb,Tumor Necrosis Factor Blocker
+1001,besremi,ropeginterferon alfa-2b,Interferon alfa-2b
+1002,sogroya,somapacitan,UNKNOWN_CLASS
+1003,skytrofa,lonapegsomatropin,Recombinant Human Growth Hormone
+1004,loargys,pegzilarginase,UNKNOWN_CLASS
+1005,siliq,brodalumab,Interleukin-17 Receptor A Antagonist
+1006,pre-pen,benzylpenicilloyl polylysine,UNKNOWN_CLASS
+1007,strensiq,asfotase alfa,Tissue-nonspecific Alkaline Phosphatase
+1008,andembry,garadacimab,UNKNOWN_CLASS
+1009,hepcludex,bulevirtide acetate,UNKNOWN_CLASS
+1010,relistor,methylnaltrexone bromide,Opioid Antagonist
+1011,yorvipath,palopegteriparatide,Parathyroid Hormone Analog
+1012,dorzolamide and timolol,dorzolamide hydrochloride,Carbonic Anhydrase Inhibitor
+1013,timolol maleate ophthalmic gel forming solution,timolol maleate,beta-Adrenergic Blocker
+1014,tafluprost,tafluprost,Prostaglandin Analog
+1015,omlonti,omidenepag isopropyl,Prostaglandin E2 Receptor Agonist
+1016,neomycin and polymyxin b sulfates and gramicidin,gramicidin,Aminoglycoside Antibacterial
+1017,glostrips,rose bengal sodium,UNKNOWN_CLASS
+1018,tropicamide,tropicamide,Anticholinergic
+1019,bromfenac,bromfenac sodium,Nonsteroidal Anti-inflammatory Drug
+1020,difluprednate,difluprednate,UNKNOWN_CLASS
+1021,bimatoprost,bimatoprost,Prostaglandin Analog
+1022,natacyn,natamycin,Polyene Antimicrobial
+1023,bepotastine besilate,bepotastine besilate,Histamine-1 Receptor Antagonist
+1024,flarex,fluorometholone acetate,Corticosteroid
+1025,flurbiprofen sodium,flurbiprofen sodium,Nonsteroidal Anti-inflammatory Drug
+1026,proparacaine hydrochloride,proparacaine hydrochloride,Local Anesthetic
+1027,cyclogyl,cyclopentolate hydrochloride,UNKNOWN_CLASS
+1028,pilocarpine hydrochloride,pilocarpine hydrochloride,Cholinergic Receptor Agonist
+1029,gatifloxacin ophthalmic solution 0.5%,gatifloxacin anhydrous,Quinolone Antimicrobial
+1030,besivance,besifloxacin,Quinolone Antimicrobial
+1031,bepotastine besilate,bepotastine besylate,Histamine-1 Receptor Antagonist
+1032,fluorescein sodium and benoxinate hydrochloride,benoxinate hydrochloride,Diagnostic Dye
+1033,tetracaine hydrochloride,tetracaine hydrochloride,Ester Local Anesthetic
+1034,carteolol hydrochloride,carteolol hydrochloride,beta-Adrenergic Blocker
+1035,travoprost ophthalmic solution,travoprost,Prostaglandin Analog
+1036,oxervate,cenegermin,Recombinant Human Nerve Growth Factor
+1037,azelastine hydrochloride,azelastine hydrochloride,Histamine-1 Receptor Antagonist
+1038,apraclonidine,apraclonidine hydrochloride,alpha-Adrenergic Agonist
+1039,miebo,perfluorohexyloctane,Semifluorinated Alkane
+1040,cystadrops,cysteamine hydrochloride,Cystine Depleting Agent
+1041,brinzolamide,brinzolamide,Carbonic Anhydrase Inhibitor
+1042,vyzulta,latanoprostene bunod,UNKNOWN_CLASS
+1043,levobunolol hydrochloride,levobunolol hydrochloride,beta-Adrenergic Blocker
+1044,ilevro,nepafenac,Nonsteroidal Anti-inflammatory Drug
+1045,bacitracin zinc and polymyxin b sulfate,bacitracin zinc,Polymyxin-class Antibacterial
+1046,iheezo,chloroprocaine hydrochloride,Ester Local Anesthetic
+1047,epinastine hydrochloride,epinastine hydrochloride,Adrenergic Receptor Agonist
+1048,cyklx,articaine hydrochloride,Amide Local Anesthetic
+1049,miostat,carbachol,Cholinergic Receptor Agonist
+1050,xiidra,lifitegrast,Lymphocyte Function-Associated Antigen-1 Antagonist
+1051,homatropine hydrobromide ophthalmic,homatropine hydrobromide,Cholinergic Muscarinic Antagonist
+1052,goniotaire,hypromellose 2906 (4000 mpa.s),UNKNOWN_CLASS
+1053,phospholine iodide,echothiophate iodide for ophthalmic solution,UNKNOWN_CLASS
+1054,xdemvy,lotilaner,Ectoparasiticide
+1055,membraneblue,trypan blue,Diagnostic Dye
+1056,tissueblue,brilliant blue g,Disclosing Agent
+1057,betadine,povidone-iodine,UNKNOWN_CLASS
+1058,strenza plus,"moxifloxacin 0.5%, bromfenac 0.09%, prednisolone acetate 1%",UNKNOWN_CLASS
+1059,fluorometholone ophthalmic suspension,fluorometholone,Corticosteroid
+1060,lastacaft,alcaftadine,Histamine-1 Receptor Antagonist
+1061,epioxa cross-linking,riboflavin 5-phosphate ophthalmic,UNKNOWN_CLASS
+1062,vizz,aceclidine hydrochloride,Cholinergic Receptor Agonist
+1063,olopatadine hydrochloride,olopatadine hydrochloride,Histamine-1 Receptor Inhibitor
+1064,timolol hemihydrate,timolol anhydrous,beta-Adrenergic Blocker
+1065,ipratropium bromide,ipratropium bromide,Anticholinergic
+1066,ryaltris,mometasone furoate monohydrate,Corticosteroid
+1067,qnasl,beclomethasone dipropionate,Corticosteroid
+1068,mometasone furoate,mometasone,Corticosteroid
+1069,oxygen,oxygen,UNKNOWN_CLASS
+1070,flunisolide,flunisolide,Corticosteroid
+1071,synarel,nafarelin acetate,Gonadotropin Releasing Hormone Receptor Agonist
+1072,omnaris,ciclesonide,UNKNOWN_CLASS
+1073,cardamyst,etripamil,UNKNOWN_CLASS
+1074,spravato,esketamine hydrochloride,UNKNOWN_CLASS
+1075,zavzpret,zavegepant hydrochloride,Calcitonin Gene-related Peptide Receptor Antagonist
+1076,lidocaine hcl 3% and hydrocortisone acetate1% cream,lidocaine hcl and hydrocortisone acetate,UNKNOWN_CLASS
+1077,belladonna and opium,atropa belladonna,UNKNOWN_CLASS
+1078,rebyota,donor human stool,UNKNOWN_CLASS
+1079,terconazole vaginal cream 0.8%,terconazole,Azole Antifungal
+1080,estradiol,estradiol hemihydrate,Estrogen
+1081,trimo san,oxyquinoline sulfate,UNKNOWN_CLASS
+1082,intrarosa,prasterone,UNKNOWN_CLASS
+1083,cervidil,dinoprostone,Prostaglandin Analog
+1084,gynazole 1,butoconazole nitrate,Azole Antifungal
+1085,sevoflurane,sevoflurane,General Anesthetic
+1086,nitrogen,nitrogen,UNKNOWN_CLASS
+1087,levalbuterol,levalbuterol hydrochloride,beta2-Adrenergic Agonist
+1088,terrell,isoflurane,General Anesthetic
+1089,carbon dioxide,carbon dioxide,Radiographic Contrast Agent
+1090,arformoterol tartrate inhalation solution,arformoterol tartrate,beta2-Adrenergic Agonist
+1091,nitrous oxide,nitrous oxide,UNKNOWN_CLASS
+1092,formoterol fumarate,formoterol fumarate,beta2-Adrenergic Agonist
+1093,"xenon, xe-133",xenon xe-133,Inhalation Diagnostic Agent
+1094,arikayce,amikacin,Aminoglycoside Antibacterial
+1095,genosyl,nitric oxide,Vasodilator
+1096,air,air,UNKNOWN_CLASS
+1097,striverdi respimat,olodaterol hydrochloride,beta2-Adrenergic Agonist
+1098,breo ellipta,fluticasone furoate,Corticosteroid
+1099,helium,helium,UNKNOWN_CLASS
+1100,pulmozyme,dornase alfa,Recombinant Human Deoxyribonuclease 1
+1101,anoro ellipta,umeclidinium bromide,Anticholinergic
+1102,spiriva respimat,tiotropium bromide anhydrous,Anticholinergic
+1103,yupelri,revefenacin,Anticholinergic
+1104,duaklir pressair,aclidinium bromide,Anticholinergic
+1105,xenoview,"xenon xe-129, hyperpolarized",Hyperpolarized Contrast Agent
+1106,suprane,desflurane,General Anesthetic
+1107,serevent diskus,salmeterol xinafoate,beta2-Adrenergic Agonist
+1108,provocholine,methacholine chloride,Cholinergic Receptor Agonist
+1109,ohtuvayre,ensifentrine,Phosphodiesterase 3 Inhibitor
+1110,relenza,zanamivir,Neuraminidase Inhibitor
+1111,yutrepia,treprostinil sodium,Prostacycline Vasodilator
+1112,acetic acid,acetic acid,UNKNOWN_CLASS
+1113,xtoro,finafloxacin,Quinolone Antimicrobial
+1114,trubrexa,capsaicin,Amide Local Anesthetic
+1115,salicor,tea-salicylate,UNKNOWN_CLASS
+1116,asenapine,asenapine maleate,Atypical Antipsychotic
+1117,oravig,miconazole,Azole Antifungal
+1118,tubersol,tuberculin purified protein derivative,Skin Test Antigen
+1119,histamine positive skin test control,histamine phosphate,UNKNOWN_CLASS
+1120,spherusol,coccidioides immitis spherule,Skin Test Antigen

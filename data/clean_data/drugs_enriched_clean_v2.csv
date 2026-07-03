@@ -1,0 +1,1503 @@
+drug_id,drug_name,standardized_ingredient,drug_class
+1,calcium lactate,calcium lactate,Calcium
+2,pralsetinib,pralsetinib,Other protein kinase inhibitors
+3,tetraferric tricitrate decahydrate,tetraferric tricitrate decahydrate,UNKNOWN_CLASS
+4,pirfenidone,pirfenidone,Other immunosuppressants
+5,apraclonidine ophthalmic,apraclonidine,Sympathomimetics in glaucoma therapy
+6,olutasidenib,olutasidenib,Isocitrate dehydrogenase (IDH) inhibitors
+7,paclitaxel,paclitaxel,Taxanes
+8,methylprednisolone,methylprednisolone,"Corticosteroids, potent (group III)"
+9,ketorolac,ketorolac,Sympathomimetics excl. antiglaucoma preparations
+10,doxazosin,doxazosin,Alpha-adrenoreceptor antagonists
+11,pegaspargase,pegaspargase,Other antineoplastic agents
+12,sotorasib,sotorasib,Other antineoplastic agents
+13,belladonna,"belladonna extract, USP",Cholinergic Muscarinic Antagonists
+14,maraviroc,maraviroc,Other antivirals
+15,clonidine,clonidine,Imidazoline receptor agonists
+16,droperidol,droperidol,Butyrophenone derivatives
+17,risedronic acid,risedronic acid,Bisphosphonates
+18,brincidofovir,brincidofovir,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+19,regadenoson,regadenoson,Other cardiac preparations
+20,acetaminophen,acetaminophen,Anilides
+21,protriptyline,protriptyline,Non-selective monoamine reuptake inhibitors
+22,irbesartan,irbesartan,"Angiotensin II receptor blockers (ARBs), plain"
+23,lomitapide,lomitapide,Other lipid modifying agents
+24,iron,iron,Iron
+25,norethisterone,norethindrone,"Progestogens and estrogens, sequential preparations"
+26,ferrous sulfate anhydrous,"ferrous sulfate,dried","Iron bivalent, oral preparations"
+27,nintedanib,nintedanib,Other protein kinase inhibitors
+28,dicyclomine,dicyclomine,"Synthetic anticholinergics, esters with tertiary amino group"
+29,silodosin,silodosin,Alpha-adrenoreceptor antagonists
+30,tenofovir disoproxil,tenofovir disoproxil,Nucleoside and nucleotide reverse transcriptase inhibitors
+31,mesoridazine,mesoridazine,Phenothiazines with piperidine structure
+32,pramlintide,pramlintide,"Other blood glucose lowering drugs, excl. insulins"
+33,fluvastatin,fluvastatin,HMG CoA reductase inhibitors
+34,esomeprazole,esomeprazole,Proton pump inhibitors
+35,vardenafil,vardenafil,Drugs used in erectile dysfunction
+36,methohexital,methohexital,"Barbiturates, plain"
+37,meloxicam,meloxicam,Amides
+38,levofloxacin,levofloxacin,Fluoroquinolones
+39,niacin,niacin,Nicotinic acid and derivatives
+40,esterified estrogens,"estrogens, esterified (USP)","Estrogens, Esterified (USP)"
+41,estrone sulfate,estrone sulfate,"Natural and semisynthetic estrogens, plain"
+42,tiludronic acid,tiludronic acid,Bisphosphonates
+43,scopolamine,scopolamine,Other antiemetics
+44,nitroglycerin,nitroglycerin,Organic nitrates
+45,dicloxacillin,dicloxacillin,Beta-lactamase resistant penicillins
+46,darunavir,darunavir,Protease inhibitors
+47,eplerenone,eplerenone,Aldosterone antagonists
+48,torasemide,torsemide,"Sulfonamides, plain"
+49,dulaglutide,dulaglutide,Glucagon-like peptide-1 (GLP-1) analogues
+50,etodolac,etodolac,Acetic acid derivatives and related substances
+51,liraglutide,liraglutide,"Insulins and analogues for injection, long-acting"
+52,metolazone,metolazone,"Sulfonamides, plain"
+53,quinine,quinine,Methanolquinolines
+54,aluminum hydroxide,aluminum hydroxide,Aluminium compounds
+55,ozanimod,ozanimod,Sphingosine-1-phosphate (S1P) receptor modulators
+56,lovastatin,lovastatin,HMG CoA reductase inhibitors
+57,iodide i131,iodide i131,Various thyroid diagnostic radiopharmaceuticals
+58,oxybutynin,oxybutynin,Drugs for urinary frequency and incontinence
+59,daridorexant,daridorexant,Orexin receptor antagonists
+60,fluphenazine,fluphenazine,Phenothiazines with piperazine structure
+61,amiloride,amiloride,Other potassium-sparing agents
+62,amyl nitrite,amyl nitrite,Antidotes
+63,indomethacin,indomethacin,Other cardiac preparations
+64,tolmetin,tolmetin,Acetic acid derivatives and related substances
+65,diroximel fumarate,diroximel fumarate,Other immunosuppressants
+66,tioguanine,thioguanine,Purine analogues
+67,alendronic acid,alendronic acid,Bisphosphonates
+68,ragweed pollen extract,ragweed pollen extract,UNKNOWN_CLASS
+69,calaspargase pegol,calaspargase pegol,Other antineoplastic agents
+70,apomorphine,apomorphine,Drugs used in erectile dysfunction
+71,simvastatin,simvastatin,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+72,atenolol,atenolol,"Beta blocking agents, selective"
+73,brimonidine ophthalmic,brimonidine,Sympathomimetics in glaucoma therapy
+74,atorvastatin,atorvastatin,HMG CoA reductase inhibitors
+75,methoxsalen,methoxsalen,Psoralens for topical use
+76,pexidartinib,pexidartinib,Other protein kinase inhibitors
+77,opicapone,opicapone,Other dopaminergic agents
+78,acebutolol,acebutolol,"Beta blocking agents, selective"
+79,glycopyrronium,glycopyrronium,Antihidrotics
+80,thiethylperazine,thiethylperazine,Phenothiazine derivatives
+81,indapamide,indapamide,"Sulfonamides, plain"
+82,daclizumab,daclizumab,Interleukin inhibitors
+83,levamisole,levamisole,Imidazothiazole derivatives
+84,rasagiline,rasagiline,Monoamine oxidase B inhibitors
+85,amoxapine,amoxapine,Non-selective monoamine reuptake inhibitors
+86,plantago seed,Plantago seed,Plant Extracts
+87,nebivolol,nebivolol,"Beta blocking agents, selective"
+88,dimethyl fumarate,dimethyl fumarate,Other immunosuppressants
+89,dolutegravir,dolutegravir,Integrase inhibitors
+90,nalbuphine,nalbuphine,Morphinan derivatives
+91,doxepin topical,doxepin,Other antipruritics
+92,perindopril,perindopril,ACE inhibitors and calcium channel blockers
+93,spironolactone,spironolactone,Aldosterone antagonists
+94,remdesivir,remdesivir,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+95,encorafenib,encorafenib,B-Raf serine-threonine kinase (BRAF) inhibitors
+96,acetylsalicylic acid,aspirin,Other agents for local oral treatment
+97,isosorbide mononitrate,isosorbide mononitrate,Organic nitrates
+98,alvimopan,alvimopan,Peripheral opioid receptor antagonists
+99,oxaprozin,oxaprozin,Propionic acid derivatives
+100,biperiden,biperiden,Tertiary amines
+101,ticlopidine,ticlopidine,Platelet aggregation inhibitors excl. heparin
+102,benazepril,benazepril,"ACE inhibitors, plain"
+103,lemborexant,lemborexant,Orexin receptor antagonists
+104,patiromer,patiromer,Polymers
+105,amlodipine,amlodipine,Renin-inhibitors
+106,quetiapine,quetiapine,"Diazepines, oxazepines, thiazepines and oxepines"
+107,nimodipine,nimodipine,Dihydropyridine derivatives
+108,morphine,morphine,Natural opium alkaloids
+109,nifedipine,nifedipine,Beta blocking agents and calcium channel blockers
+110,losartan,losartan,"Angiotensin II receptor blockers (ARBs), plain"
+111,warfarin,warfarin,Vitamin K antagonists
+112,ketoconazole,ketoconazole,Anticorticosteroids
+113,nitazoxanide,nitazoxanide,Other agents against amoebiasis and other protozoal diseases
+114,levamlodipine,levamlodipine,Dihydropyridine derivatives
+115,trospium,trospium,Drugs for urinary frequency and incontinence
+116,metoprolol,metoprolol,Beta blocking agents and calcium channel blockers
+117,ribociclib,ribociclib,Cyclin-dependent kinase (CDK) inhibitors
+118,primidone,primidone,Barbiturates and derivatives
+119,trimipramine,trimipramine,Non-selective monoamine reuptake inhibitors
+120,theophylline,theophylline,Xanthines
+121,levonorgestrel,levonorgestrel,"Progestogens and estrogens, sequential preparations"
+122,furazolidone,furazolidone,Other antiinfectives and antiseptics
+123,secobarbital,secobarbital,"Barbiturates, plain"
+124,opium,opium,Antipropulsives
+125,terazosin,terazosin,Alpha-adrenoreceptor antagonists
+126,alfuzosin,alfuzosin,Alpha-adrenoreceptor antagonists
+127,pravastatin,pravastatin,HMG CoA reductase inhibitors
+128,cenobamate,cenobamate,Other antiepileptics
+129,saquinavir,saquinavir,Protease inhibitors
+130,oxytetracycline,oxytetracycline,Antiinfectives and antiseptics for local oral treatment
+131,enalapril,enalapril,"ACE inhibitors, plain"
+132,doxepin,doxepin,Non-selective monoamine reuptake inhibitors
+133,fosphenytoin,fosphenytoin,Hydantoin derivatives
+134,phenelzine,phenelzine,"Monoamine oxidase inhibitors, non-selective"
+135,linezolid,linezolid,Other antibacterials
+136,butabarbital,butabarbital,Barbiturates
+137,topiramate,topiramate,Centrally acting antiobesity products
+138,betaxolol,betaxolol,"Beta blocking agents, selective"
+139,selexipag,selexipag,Platelet aggregation inhibitors excl. heparin
+140,temazepam,temazepam,Benzodiazepine derivatives
+141,pitavastatin,pitavastatin,HMG CoA reductase inhibitors
+142,felodipine,felodipine,Beta blocking agents and calcium channel blockers
+143,triethylenetetramine,trientine,Various alimentary tract and metabolism products
+144,abrocitinib,abrocitinib,"Agents for dermatitis, excluding corticosteroids"
+145,nadolol,nadolol,"Beta blocking agents, non-selective"
+146,lanreotide,lanreotide,Somatostatin and analogues
+147,nabumetone,nabumetone,"Other antiinflammatory and antirheumatic agents, non-steroids"
+148,cefoperazone,cefoperazone,Third-generation cephalosporins
+149,black cohosh,black cohosh extract,Other gynecologicals
+150,isotretinoin,isotretinoin,Retinoids for topical use in acne
+151,macimorelin,macimorelin,Tests for pituitary function
+152,imipramine,imipramine,Non-selective monoamine reuptake inhibitors
+153,chlorothiazide,chlorothiazide,"Thiazides, plain"
+154,methadone,methadone,Drugs used in opioid dependence
+155,tizanidine,tizanidine,Other centrally acting agents
+156,brimonidine topical,brimonidine,Other dermatologicals
+157,disopyramide,disopyramide,"Antiarrhythmics, class Ia"
+158,buprenorphine,buprenorphine,Oripavine derivatives
+159,lisinopril,lisinopril,"ACE inhibitors, plain"
+160,conjugated estrogens,"estrogens, conjugated (USP)","Natural and semisynthetic estrogens, plain"
+161,esketamine,esketamine,Other general anesthetics
+162,darifenacin,darifenacin,Drugs for urinary frequency and incontinence
+163,ethotoin,ethotoin,Hydantoin derivatives
+164,verapamil,verapamil,Phenylalkylamine derivatives
+165,bortezomib,bortezomib,Proteasome inhibitors
+166,etomidate,etomidate,Other general anesthetics
+167,hydrochlorothiazide,hydrochlorothiazide,Renin-inhibitors
+168,interferon beta1b,interferon beta1b,UNKNOWN_CLASS
+169,methyclothiazide,methyclothiazide,"Thiazides, plain"
+170,cefotetan,cefotetan,Second-generation cephalosporins
+171,isocarboxazid,isocarboxazid,"Monoamine oxidase inhibitors, non-selective"
+172,mefenamic acid,mefenamic acid,Fenamates
+173,naproxen,naproxen,Propionic acid derivatives
+174,etidronic acid,etidronic acid,Bisphosphonates
+175,ferrous fumarate,ferrous fumarate,"Iron bivalent, oral preparations"
+176,codeine,codeine,Opium alkaloids and derivatives
+177,eslicarbazepine,eslicarbazepine,Carboxamide derivatives
+178,mifepristone,mifepristone,Progesterone receptor modulators
+179,fenoprofen,fenoprofen,Propionic acid derivatives
+180,sparsentan,sparsentan,Other agents acting on the renin-angiotensin system
+181,brexanolone,brexanolone,Other antidepressants
+182,propranolol,propranolol,"Beta blocking agents, non-selective"
+183,meclofenamic acid,meclofenamic acid,Fenamates
+184,guanethidine,guanethidine,Guanidine derivatives
+185,diazoxide,diazoxide,Thiazide derivatives
+186,idelalisib,idelalisib,Phosphatidylinositol-3-kinase (Pi3K) inhibitors
+187,amitriptyline,amitriptyline,Non-selective monoamine reuptake inhibitors
+188,cefpodoxime,cefpodoxime,Third-generation cephalosporins
+189,linaclotide,linaclotide,Other drugs for constipation
+190,olmesartan,olmesartan,"Angiotensin II receptor blockers (ARBs), plain"
+191,clofarabine,clofarabine,Purine analogues
+192,lorcaserin,lorcaserin,Centrally acting antiobesity products
+193,remifentanil,remifentanil,Opioid anesthetics
+194,exenatide,exenatide,Glucagon-like peptide-1 (GLP-1) analogues
+195,carvedilol,carvedilol,Alpha and beta blocking agents
+196,gatifloxacin,gatifloxacin,Fluoroquinolones
+197,loratadine,loratadine,Other antihistamines for systemic use
+198,baloxavir marboxil,baloxavir marboxil,Other antivirals
+199,darolutamide,darolutamide,Anti-androgens
+200,tecovirimat,tecovirimat,Other antivirals
+201,guanadrel,guanadrel,Guanidines
+202,pentobarbital,pentobarbital,"Barbiturates, plain"
+203,atropine,atropine,"Belladonna alkaloids, tertiary amines"
+204,candesartan,candesartan,"Angiotensin II receptor blockers (ARBs), plain"
+205,bedaquiline,bedaquiline,Other drugs for treatment of tuberculosis
+206,norfloxacin,norfloxacin,Fluoroquinolones
+207,methotrexate,methotrexate,Folic acid analogues
+208,procyclidine,procyclidine,Tertiary amines
+209,tamsulosin,tamsulosin,Alpha-adrenoreceptor antagonists
+210,clidinium,clidinium,Quinuclidinyl Benzilate
+211,mirabegron,mirabegron,Drugs for urinary frequency and incontinence
+212,phenobarbital,phenobarbital,Barbiturates and derivatives
+213,melatonin,melatonin,Melatonin receptor agonists
+214,ramipril,ramipril,"ACE inhibitors, plain"
+215,sucralfate,sucralfate,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+216,bexarotene,bexarotene,Retinoids for cancer treatment
+217,modafinil,modafinil,Centrally acting sympathomimetics
+218,omadacycline,omadacycline,Tetracyclines
+219,dipyridamole,dipyridamole,Platelet aggregation inhibitors excl. heparin
+220,albiglutide,albiglutide,Glucagon-like peptide-1 (GLP-1) analogues
+221,piroxicam,piroxicam,Oxicams
+222,clevidipine,clevidipine,Dihydropyridine derivatives
+223,reserpine,reserpine,Rauwolfia alkaloids
+224,nafcillin,nafcillin,Beta-lactamase resistant penicillins
+225,moexipril,moexipril,"ACE inhibitors, plain"
+226,procainamide,procainamide,"Antiarrhythmics, class Ia"
+227,flurbiprofen,flurbiprofen,Propionic acid derivatives
+228,digoxin,digoxin,Digitalis glycosides
+229,diphenhydramine,diphenhydramine,Propionic acid derivatives
+230,tacrolimus,tacrolimus,"Agents for dermatitis, excluding corticosteroids"
+231,isradipine,isradipine,Dihydropyridine derivatives
+232,chlorpromazine,chlorpromazine,Phenothiazines with aliphatic side-chain
+233,verteporfin,verteporfin,Antineovascularisation agents
+234,thiopental,thiopental,"Barbiturates, plain"
+235,hyoscyamine,hyoscyamine,"Belladonna alkaloids, tertiary amines"
+236,nisoldipine,nisoldipine,Dihydropyridine derivatives
+237,minoxidil,minoxidil,Pyrimidine derivatives
+238,methyldopa,methyldopa,Methyldopa
+239,etacrynic acid,ethacrynic acid,Aryloxyacetic acid derivatives
+240,prochlorperazine,prochlorperazine,Phenothiazines with piperazine structure
+241,deutetrabenazine,deutetrabenazine,Other nervous system drugs
+242,brivaracetam,brivaracetam,Other antiepileptics
+243,quinapril,quinapril,"ACE inhibitors, plain"
+244,disulfiram,disulfiram,Drugs used in alcohol dependence
+245,vosoritide,vosoritide,Other drugs affecting bone structure and mineralization
+246,doxycycline,doxycycline,Antiinfectives and antiseptics for local oral treatment
+247,tegaserod,tegaserod,Other drugs for constipation
+248,trifluoperazine,trifluoperazine,Phenothiazines with piperazine structure
+249,chlorthalidone,chlorthalidone,"Sulfonamides, plain"
+250,telmisartan,telmisartan,"Angiotensin II receptor blockers (ARBs), plain"
+251,tolterodine,tolterodine,Drugs for urinary frequency and incontinence
+252,semaglutide,semaglutide,Glucagon-like peptide-1 (GLP-1) analogues
+253,sapropterin,sapropterin,Various alimentary tract and metabolism products
+254,tranylcypromine,tranylcypromine,"Monoamine oxidase inhibitors, non-selective"
+255,dimenhydrinate,dimenhydrinate,Aminoalkyl ethers
+256,clomipramine,clomipramine,Non-selective monoamine reuptake inhibitors
+257,teriflunomide,teriflunomide,Dihydroorotate dehydrogenase (DHODH) inhibitors
+258,safinamide,safinamide,Monoamine oxidase B inhibitors
+259,naltrexone,naltrexone,Centrally acting antiobesity products
+260,cannabidiol,cannabidiol,Other antiepileptics
+261,trandolapril,trandolapril,ACE inhibitors and calcium channel blockers
+262,butorphanol,butorphanol,Morphinan derivatives
+263,lanthanum carbonate,lanthanum carbonate,Drugs for treatment of hyperkalemia and hyperphosphatemia
+264,valsartan,valsartan,"Angiotensin II receptor blockers (ARBs), plain"
+265,tirzepatide,tirzepatide,"Other blood glucose lowering drugs, excl. insulins"
+266,levorphanol,levorphanol,Levorphanol
+267,clarithromycin,clarithromycin,Macrolides
+268,pentazocine,pentazocine,Benzomorphan derivatives
+269,magnesium salicylate,magnesium salicylate,Salicylates
+270,prazosin,prazosin,Alpha-adrenoreceptor antagonists
+271,zidovudine,zidovudine,Nucleoside and nucleotide reverse transcriptase inhibitors
+272,lumateperone,lumateperone,Butyrophenone derivatives
+273,brentuximab vedotin,brentuximab vedotin,Other monoclonal antibodies and antibody drug conjugates
+274,phenoxybenzamine,phenoxybenzamine,Other peripheral vasodilators
+275,itraconazole,itraconazole,Triazole and tetrazole derivatives
+276,trihexyphenidyl,trihexyphenidyl,Tertiary amines
+277,isosorbide dinitrate,isosorbide dinitrate,Organic nitrates
+278,liotrix,liotrix,UNKNOWN_CLASS
+279,labetalol,labetalol,Alpha and beta blocking agents
+280,kava,kava preparation,GABA B Receptor Interactions
+281,abacavir,abacavir,Nucleoside and nucleotide reverse transcriptase inhibitors
+282,interferon beta1a,interferon beta1a,UNKNOWN_CLASS
+283,alfentanil,alfentanil,Opioid anesthetics
+284,metyrosine,metyrosine,Tyrosine hydroxylase inhibitors
+285,meclizine,meclizine,Piperazine derivatives
+286,ciprofloxacin,ciprofloxacin,Fluoroquinolones
+287,ibandronate,ibandronate,Bisphosphonates
+288,lacosamide,lacosamide,Other antiepileptics
+289,pindolol,pindolol,"Beta blocking agents, non-selective"
+290,anthoxanthum odoratum pollen,sweet vernal grass pollen extract,UNKNOWN_CLASS
+291,sildenafil,sildenafil,Drugs used in erectile dysfunction
+292,tamoxifen,tamoxifen,Anti-estrogens
+293,rosuvastatin,rosuvastatin,HMG CoA reductase inhibitors
+294,nicardipine,nicardipine,Dihydropyridine derivatives
+295,caffeine,caffeine,Tests for gastric secretion
+296,methscopolamine,methscopolamine,"Belladonna alkaloids, semisynthetic, quaternary ammonium compounds"
+297,phentolamine,phentolamine,Imidazoline derivatives
+298,epirubicin,epirubicin,Anthracyclines and related substances
+299,nortriptyline,nortriptyline,Non-selective monoamine reuptake inhibitors
+300,fenoldopam,fenoldopam,Adrenergic and dopaminergic agents
+301,estazolam,estazolam,Benzodiazepine derivatives
+302,desmopressin,desmopressin,Vasopressin and analogues
+303,selegiline,selegiline,Monoamine oxidase B inhibitors
+304,oxymorphone,oxymorphone,Natural opium alkaloids
+305,lixisenatide,lixisenatide,Glucagon-like peptide-1 (GLP-1) analogues
+306,penicillamine,penicillamine,Penicillamine and similar agents
+307,ketoprofen,ketoprofen,Propionic acid derivatives
+308,perphenazine,perphenazine,Phenothiazines with piperazine structure
+309,deferasirox,deferasirox,Iron chelating agents
+310,promethazine,promethazine,Antihistamines for topical use
+311,timolol,timolol,"Beta blocking agents, non-selective"
+312,triamterene,triamterene,Other potassium-sparing agents
+313,mercaptopurine,mercaptopurine,Purine analogues
+314,asparaginase erwinia chrysanthemi,asparaginase Erwinia chrysanthemi,Other antineoplastic agents
+315,mepenzolate,mepenzolate,"Synthetic anticholinergics, quaternary ammonium compounds"
+316,acitretin,acitretin,Retinoids for treatment of psoriasis
+317,nitroprusside,nitroprusside,Nitroferricyanide derivatives
+318,phenytoin,phenytoin,Hydantoin derivatives
+319,propantheline,propantheline,"Synthetic anticholinergics, quaternary ammonium compounds"
+320,hydralazine,hydralazine,Hydrazinophthalazine derivatives
+321,furosemide,furosemide,"Sulfonamides, plain"
+322,fosinopril,fosinopril,"ACE inhibitors, plain"
+323,cimetidine,cimetidine,H2-receptor antagonists
+324,dofetilide,dofetilide,"Antiarrhythmics, class III"
+325,ferric maltol,ferric maltol,"Iron trivalent, oral preparations"
+326,peginterferon beta1a,peginterferon beta1a,UNKNOWN_CLASS
+327,oxacillin,oxacillin,Beta-lactamase resistant penicillins
+328,octreotide,octreotide,Somatostatin and analogues
+329,didanosine,didanosine,Nucleoside and nucleotide reverse transcriptase inhibitors
+330,ivermectin,ivermectin,Other dermatologicals
+331,ibuprofen,ibuprofen,Other cardiac preparations
+332,meperidine,meperidine,Phenylpiperidine derivatives
+333,estramustine,estramustine,Other antineoplastic agents
+334,roflumilast,roflumilast,Other antipsoriatics for topical use
+335,diclofenac,diclofenac,Other dermatologicals
+336,repaglinide,repaglinide,"Other blood glucose lowering drugs, excl. insulins"
+337,ferrous gluconate,ferrous gluconate,"Iron bivalent, oral preparations"
+338,methylphenobarbital,mephobarbital,Barbiturates and derivatives
+339,guanabenz,guanabenz,Guanabenz
+340,miltefosine,miltefosine,Other agents against leishmaniasis and trypanosomiasis
+341,stiripentol,stiripentol,Other antiepileptics
+342,bumetanide,bumetanide,"Sulfonamides, plain"
+343,tolevamer,tolevamer,UNKNOWN_CLASS
+344,tetracycline,tetracycline,Antiinfectives and antiseptics for local oral treatment
+345,thioridazine,thioridazine,Phenothiazines with piperidine structure
+346,adenosine,adenosine,Other cardiac preparations
+347,desipramine,desipramine,Non-selective monoamine reuptake inhibitors
+348,esmolol,esmolol,"Beta blocking agents, selective"
+349,zinc acetate,zinc acetate,Various alimentary tract and metabolism products
+350,sufentanil,sufentanil,Opioid anesthetics
+351,procarbazine,procarbazine,Methylhydrazines
+352,sotalol,sotalol,"Beta blocking agents, non-selective"
+353,benzatropine,benztropine,Ethers of tropine or tropine derivatives
+354,cariprazine,cariprazine,Other antipsychotics
+355,fomepizole,fomepizole,Antidotes
+356,penbutolol,penbutolol,"Beta blocking agents, non-selective"
+357,isoniazid,isoniazid,Hydrazides
+358,vibrio cholerae cvd 103hgr strain live antigen live,vibrio cholerae cvd 103hgr strain live antigen live,Increased Antibody Activity
+359,amobarbital,amobarbital,"Barbiturates, plain"
+360,azilsartan medoxomil,azilsartan medoxomil,"Angiotensin II receptor blockers (ARBs), plain"
+361,loracarbef,loracarbef,Second-generation cephalosporins
+362,salsalate,salsalate,Salicylic acid and derivatives
+363,levothyroxine,levothyroxine,Thyroid hormones
+364,demeclocycline,demeclocycline,Tetracycline and derivatives
+365,eprosartan,eprosartan,"Angiotensin II receptor blockers (ARBs), plain"
+366,ethionamide,ethionamide,Thiocarbamide derivatives
+367,armodafinil,armodafinil,Centrally acting sympathomimetics
+368,ampicillin,ampicillin,Penicillins with extended spectrum
+369,captopril,captopril,"ACE inhibitors, plain"
+370,erythromycin,erythromycin,Antiinfectives for treatment of acne
+371,clonazepam,clonazepam,Benzodiazepine derivatives
+372,sulindac,sulindac,Acetic acid derivatives and related substances
+373,etravirine,etravirine,Non-nucleoside reverse transcriptase inhibitors
+374,estradiol,estradiol,"Natural and semisynthetic estrogens, plain"
+375,bisoprolol,bisoprolol,"Beta blocking agents, selective"
+376,tolcapone,tolcapone,Other dopaminergic agents
+377,olopatadine nasal,olopatadine,"Antiallergic agents, excl. corticosteroids"
+378,chlorzoxazone,chlorzoxazone,"Oxazol, thiazine, and triazine derivatives"
+379,pramipexole,pramipexole,Dopamine agonists
+380,methocarbamol,methocarbamol,Carbamic acid esters
+381,phendimetrazine,phendimetrazine,Morpholines
+382,pemigatinib,pemigatinib,Fibroblast growth factor receptor (FGFR) tyrosine kinase inhibitors
+383,sorafenib,sorafenib,Other protein kinase inhibitors
+384,boceprevir,boceprevir,Antivirals for treatment of HCV infections
+385,calcium carbonate,calcium carbonate,Calcium compounds
+386,molindone,molindone,Indole derivatives
+387,metamfetamine,methamphetamine,Centrally acting sympathomimetics
+388,ibrexafungerp,ibrexafungerp,Other antimycotics for systemic use
+389,insulin human,"insulin, regular, human","Insulins and analogues for injection, fast-acting"
+390,bromocriptine,bromocriptine,Prolactine inhibitors
+391,gabapentin,gabapentin,Gabapentinoids
+392,lefamulin,lefamulin,Other antibacterials
+393,fenfluramine,fenfluramine,Centrally acting antiobesity products
+394,clorazepic acid,clorazepic acid,Clorazepate Dipotassium
+395,chlordiazepoxide,chlordiazepoxide,Benzodiazepine derivatives
+396,telaprevir,telaprevir,Antivirals for treatment of HCV infections
+397,ibrutinib,ibrutinib,Bruton's tyrosine kinase (BTK) inhibitors
+398,fesoterodine,fesoterodine,Drugs for urinary frequency and incontinence
+399,hydroxychloroquine,hydroxychloroquine,Aminoquinolines
+400,cetirizine,cetirizine,Piperazine derivatives
+401,zolmitriptan,zolmitriptan,Selective serotonin (5HT1) agonists
+402,metronidazole topical,metronidazole,Antiinfectives and antiseptics for local oral treatment
+403,paclitaxel proteinbound,paclitaxel proteinbound,Taxanes
+404,naldemedine,naldemedine,Peripheral opioid receptor antagonists
+405,levocetirizine,levocetirizine,Piperazine derivatives
+406,chloroquine,chloroquine,Biguanides
+407,tapentadol,tapentadol,Other opioids
+408,ganaxolone,ganaxolone,Other antiepileptics
+409,indinavir,indinavir,Protease inhibitors
+410,tepotinib,tepotinib,Cellular-mesenchymal-epithelial transition factor (c-MET) kinase inhibitors
+411,asenapine,asenapine,"Diazepines, oxazepines, thiazepines and oxepines"
+412,oxycodone,oxycodone,Natural opium alkaloids
+413,flurazepam,flurazepam,Benzodiazepine derivatives
+414,oteseconazole,oteseconazole,Triazole and tetrazole derivatives
+415,dihydroergotamine,dihydroergotamine,Ergot alkaloids
+416,escitalopram,escitalopram,Selective serotonin reuptake inhibitors
+417,risperidone,risperidone,Other antipsychotics
+418,selumetinib,selumetinib,Mitogen-activated protein kinase (MEK) inhibitors
+419,paliperidone,paliperidone,Other antipsychotics
+420,midazolam,midazolam,Benzodiazepine derivatives
+421,trazodone,trazodone,Other antidepressants
+422,avapritinib,avapritinib,Other protein kinase inhibitors
+423,progesterone,progesterone,Pregnen (4) derivatives
+424,nilotinib,nilotinib,BCR-ABL tyrosine kinase inhibitors
+425,vasopressin,vasopressin (USP),Vasopressins
+426,orphenadrine,orphenadrine,Ethers chemically close to antihistamines
+427,larotrectinib,larotrectinib,Other protein kinase inhibitors
+428,valganciclovir,valganciclovir,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+429,calcium citrate,calcium citrate,Calcium
+430,sitagliptin,sitagliptin,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+431,rotigotine,rotigotine,Dopamine agonists
+432,varenicline,varenicline,Drugs used in nicotine dependence
+433,elvitegravir,elvitegravir,Integrase inhibitors
+434,nitisinone,nitisinone,Various alimentary tract and metabolism products
+435,atovaquone,atovaquone,Biguanides
+436,ergotamine,ergotamine,Ergot alkaloids
+437,venlafaxine,venlafaxine,Other antidepressants
+438,lofexidine,lofexidine,Drugs used in opioid dependence
+439,metaxalone,metaxalone,Oxazolidinones
+440,insulin glulisine,"insulin glulisine, human","Insulins and analogues for injection, fast-acting"
+441,cobimetinib,cobimetinib,Mitogen-activated protein kinase (MEK) inhibitors
+442,nefazodone,nefazodone,Other antidepressants
+443,fedratinib,fedratinib,Janus-associated kinase (JAK) inhibitors
+444,fexofenadine,fexofenadine,Other antihistamines for systemic use
+445,insulin degludec,insulin degludec,"Insulins and analogues for injection, long-acting"
+446,ripretinib,ripretinib,Other protein kinase inhibitors
+447,terfenadine,terfenadine,Other antihistamines for systemic use
+448,chlorpheniramine,chlorpheniramine,Substituted alkylamines
+449,acalabrutinib,acalabrutinib,Bruton's tyrosine kinase (BTK) inhibitors
+450,ketamine,ketamine,Other general anesthetics
+451,thalidomide,thalidomide,Other immunosuppressants
+452,albendazole,albendazole,Benzimidazole derivatives
+453,avacopan,avacopan,Complement inhibitors
+454,tolvaptan,tolvaptan,Vasopressin antagonists
+455,daprodustat,daprodustat,Other antianemic preparations
+456,deflazacort,deflazacort,Glucocorticoids
+457,entrectinib,entrectinib,Other protein kinase inhibitors
+458,lorazepam,lorazepam,Benzodiazepine derivatives
+459,methylnaltrexone,methylnaltrexone,Peripheral opioid receptor antagonists
+460,insulin detemir,insulin detemir,"Insulins and analogues for injection, long-acting"
+461,sunitinib,sunitinib,Other protein kinase inhibitors
+462,cisapride,cisapride,Propulsives
+463,ranolazine,ranolazine,Other cardiac preparations
+464,nabilone,nabilone,Other antiemetics
+465,naloxegol,naloxegol,Peripheral opioid receptor antagonists
+466,cinacalcet,cinacalcet,Other anti-parathyroid agents
+467,levoketoconazole,levoketoconazole,Anticorticosteroids
+468,alectinib,alectinib,Anaplastic lymphoma kinase (ALK) inhibitors
+469,thiothixene,thiothixene,Thioxanthene derivatives
+470,hydroxyprogesterone caproate,hydroxyprogesterone caproate (USP),Pregnen (4) derivatives
+471,posaconazole,posaconazole,Triazole and tetrazole derivatives
+472,phenylbutyric acid,4-phenylbutyric acid,Phenylbutyrates
+473,praziquantel,praziquantel,Quinoline derivatives and related substances
+474,asciminib,asciminib,BCR-ABL tyrosine kinase inhibitors
+475,vigabatrin,vigabatrin,Fatty acid derivatives
+476,temsirolimus,temsirolimus,Mammalian target of rapamycin (mTOR) kinase inhibitors
+477,atazanavir,atazanavir,Protease inhibitors
+478,budesonide,budesonide,Corticosteroids acting locally
+479,ospemifene,ospemifene,Selective estrogen receptor modulators
+480,difelikefalin,difelikefalin,Other therapeutic products
+481,glipizide,glipizide,Sulfonylureas
+482,olanzapine,olanzapine,"Diazepines, oxazepines, thiazepines and oxepines"
+483,carbinoxamine,carbinoxamine,Aminoalkyl ethers
+484,buspirone,buspirone,Azaspirodecanedione derivatives
+485,abiraterone,abiraterone,Other hormone antagonists and related agents
+486,cefditoren,cefditoren,Third-generation cephalosporins
+487,remimazolam,remimazolam,Benzodiazepine derivatives
+488,insulin human inhalation rapid acting,insulin human inhalation rapid acting,UNKNOWN_CLASS
+489,olaparib,olaparib,Poly (ADP-ribose) polymerase (PARP) inhibitors
+490,tetrabenazine,tetrabenazine,Other nervous system drugs
+491,mipomersen,mipomersen,Other lipid modifying agents
+492,mobocertinib,mobocertinib,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors
+493,ivosidenib,ivosidenib,Isocitrate dehydrogenase (IDH) inhibitors
+494,voriconazole,voriconazole,Triazole and tetrazole derivatives
+495,lithium carbonate,lithium carbonate,Lithium Carbonate
+496,toremifene,toremifene,Anti-estrogens
+497,infigratinib,infigratinib,Fibroblast growth factor receptor (FGFR) tyrosine kinase inhibitors
+498,colchicine,colchicine,Preparations with no effect on uric acid metabolism
+499,diazepam,diazepam,Benzodiazepine derivatives
+500,mirtazapine,mirtazapine,Other antidepressants
+501,glyburide,glyburide,Sulfonylureas
+502,copanlisib,copanlisib,Phosphatidylinositol-3-kinase (Pi3K) inhibitors
+503,abemaciclib,abemaciclib,Cyclin-dependent kinase (CDK) inhibitors
+504,st johns wort,St. John's wort extract,Other antidepressants
+505,lamotrigine,lamotrigine,Other antiepileptics
+506,insulin human zinc,insulin human zinc,"Insulin, Long-Acting"
+507,lurasidone,lurasidone,Indole derivatives
+508,ceftibuten,ceftibuten,Third-generation cephalosporins
+509,ethosuximide,ethosuximide,Succinimide derivatives
+510,vilazodone,vilazodone,Other antidepressants
+511,trabectedin,trabectedin,Other plant alkaloids and natural products
+512,alogliptin,alogliptin,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+513,pergolide,pergolide,Dopamine agonists
+514,aripiprazole,aripiprazole,Other antipsychotics
+515,tramadol,tramadol,Other opioids
+516,iloperidone,iloperidone,Other antipsychotics
+517,ezogabine,ezogabine,Other antiepileptics
+518,triazolam,triazolam,Benzodiazepine derivatives
+519,guanfacine,guanfacine,Imidazoline receptor agonists
+520,imatinib,imatinib,BCR-ABL tyrosine kinase inhibitors
+521,glasdegib,glasdegib,Hedgehog pathway inhibitors
+522,everolimus,everolimus,Mammalian target of rapamycin (mTOR) kinase inhibitors
+523,sertraline,sertraline,Selective serotonin reuptake inhibitors
+524,oliceridine,oliceridine,Other opioids
+525,phentermine,phentermine,Centrally acting antiobesity products
+526,citalopram,citalopram,Selective serotonin reuptake inhibitors
+527,eliglustat,eliglustat,Various alimentary tract and metabolism products
+528,avanafil,avanafil,Drugs used in erectile dysfunction
+529,dextromethorphan,dextromethorphan,Other antidepressants
+530,rimegepant,rimegepant,Calcitonin gene-related peptide (CGRP) antagonists
+531,oxcarbazepine,oxcarbazepine,Carboxamide derivatives
+532,eszopiclone,eszopiclone,Benzodiazepine related drugs
+533,futibatinib,futibatinib,Fibroblast growth factor receptor (FGFR) tyrosine kinase inhibitors
+534,hydromorphone,hydromorphone,Natural opium alkaloids
+535,metoclopramide,metoclopramide,Propulsives
+536,rilpivirine,rilpivirine,Non-nucleoside reverse transcriptase inhibitors
+537,vortioxetine,vortioxetine,Other antidepressants
+538,leflunomide,leflunomide,Dihydroorotate dehydrogenase (DHODH) inhibitors
+539,loperamide,loperamide,Antipropulsives
+540,erlotinib,erlotinib,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors
+541,nifurtimox,nifurtimox,Nitrofuran derivatives
+542,axitinib,axitinib,Vascular endothelial growth factor receptor (VEGFR) tyrosine kinase inhibitors
+543,fosamprenavir,fosamprenavir,Protease inhibitors
+544,crizotinib,crizotinib,Anaplastic lymphoma kinase (ALK) inhibitors
+545,cyclosporine,cyclosporine,Calcineurin inhibitors
+546,eluxadoline,eluxadoline,Antipropulsives
+547,levomilnacipran,levomilnacipran,Other antidepressants
+548,ixazomib,ixazomib,Proteasome inhibitors
+549,cilostazol,cilostazol,Platelet aggregation inhibitors excl. heparin
+550,brompheniramine,brompheniramine,Substituted alkylamines
+551,dapagliflozin,dapagliflozin,Sodium-glucose co-transporter 2 (SGLT2) inhibitors
+552,lonafarnib,lonafarnib,Various alimentary tract and metabolism products
+553,dexchlorpheniramine,dexchlorpheniramine,Substituted alkylamines
+554,pazopanib,pazopanib,Other protein kinase inhibitors
+555,desvenlafaxine,desvenlafaxine,Other antidepressants
+556,flavoxate,flavoxate,Drugs for urinary frequency and incontinence
+557,ivacaftor,ivacaftor,Other respiratory system products
+558,tipranavir,tipranavir,Protease inhibitors
+559,rufinamide,rufinamide,Carboxamide derivatives
+560,empagliflozin,empagliflozin,Sodium-glucose co-transporter 2 (SGLT2) inhibitors
+561,glimepiride,glimepiride,Sulfonylureas
+562,amphetamine,amphetamine,Centrally acting sympathomimetics
+563,pretomanid,pretomanid,Other drugs for treatment of tuberculosis
+564,trametinib,trametinib,Mitogen-activated protein kinase (MEK) inhibitors
+565,valerian,valerian root extract,Other hypnotics and sedatives
+566,carisoprodol,carisoprodol,Carbamic acid esters
+567,riociguat,riociguat,Antihypertensives for pulmonary arterial hypertension
+568,benzphetamine,benzphetamine,Benzphetamine
+569,ethchlorvynol,ethchlorvynol,Other hypnotics and sedatives
+570,insulin glargine,insulin glargine,"Insulins and analogues for injection, long-acting"
+571,lapatinib,lapatinib,Human epidermal growth factor receptor 2 (HER2) tyrosine kinase inhibitors
+572,suvorexant,suvorexant,Orexin receptor antagonists
+573,folic acid,folic acid,Folic acid and derivatives
+574,sonidegib,sonidegib,Hedgehog pathway inhibitors
+575,drospirenone,drospirenone,Progestogens
+576,finerenone,finerenone,Aldosterone antagonists
+577,palbociclib,palbociclib,Cyclin-dependent kinase (CDK) inhibitors
+578,diethylpropion,diethylpropion,Centrally acting antiobesity products
+579,methylergometrine,methylergonovine,Ergot alkaloids
+580,venetoclax,venetoclax,Other antineoplastic agents
+581,triprolidine,triprolidine,Other antihistamines for systemic use
+582,maprotiline,maprotiline,Non-selective monoamine reuptake inhibitors
+583,saxagliptin,saxagliptin,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+584,fluvoxamine,fluvoxamine,Selective serotonin reuptake inhibitors
+585,afatinib,afatinib,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors
+586,simeprevir,simeprevir,Antivirals for treatment of HCV infections
+587,cycloserine,cycloserine,Antibiotics
+588,brexpiprazole,brexpiprazole,Other antipsychotics
+589,lisdexamfetamine,lisdexamfetamine,Centrally acting sympathomimetics
+590,duloxetine,duloxetine,Other antidepressants
+591,dextropropoxyphene,propoxyphene,Diphenylpropylamine derivatives
+592,benznidazole,benznidazole,Nitroimidazole derivatives
+593,loxapine,loxapine,"Diazepines, oxazepines, thiazepines and oxepines"
+594,zafirlukast,zafirlukast,Leukotriene receptor antagonists
+595,istradefylline,istradefylline,Other antiparkinson drugs
+596,dextroamphetamine,dextroamphetamine,Centrally acting sympathomimetics
+597,tinidazole,tinidazole,Imidazole derivatives
+598,zonisamide,zonisamide,Other antiepileptics
+599,voclosporin,voclosporin,Calcineurin inhibitors
+600,voxelotor,voxelotor,Other hematological agents
+601,betrixaban,betrixaban,Direct factor Xa inhibitors
+602,regorafenib,regorafenib,Other protein kinase inhibitors
+603,migalastat,migalastat,Various alimentary tract and metabolism products
+604,bupropion,bupropion,Centrally acting antiobesity products
+605,ritonavir,ritonavir,Antivirals for treatment of HCV infections
+606,entecavir,entecavir,Nucleoside and nucleotide reverse transcriptase inhibitors
+607,valbenazine,valbenazine,Other nervous system drugs
+608,pimozide,pimozide,Diphenylbutylpiperidine derivatives
+609,tasimelteon,tasimelteon,Melatonin receptor agonists
+610,metformin,metformin,Biguanides
+611,insulin aspart aspart,insulin aspart aspart,"Insulins and analogues for injection, fast-acting"
+612,efavirenz,efavirenz,Non-nucleoside reverse transcriptase inhibitors
+613,hydroxyzine,hydroxyzine,Diphenylmethane derivatives
+614,clobazam,clobazam,Benzodiazepine derivatives
+615,miglitol,miglitol,Alpha glucosidase inhibitors
+616,ertugliflozin,ertugliflozin,Sodium-glucose co-transporter 2 (SGLT2) inhibitors
+617,dexbrompheniramine,dexbrompheniramine,Substituted alkylamines
+618,ponatinib,ponatinib,BCR-ABL tyrosine kinase inhibitors
+619,levetiracetam,levetiracetam,Other antiepileptics
+620,pomalidomide,pomalidomide,Other immunosuppressants
+621,metronidazole,metronidazole,Nitroimidazole derivatives
+622,bosutinib,bosutinib,BCR-ABL tyrosine kinase inhibitors
+623,cabergoline,cabergoline,Prolactine inhibitors
+624,ceritinib,ceritinib,Anaplastic lymphoma kinase (ALK) inhibitors
+625,telotristat ethyl,telotristat ethyl,Phenylalanine
+626,dronedarone,dronedarone,"Antiarrhythmics, class III"
+627,etonogestrel,etonogestrel,Progestogens
+628,lurbinectedin,lurbinectedin,Other antineoplastic agents
+629,adagrasib,adagrasib,Other antineoplastic agents
+630,quinidine,quinidine,"Antiarrhythmics, class Ia"
+631,pregabalin,pregabalin,Gabapentinoids
+632,calcium gluconate,calcium gluconate,Calcium
+633,methylphenidate,methylphenidate,Centrally acting sympathomimetics
+634,dronabinol,dronabinol,Other antiemetics
+635,midostaurin,midostaurin,Other protein kinase inhibitors
+636,selpercatinib,selpercatinib,Other protein kinase inhibitors
+637,insulin lispro,insulin lispro,"Insulins and analogues for injection, fast-acting"
+638,carbamazepine,carbamazepine,Carboxamide derivatives
+639,oxazepam,oxazepam,Benzodiazepine derivatives
+640,ziprasidone,ziprasidone,Indole derivatives
+641,docetaxel,docetaxel,Taxanes
+642,neratinib,neratinib,Human epidermal growth factor receptor 2 (HER2) tyrosine kinase inhibitors
+643,ruxolitinib,ruxolitinib,"Agents for dermatitis, excluding corticosteroids"
+644,fluoxetine,fluoxetine,Selective serotonin reuptake inhibitors
+645,perampanel,perampanel,Other antiepileptics
+646,panobinostat,panobinostat,Histone deacetylase (HDAC) inhibitors
+647,aliskiren,aliskiren,Renin-inhibitors
+648,elacestrant,elacestrant,Anti-estrogens
+649,lorlatinib,lorlatinib,Anaplastic lymphoma kinase (ALK) inhibitors
+650,haloperidol,haloperidol,Butyrophenone derivatives
+651,ribavirin,ribavirin,Antivirals for treatment of HCV infections
+652,mefloquine,mefloquine,Methanolquinolines
+653,tadalafil,tadalafil,Testosterone-5-alpha reductase inhibitors
+654,clofedanol,chlophedianol,Other cough suppressants
+655,milnacipran,milnacipran,Other antidepressants
+656,fentanyl,fentanyl,Opioid anesthetics
+657,valproic acid,valproic acid,Fatty acid derivatives
+658,nateglinide,nateglinide,"Other blood glucose lowering drugs, excl. insulins"
+659,canagliflozin,canagliflozin,Sodium-glucose co-transporter 2 (SGLT2) inhibitors
+660,zaleplon,zaleplon,Benzodiazepine related drugs
+661,amiodarone,amiodarone,"Antiarrhythmics, class III"
+662,alpelisib,alpelisib,Phosphatidylinositol-3-kinase (Pi3K) inhibitors
+663,ivabradine,ivabradine,Other cardiac preparations
+664,trimethadione,trimethadione,Oxazolidine derivatives
+665,duvelisib,duvelisib,Phosphatidylinositol-3-kinase (Pi3K) inhibitors
+666,zanubrutinib,zanubrutinib,Bruton's tyrosine kinase (BTK) inhibitors
+667,clozapine,clozapine,"Diazepines, oxazepines, thiazepines and oxepines"
+668,avatrombopag,avatrombopag,Other systemic hemostatics
+669,mycophenolic acid,mycophenolic acid,Selective immunosuppressants
+670,ramelteon,ramelteon,Melatonin receptor agonists
+671,vericiguat,vericiguat,Other vasodilators used in cardiac diseases
+672,mavacamten,mavacamten,Other cardiac preparations
+673,dantrolene,dantrolene,Dantrolene and derivatives
+674,cyclobenzaprine,cyclobenzaprine,Other centrally acting agents
+675,dasatinib,dasatinib,BCR-ABL tyrosine kinase inhibitors
+676,clemastine,clemastine,Antihistamines for topical use
+677,mitapivat,mitapivat,Other hematological agents
+678,trimethobenzamide,trimethobenzamide,Aminoalkyl ethers
+679,fexinidazole,fexinidazole,Nitroimidazole derivatives
+680,ziconotide,ziconotide,Other analgesics and antipyretics
+681,tiagabine,tiagabine,Fatty acid derivatives
+682,halofantrine,halofantrine,Other antimalarials
+683,doxylamine,doxylamine,Aminoalkyl ethers
+684,quazepam,quazepam,Benzodiazepine derivatives
+685,ganciclovir,ganciclovir,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+686,pirtobrutinib,pirtobrutinib,Bruton's tyrosine kinase (BTK) inhibitors
+687,linagliptin,linagliptin,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+688,cyproheptadine,cyproheptadine,Other antihistamines for systemic use
+689,hydrocodone,hydrocodone,Opium alkaloids and derivatives
+690,insulin human isophane,insulin human isophane,"Insulin, Isophane"
+691,cabozantinib,cabozantinib,Other protein kinase inhibitors
+692,felbamate,felbamate,Other antiepileptics
+693,tolazamide,tolazamide,Sulfonylureas
+694,propofol,propofol,Other general anesthetics
+695,dabrafenib,dabrafenib,B-Raf serine-threonine kinase (BRAF) inhibitors
+696,tolbutamide,tolbutamide,Sulfonylureas
+697,ixabepilone,ixabepilone,Other cytotoxic antibiotics
+698,rosiglitazone,rosiglitazone,Thiazolidinediones
+699,chlorpropamide,chlorpropamide,Sulfonylureas
+700,nilutamide,nilutamide,Anti-androgens
+701,acarbose,acarbose,Alpha glucosidase inhibitors
+702,pioglitazone,pioglitazone,Thiazolidinediones
+703,ropinirole,ropinirole,Dopamine agonists
+704,methsuximide,methsuximide,Succinimide derivatives
+705,azelastine nasal,azelastine,"Antiallergic agents, excl. corticosteroids"
+706,sibutramine,sibutramine,Centrally acting antiobesity products
+707,pacritinib,pacritinib,Janus-associated kinase (JAK) inhibitors
+708,tazemetostat,tazemetostat,Other antineoplastic agents
+709,paroxetine,paroxetine,Selective serotonin reuptake inhibitors
+710,sirolimus,sirolimus,Mammalian target of rapamycin (mTOR) kinase inhibitors
+711,dexmedetomidine,dexmedetomidine,Other hypnotics and sedatives
+712,brigatinib,brigatinib,Anaplastic lymphoma kinase (ALK) inhibitors
+713,levodopa,levodopa,Dopa and dopa derivatives
+714,alprazolam,alprazolam,Benzodiazepine derivatives
+715,sirolimus proteinbound,sirolimus proteinbound,Mammalian target of rapamycin (mTOR) kinase inhibitors
+716,baclofen,baclofen,Other centrally acting agents
+717,meprobamate,meprobamate,Carbamates
+718,tafenoquine,tafenoquine,Aminoquinolines
+719,diltiazem,diltiazem,Muscle relaxants
+720,flibanserin,flibanserin,Other gynecologicals
+721,sodium oxybate,sodium oxybate,Other general anesthetics
+722,zolpidem,zolpidem,Benzodiazepine related drugs
+723,entacapone,entacapone,Other dopaminergic agents
+724,griseofulvin,griseofulvin,Antibiotics
+725,eltrombopag,eltrombopag,Other systemic hemostatics
+726,bexagliflozin,bexagliflozin,Sodium-glucose co-transporter 2 (SGLT2) inhibitors
+727,lepirudin,lepirudin,Direct thrombin inhibitors
+728,bivalirudin,bivalirudin,Direct thrombin inhibitors
+729,peginterferon alfa-2a,peginterferon alfa-2a,Interferons
+730,alteplase,alteplase,Enzymes
+731,interferon alfa-n1,interferon alfa-n1,Interferons
+732,darbepoetin alfa,darbepoetin alfa,Other antianemic preparations
+733,urokinase,urokinase,Enzymes
+734,reteplase,reteplase,Enzymes
+735,erythropoietin,epoetin alfa,Epoetin Alfa
+736,salmon calcitonin,salmon calcitonin,Calcitonin preparations
+737,peginterferon alfa-2b,peginterferon alfa-2b,Interferons
+738,anistreplase,anistreplase,Enzymes
+740,tenecteplase,tenecteplase,Enzymes
+741,interferon gamma-1b,interferon gamma-1b,Interferon-gamma
+742,interferon alfa-2a,interferon alfa-2a,Interferons
+743,abciximab,abciximab,Platelet aggregation inhibitors excl. heparin
+744,drotrecogin alfa,drotrecogin alfa,Enzymes
+746,interferon beta-1a,interferon beta-1a,Interferons
+747,eptifibatide,eptifibatide,Platelet aggregation inhibitors excl. heparin
+748,interferon beta-1b,interferon beta-1b,Interferons
+749,insulin pork,"insulin, regular, pork","Insulins and analogues for injection, fast-acting"
+750,ibritumomab tiuxetan,ibritumomab tiuxetan,"Antibodies, Monoclonal"
+751,pancrelipase,amylase / lipase / protease,Enzyme preparations
+752,streptokinase,streptokinase,Enzymes
+755,interferon alfa-2b,interferon alfa-2b,Interferons
+756,cyanocobalamin,vitamin B12,Vitamin B12 (cyanocobalamin and analogues)
+757,biotin,biotin,Other plain vitamin preparations
+758,ascorbic acid,ascorbic acid,"Ascorbic acid (vitamin C), plain"
+759,l-glutamine,glutamine,Amino acids and derivatives
+760,methionine,methionine,Antidotes
+761,lutein,lutein,Lutein
+762,calcifediol,calcifediol,Vitamin D and analogues
+763,vitamin e,vitamin E,Other plain vitamin preparations
+770,nicotine,nicotine,Drugs used in nicotine dependence
+777,fluconazole,fluconazole,Imidazole and triazole derivatives
+778,oseltamivir,oseltamivir,Neuraminidase inhibitors
+782,pyrimethamine,pyrimethamine,Diaminopyrimidines
+784,azithromycin,azithromycin,Macrolides
+787,midodrine,midodrine,Adrenergic and dopaminergic agents
+788,pantoprazole,pantoprazole,Proton pump inhibitors
+791,eletriptan,eletriptan,Selective serotonin (5HT1) agonists
+792,moxifloxacin,moxifloxacin,Fluoroquinolones
+793,nelfinavir,nelfinavir,Protease inhibitors
+799,aminosalicylic acid,aminosalicylic acid,Aminosalicylic acid and derivatives
+801,nevirapine,nevirapine,Non-nucleoside reverse transcriptase inhibitors
+802,butalbital,butalbital,Barbiturates
+803,cladribine,cladribine,Purine analogues
+805,mesalazine,mesalamine,Aminosalicylic acid and similar agents
+808,methysergide,methysergide,Ergot alkaloids
+810,dapsone,dapsone,Other anti-acne preparations for topical use
+813,lymecycline,lymecycline,Tetracyclines
+814,calcium acetate,calcium acetate,Drugs for treatment of hyperkalemia and hyperphosphatemia
+816,anagrelide,anagrelide,Other antineoplastic agents
+817,carmustine,carmustine,Nitrosoureas
+819,dicoumarol,dicumarol,Vitamin K antagonists
+825,argatroban,argatroban,Direct thrombin inhibitors
+826,liothyronine,liothyronine,Thyroid hormones
+832,atomoxetine,atomoxetine,Centrally acting sympathomimetics
+833,chlorambucil,chlorambucil,Nitrogen mustard analogues
+837,flucloxacillin,floxacillin,Beta-lactamase resistant penicillins
+838,tranexamic acid,tranexamic acid,Amino acids
+840,vindesine,vindesine,Vinca alkaloids and analogues
+845,gefitinib,gefitinib,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors
+852,ethambutol,ethambutol,Other drugs for treatment of tuberculosis
+856,omeprazole,omeprazole,Proton pump inhibitors
+857,pyrazinamide,pyrazinamide,Other drugs for treatment of tuberculosis
+866,megestrol acetate,megestrol acetate,Progestogens
+870,aminoglutethimide,aminoglutethimide,Aromatase inhibitors
+873,vinorelbine,vinorelbine,Vinca alkaloids and analogues
+876,grepafloxacin,grepafloxacin,Fluoroquinolones
+882,treprostinil,treprostinil,Platelet aggregation inhibitors excl. heparin
+883,colestipol,colestipol,Bile acid sequestrants
+885,palonosetron,palonosetron,Serotonin (5HT3) antagonists
+886,mexiletine,mexiletine,"Antiarrhythmics, class Ib"
+888,tacrine,tacrine,Anticholinesterases
+892,sulpiride,sulpiride,Benzamides
+896,phenylpropanolamine,phenylpropanolamine,Sympathomimetics
+903,ardeparin,ardeparin,"Heparin, Low-Molecular-Weight"
+907,acetohexamide,acetohexamide,Sulfonylureas
+909,phenoxymethylpenicillin,penicillin V,Beta-lactamase sensitive penicillins
+911,miglustat,miglustat,Various alimentary tract and metabolism products
+912,promazine,promazine,Phenothiazines with aliphatic side-chain
+918,famciclovir,famciclovir,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+920,lindane,lindane,Chlorine containing products
+921,trifluridine,trifluridine,Antivirals
+924,bendroflumethiazide,bendroflumethiazide,"Thiazides, plain"
+925,allopurinol,allopurinol,Preparations inhibiting uric acid production
+926,cerivastatin,cerivastatin,HMG CoA reductase inhibitors
+928,teniposide,teniposide,Podophyllotoxin derivatives
+930,chloramphenicol,chloramphenicol,Other antibiotics for topical use
+932,lansoprazole,lansoprazole,Proton pump inhibitors
+939,methscopolamine bromide,methscopolamine bromide,"Belladonna alkaloids, semisynthetic, quaternary ammonium compounds"
+942,tenoxicam,tenoxicam,Oxicams
+944,montelukast,montelukast,Leukotriene receptor antagonists
+950,lenalidomide,lenalidomide,Other immunosuppressants
+951,raloxifene,raloxifene,Selective estrogen receptor modulators
+952,celecoxib,celecoxib,Other antineoplastic agents
+953,brimonidine,brimonidine,Other dermatologicals
+956,altretamine,altretamine,Other antineoplastic agents
+965,phenindione,phenindione,Vitamin K antagonists
+966,flutamide,flutamide,Anti-androgens
+972,dextrothyroxine,dextrothyroxine,Other lipid modifying agents
+973,vancomycin,vancomycin,Antibiotics
+974,aminocaproic acid,6-aminocaproic acid,Amino acids
+976,cisplatin,cisplatin,Platinum compounds
+979,alitretinoin,alitretinoin,"Agents for dermatitis, excluding corticosteroids"
+981,lercanidipine,lercanidipine,Dihydropyridine derivatives
+983,cyclophosphamide,cyclophosphamide,Nitrogen mustard analogues
+984,rofecoxib,rofecoxib,Coxibs
+985,cefdinir,cefdinir,Third-generation cephalosporins
+989,vincristine,vincristine,Vinca alkaloids and analogues
+992,pyridostigmine,pyridostigmine,Anticholinesterases
+993,azelaic acid,azelaic acid,Other anti-acne preparations for topical use
+995,propylthiouracil,propylthiouracil,Thiouracils
+996,acetohydroxamic acid,acetohydroxamic acid,Other urologicals
+1001,bosentan,bosentan,Antihypertensives for pulmonary arterial hypertension
+1004,succimer,succimer,Succimer
+1005,cephalexin,cephalexin,First-generation cephalosporins
+1006,fondaparinux,fondaparinux,Other antithrombotic agents
+1007,vinblastine,vinblastine,Vinca alkaloids and analogues
+1013,sulfamethizole,sulfamethizole,Antiinfectives
+1014,valaciclovir,valacyclovir,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+1015,carbenicillin,carbenicillin,Penicillins with extended spectrum
+1016,mazindol,mazindol,Centrally acting antiobesity products
+1017,valdecoxib,valdecoxib,Coxibs
+1018,lactulose,lactulose,Osmotically acting laxatives
+1020,levocarnitine,levocarnitine,Amino acids and derivatives
+1022,nizatidine,nizatidine,H2-receptor antagonists
+1025,piperazine,piperazine,Piperazine and derivatives
+1033,medroxyprogesterone acetate,medroxyprogesterone acetate,Progestogens
+1041,rifabutin,rifabutin,Antibiotics
+1051,prednisone,prednisone,Corticosteroids acting locally
+1052,clofibrate,clofibrate,Fibrates
+1053,astemizole,astemizole,Other antihistamines for systemic use
+1056,pemetrexed,pemetrexed,Folic acid analogues
+1057,mebendazole,mebendazole,Benzimidazole derivatives
+1058,dyclonine,dyclonine,Other local anesthetics
+1060,mitotane,mitotane,Other antineoplastic agents
+1061,stavudine,stavudine,Nucleoside and nucleotide reverse transcriptase inhibitors
+1063,estrone,estrone,"Natural and semisynthetic estrogens, plain"
+1065,mecamylamine,mecamylamine,Secondary and tertiary amines
+1066,sevelamer,sevelamer,Drugs for treatment of hyperkalemia and hyperphosphatemia
+1067,acamprosate,acamprosate,Drugs used in alcohol dependence
+1072,nafarelin,nafarelin,Gonadotropin-releasing hormones
+1073,sumatriptan,sumatriptan,Selective serotonin (5HT1) agonists
+1074,pirenzepine,pirenzepine,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+1075,cefixime,cefixime,Third-generation cephalosporins
+1077,aprepitant,aprepitant,Other antiemetics
+1078,galantamine,galantamine,Anticholinesterases
+1084,trovafloxacin,trovafloxacin,Fluoroquinolones
+1085,pentosan polysulfate,pentosan polysulfate,Heparins or heparinoids for topical use
+1086,fludrocortisone,fludrocortisone,Mineralocorticoids
+1087,mycophenolate mofetil,mycophenolate mofetil,Mycophenolic Acid
+1093,nitrofurantoin,nitrofurantoin,Nitrofuran derivatives
+1095,amprenavir,amprenavir,Protease inhibitors
+1096,methazolamide,methazolamide,Carbonic anhydrase inhibitors
+1098,delavirdine,delavirdine,Non-nucleoside reverse transcriptase inhibitors
+1101,lamivudine,lamivudine,Nucleoside and nucleotide reverse transcriptase inhibitors
+1103,diethylcarbamazine,diethylcarbamazine,Piperazine and derivatives
+1108,adefovir dipivoxil,adefovir dipivoxil,Nucleoside and nucleotide reverse transcriptase inhibitors
+1109,azatadine,azatadine,Other antihistamines for systemic use
+1110,clodronic acid,clodronic acid,Bisphosphonates
+1112,imiquimod,imiquimod,Antivirals
+1119,riluzole,riluzole,Other nervous system drugs
+1120,hydrocortisone,hydrocortisone,"Corticosteroids, moderately potent (group II)"
+1121,zileuton,zileuton,Other systemic drugs for obstructive airway diseases
+1126,prilocaine,prilocaine,Amides
+1129,tretinoin,tretinoin,Retinoids for topical use in acne
+1130,dolasetron,dolasetron,Serotonin (5HT3) antagonists
+1131,clopidogrel,clopidogrel,Platelet aggregation inhibitors excl. heparin
+1133,potassium chloride,potassium chloride,Potassium
+1135,clavulanic acid,clavulanic acid,"Combinations of penicillins, incl. beta-lactamase inhibitors"
+1137,etoposide,etoposide,Podophyllotoxin derivatives
+1138,hydroflumethiazide,hydroflumethiazide,"Thiazides, plain"
+1140,nalidixic acid,nalidixic acid,Other quinolones
+1144,acyclovir,acyclovir,Antivirals
+1148,sulfasalazine,sulfasalazine,Aminosalicylic acid and similar agents
+1149,candesartan cilexetil,candesartan cilexetil,"Angiotensin II receptor blockers (ARBs), plain"
+1152,pentoxifylline,pentoxifylline,Purine derivatives
+1156,phenylbutazone,phenylbutazone,Butylpyrazolidines
+1159,sodium lauryl sulfate,sodium dodecyl sulfate,Sodium Dodecyl Sulfate
+1160,orciprenaline,metaproterenol,Non-selective beta-adrenoreceptor agonists
+1161,acetazolamide,acetazolamide,Carbonic anhydrase inhibitors
+1164,fosfomycin,fosfomycin,Other antibacterials
+1167,cefaclor,cefaclor,Second-generation cephalosporins
+1172,donepezil,donepezil,Anticholinesterases
+1174,clofazimine,clofazimine,Drugs for treatment of lepra
+1175,cysteamine,cysteamine,Amino acids and derivatives
+1178,dacarbazine,dacarbazine,Other alkylating agents
+1179,pseudoephedrine,pseudoephedrine,Sympathomimetics
+1180,temozolomide,temozolomide,Other alkylating agents
+1182,terbinafine,terbinafine,Other antifungals for topical use
+1184,prednisolone,prednisolone,Corticosteroids for local oral treatment
+1185,diflunisal,diflunisal,Salicylic acid and derivatives
+1187,ranitidine,ranitidine,H2-receptor antagonists
+1190,benzonatate,benzonatate,Other cough suppressants
+1191,guaifenesin,guaifenesin,Expectorants
+1192,flupentixol,flupenthixol,Thioxanthene derivatives
+1195,chlorhexidine,chlorhexidine,Antiinfectives and antiseptics for local oral treatment
+1196,emtricitabine,emtricitabine,Nucleoside and nucleotide reverse transcriptase inhibitors
+1198,clomifene,clomiphene,"Ovulation stimulants, synthetic"
+1202,granisetron,granisetron,Serotonin (5HT3) antagonists
+1207,ondansetron,ondansetron,Serotonin (5HT3) antagonists
+1211,paricalcitol,paricalcitol,Other anti-parathyroid agents
+1214,anileridine,anileridine,Opioid anesthetics
+1215,amantadine,amantadine,Adamantane derivatives
+1217,almotriptan,almotriptan,Selective serotonin (5HT1) agonists
+1218,ketotifen,ketotifen,Other antihistamines for systemic use
+1221,etretinate,etretinate,Retinoids for treatment of psoriasis
+1222,famotidine,famotidine,H2-receptor antagonists
+1223,misoprostol,misoprostol,Propionic acid derivatives
+1224,colesevelam,colesevelam,Bile acid sequestrants
+1230,zalcitabine,zalcitabine,Nucleoside and nucleotide reverse transcriptase inhibitors
+1232,phenprocoumon,phenprocoumon,Vitamin K antagonists
+1236,naratriptan,naratriptan,Selective serotonin (5HT1) agonists
+1237,rizatriptan,rizatriptan,Selective serotonin (5HT1) agonists
+1239,norgestimate,norgestimate,"Progestogens and estrogens, sequential preparations"
+1240,carboplatin,carboplatin,Platinum compounds
+1245,desloratadine,desloratadine,Other antihistamines for systemic use
+1247,alosetron,alosetron,Serotonin receptor antagonists
+1248,azelastine,azelastine,"Antiallergic agents, excl. corticosteroids"
+1249,ezetimibe,ezetimibe,Other lipid modifying agents
+1250,edetic acid,edetic acid,Other ophthalmologicals
+1252,telithromycin,telithromycin,Macrolides
+1253,ethinylestradiol,ethinyl estradiol,"Progestogens and estrogens, sequential preparations"
+1254,lomefloxacin,lomefloxacin,Fluoroquinolones
+1259,rivastigmine,rivastigmine,Anticholinesterases
+1260,exemestane,exemestane,Aromatase inhibitors
+1262,azathioprine,azathioprine,Other immunosuppressants
+1263,auranofin,auranofin,Gold preparations
+1265,doxorubicin,doxorubicin,Anthracyclines and related substances
+1266,frovatriptan,frovatriptan,Selective serotonin (5HT1) agonists
+1268,cromoglicic acid,cromolyn,"Antiallergic agents, excl. corticosteroids"
+1270,hydroxyurea,hydroxyurea,Other antineoplastic agents
+1271,letrozole,letrozole,Aromatase inhibitors
+1272,busulfan,busulfan,Alkyl sulfonates
+1274,metyrapone,metyrapone,Tests for pituitary function
+1276,balsalazide,balsalazide,Aminosalicylic acid and similar agents
+1278,minocycline,minocycline,Antiinfectives and antiseptics for local oral treatment
+1280,bethanechol,bethanechol,Choline esters
+1285,methoxyflurane,methoxyflurane,Other analgesics and antipyretics
+1287,topotecan,topotecan,Topoisomerase 1 (TOP1) inhibitors
+1288,probenecid,probenecid,Preparations with no effect on uric acid metabolism
+1293,fenofibrate,fenofibrate,Fibrates
+1295,memantine,memantine,Anticholinesterases
+1297,rifampin,rifampin,Antibiotics
+1298,lubiprostone,lubiprostone,Other drugs for constipation
+1300,ergoloid mesylate,"ergoloid mesylates, USP",Ergot alkaloids
+1302,nitrendipine,nitrendipine,Dihydropyridine derivatives
+1305,amoxicillin,amoxicillin,Penicillins with extended spectrum
+1313,fludarabine,fludarabine,Purine analogues
+1319,diphenoxylate,diphenoxylate,Antipropulsives
+1320,orlistat,orlistat,Peripherally acting antiobesity products
+1321,pilocarpine,pilocarpine,Other parasympathomimetics
+1322,primaquine,primaquine,Aminoquinolines
+1323,iloprost,iloprost,Platelet aggregation inhibitors excl. heparin
+1328,capecitabine,capecitabine,Pyrimidine analogues
+1330,methyprylon,methyprylon,Piperidinedione derivatives
+1331,heparin,"heparin, porcine",Heparin group
+1332,cefuroxime,cefuroxime,Second-generation cephalosporins
+1337,gliclazide,gliclazide,Sulfonylureas
+1338,phenacemide,phenacemide,Other antiepileptics
+1340,dutasteride,dutasteride,Alpha-adrenoreceptor antagonists
+1341,bicalutamide,bicalutamide,Anti-androgens
+1342,rabeprazole,rabeprazole,Proton pump inhibitors
+1343,proguanil,proguanil,Biguanides
+1348,sulfinpyrazone,sulfinpyrazone,Preparations increasing uric acid excretion
+1349,cefadroxil,cefadroxil,First-generation cephalosporins
+1351,diclofenamide,dichlorphenamide,Carbonic anhydrase inhibitors
+1352,cloxacillin,cloxacillin,Beta-lactamase resistant penicillins
+1355,cefprozil,cefprozil,Second-generation cephalosporins
+1357,gemifloxacin,gemifloxacin,Fluoroquinolones
+1360,ofloxacin,ofloxacin,Fluoroquinolones
+1365,moclobemide,moclobemide,Monoamine oxidase A inhibitors
+1369,cyclizine,cyclizine,Piperazine derivatives
+1370,ifosfamide,ifosfamide,Nitrogen mustard analogues
+1371,propafenone,propafenone,"Antiarrhythmics, class Ic"
+1372,naloxone,naloxone,Other opioids
+1373,domperidone,domperidone,Propulsives
+1374,fluoxymesterone,fluoxymesterone,3-oxoandrosten (4) derivatives
+1376,clindamycin,clindamycin,Antiinfectives for treatment of acne
+1377,dexfenfluramine,dexfenfluramine,Centrally acting antiobesity products
+1380,flecainide,flecainide,"Antiarrhythmics, class Ic"
+1383,zopiclone,zopiclone,Benzodiazepine related drugs
+1385,rifapentine,rifapentine,Antibiotics
+1388,flumazenil,flumazenil,Antidotes
+1392,finasteride,finasteride,Other dermatologicals
+1393,anastrozole,anastrozole,Aromatase inhibitors
+1396,rifaximin,rifaximin,Antibiotics
+1399,aminophylline,aminophylline,Xanthines
+1401,enoxaparin,enoxaparin,Heparin group
+1403,pemoline,pemoline,Centrally acting sympathomimetics
+1406,dexamethasone,dexamethasone,Corticosteroids for local oral treatment
+1409,chlorprothixene,chlorprothixene,Thioxanthene derivatives
+1410,epoprostenol,epoprostenol,Platelet aggregation inhibitors excl. heparin
+1411,gemfibrozil,gemfibrozil,Fibrates
+1413,bepridil,bepridil,Phenylalkylamine derivatives
+1414,alimemazine,trimeprazine,Phenothiazine derivatives
+1417,olsalazine,olsalazine,Aminosalicylic acid and similar agents
+1424,telbivudine,telbivudine,Nucleoside and nucleotide reverse transcriptase inhibitors
+1430,mecasermin,mecasermin,Somatropin and somatropin agonists
+1432,lumiracoxib,lumiracoxib,UNKNOWN_CLASS
+1433,fenoterol,fenoterol,"Sympathomimetics, labour repressants"
+1434,practolol,practolol,"Beta blocking agents, selective"
+1435,sulfadoxine,sulfadoxine,Sulfadoxine
+1436,rolitetracycline,rolitetracycline,Tetracyclines
+1437,oxtriphylline,oxtriphylline,Xanthines
+1438,insulin aspart,"insulin aspart, human","Insulins and analogues for injection, fast-acting"
+1443,polythiazide,polythiazide,"Thiazides, plain"
+1444,quinethazone,quinethazone,"Sulfonamides, plain"
+1445,cefamandole,cefamandole,Second-generation cephalosporins
+1448,cefradine,cephradine,First-generation cephalosporins
+1449,cilazapril,cilazapril,"ACE inhibitors, plain"
+1451,spirapril,spirapril,"ACE inhibitors, plain"
+1453,procaterol,procaterol,Selective beta-2-adrenoreceptor agonists
+1455,magnesium oxide,magnesium oxide,Magnesium compounds
+1456,cortisone acetate,cortisone acetate,Glucocorticoids
+1457,ginkgo biloba,Ginkgo biloba extract,Ginkgo Extract
+1458,sodium bicarbonate,sodium bicarbonate,Salt solutions
+1459,yohimbine,yohimbine,Drugs used in erectile dysfunction
+1460,bezafibrate,bezafibrate,Fibrates
+1463,digitoxin,digitoxin,Digitalis glycosides
+1465,methotrimeprazine,methotrimeprazine,Phenothiazines with aliphatic side-chain
+1466,danazol,danazol,Antigonadotropins and similar agents
+1467,tiotropium,tiotropium,Anticholinergics
+1470,acenocoumarol,acenocoumarol,Vitamin K antagonists
+1471,paromomycin,paromomycin,Antibiotics
+1472,cholestyramine,cholestyramine resin,Bile acid sequestrants
+1473,antipyrine,antipyrine,Pyrazolones
+1474,alfacalcidol,alfacalcidol,Vitamin D and analogues
+1475,glutethimide,glutethimide,Piperidinedione derivatives
+1476,phenazopyridine,phenazopyridine,Other urologicals
+1477,diamorphine,heroin,Drugs used in opioid dependence
+1478,dichloralphenazone,dichloralphenazone,Aldehydes and derivatives
+1479,difenoxin,difenoxin,Antipropulsives
+1480,flunitrazepam,flunitrazepam,Benzodiazepine derivatives
+1481,dihydrocodeine,dihydrocodeine,Natural opium alkaloids
+1482,cloxazolam,cloxazolam,Benzodiazepine derivatives
+1483,bromazepam,bromazepam,Benzodiazepine derivatives
+1484,chloral hydrate,chloral hydrate,Aldehydes and derivatives
+1485,fludiazepam,fludiazepam,UNKNOWN_CLASS
+1486,attapulgite,attapulgite,Other intestinal adsorbents
+1489,oxprenolol,oxprenolol,"Beta blocking agents, non-selective"
+1491,ursodeoxycholic acid,ursodiol,Bile acids and derivatives
+1492,ketazolam,ketazolam,Benzodiazepine derivatives
+1493,prazepam,prazepam,Benzodiazepine derivatives
+1496,solifenacin,solifenacin,Drugs for urinary frequency and incontinence
+1498,zinc,zinc,Zinc
+1499,cinolazepam,cinolazepam,UNKNOWN_CLASS
+1500,nitrazepam,nitrazepam,Benzodiazepine derivatives
+1501,probucol,probucol,Other lipid modifying agents
+1502,tiaprofenic acid,tiaprofenic acid,Propionic acid derivatives
+1503,lopinavir,lopinavir,"Antivirals for treatment of HIV infections, combinations"
+1504,bacampicillin,bacampicillin,Penicillins with extended spectrum
+1505,pivampicillin,pivampicillin,Penicillins with extended spectrum
+1506,pivmecillinam,amdinocillin pivoxil,Penicillins with extended spectrum
+1507,periciazine,periciazine,Phenothiazines with piperidine structure
+1512,erythrityl tetranitrate,erythrityl tetranitrate,Organic nitrates
+1513,acepromazine,acepromazine,Phenothiazines with aliphatic side-chain
+1515,phenindamine,phenindamine,Other antihistamines for systemic use
+1516,pipotiazine,pipothiazine,Phenothiazines with piperidine structure
+1517,thioproperazine,thioproperazine,Phenothiazines with piperazine structure
+1519,zuclopenthixol,zuclopenthixol,Thioxanthene derivatives
+1520,pargyline,pargyline,MAO inhibitors
+1521,etoricoxib,etoricoxib,Coxibs
+1523,cocarboxylase,thiamine pyrophosphate,"Vitamin B1, plain"
+1524,vorinostat,vorinostat,Histone deacetylase (HDAC) inhibitors
+1525,cholic acid,cholic acid,Bile acids and derivatives
+1526,fusidic acid,fusidic acid,Other antibiotics for topical use
+1527,flavin adenine dinucleotide,flavin-adenine dinucleotide,Flavin-Adenine Dinucleotide
+1528,oteracil,oteracil,UNKNOWN_CLASS
+1529,flavin mononucleotide,riboflavin 5'-phosphate,Flavin Mononucleotide
+1530,oxyphenbutazone,oxyphenbutazone,Butylpyrazolidines
+1531,carbocisteine,carbocysteine,Mucolytics
+1532,trioxsalen,trioxsalen,Psoralens for topical use
+1533,thiotepa,thiotepa,Ethylene imines
+1535,fleroxacin,fleroxacin,Fluoroquinolones
+1536,coumarin,coumarin,Coumarins
+1538,amineptine,amineptin,Non-selective monoamine reuptake inhibitors
+1540,cyclandelate,cyclandelate,Other peripheral vasodilators
+1541,cyproterone acetate,cyproterone acetate,"Antiandrogens, plain"
+1542,debrisoquine,debrisoquin,Guanidine derivatives
+1543,flunarizine,flunarizine,Antivertigo preparations
+1544,fluspirilene,fluspirilene,Diphenylbutylpiperidine derivatives
+1547,celiprolol,celiprolol,"Beta blocking agents, selective"
+1548,roxadustat,roxadustat,UNKNOWN_CLASS
+1549,febuxostat,febuxostat,Preparations inhibiting uric acid production
+1554,vildagliptin,vildagliptin,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+1555,bepotastine,bepotastine,Piperidines
+1557,ximelagatran,ximelagatran,UNKNOWN_CLASS
+1559,desmoteplase,desmoteplase,UNKNOWN_CLASS
+1560,defibrotide,defibrotide,Other antithrombotic agents
+1562,crofelemer,crofelemer,Other antidiarrheals
+1567,ingenol mebutate,ingenol mebutate,Other chemotherapeutics
+1569,arimoclomol,arimoclomol,Other nervous system drugs
+1570,abaloparatide,abaloparatide,Parathyroid hormones and analogues
+1572,ancrod,ancrod,Enzymes
+1575,elafibranor,elafibranor,Other drugs for bile therapy
+1576,beraprost,beraprost,UNKNOWN_CLASS
+1579,vandetanib,vandetanib,Other protein kinase inhibitors
+1580,pimavanserin,pimavanserin,Other antipsychotics
+1581,dexlansoprazole,dexlansoprazole,Proton pump inhibitors
+1582,iodine,iodine,Iodine products
+1583,palovarotene,palovarotene,Other drugs for disorders of the musculo-skeletal system
+1584,mavorixafor,mavorixafor,Other immunostimulants
+1589,apremilast,apremilast,Selective immunosuppressants
+1590,trastuzumab emtansine,ado-trastuzumab emtansine,HER2 (Human Epidermal Growth Factor Receptor 2) inhibitors
+1592,obeticholic acid,obeticholic acid,Bile acids and derivatives
+1594,trofinetide,trofinetide,Other nervous system drugs
+1597,spiramycin,spiramycin,Macrolides
+1598,nylidrin,nylidrin,2-amino-1-phenylethanol derivatives
+1599,pizotifen,pizotyline,Other antimigraine preparations
+1600,pentaerythritol tetranitrate,pentaerythritol tetranitrate,Osmotically acting laxatives
+1601,canakinumab,canakinumab,Interleukin inhibitors
+1602,romidepsin,romidepsin,Histone deacetylase (HDAC) inhibitors
+1607,prasugrel,prasugrel,Platelet aggregation inhibitors excl. heparin
+1613,rivaroxaban,rivaroxaban,Direct factor Xa inhibitors
+1614,nalmefene,nalmefene,Drugs used in alcohol dependence
+1615,maribavir,maribavir,Other antivirals
+1617,eflornithine,eflornithine,Other dermatologicals
+1618,droxidopa,droxidopa,Adrenergic and dopaminergic agents
+1619,sitaxentan,sitaxentan,UNKNOWN_CLASS
+1620,sulodexide,sulodexide,UNKNOWN_CLASS
+1624,teriparatide,teriparatide,Parathyroid hormones and analogues
+1626,amisulpride,amisulpride,Benzamides
+1629,semuloparin,semuloparin,"Heparin, Low-Molecular-Weight"
+1632,bazedoxifene,bazedoxifene,Selective estrogen receptor modulators
+1633,idraparinux,idraparinux,UNKNOWN_CLASS
+1634,doxercalciferol,doxercalciferol,Other anti-parathyroid agents
+1637,cangrelor,cangrelor,Platelet aggregation inhibitors excl. heparin
+1639,prucalopride,prucalopride,Other drugs for constipation
+1643,apixaban,apixaban,Direct factor Xa inhibitors
+1647,otamixaban,otamixaban,UNKNOWN_CLASS
+1648,isavuconazonium,isavuconazonium,Nitriles
+1649,dalfampridine,dalfampridine,Other nervous system drugs
+1650,denosumab,denosumab,Other drugs affecting bone structure and mineralization
+1653,amediplase,amediplase,Other antifungals for topical use
+1655,mepyramine,pyrilamine,Antihistamines for topical use
+1656,mevastatin,mevastatin,HMG CoA reductase inhibitors
+1657,dabigatran etexilate,dabigatran etexilate,Direct thrombin inhibitors
+1658,artemether,artemether,"Artemisinin and derivatives, plain"
+1659,betahistine,betahistine,Antivertigo preparations
+1661,dexmethylphenidate,dexmethylphenidate,Centrally acting sympathomimetics
+1663,lumefantrine,lumefantrine,"Artemisinin and derivatives, combinations"
+1664,methacholine,methacholine,Other diagnostic agents
+1665,nilvadipine,nilvadipine,Dihydropyridine derivatives
+1666,fosaprepitant,fosaprepitant,Morpholines
+1669,aceclofenac,aceclofenac,Acetic acid derivatives and related substances
+1670,danaparoid,danaparoid,Heparin group
+1671,betaine,betaine,Amino acids and derivatives
+1672,cabazitaxel,cabazitaxel,Taxanes
+1673,carglumic acid,carglumic acid,Amino acids and derivatives
+1674,dalteparin,dalteparin,Heparin group
+1676,methenamine,methenamine,Other antibacterials
+1678,raltegravir,raltegravir,Integrase inhibitors
+1680,tinzaparin,tinzaparin,Heparin group
+1681,tiopronin,tiopronin,Other urologicals
+1683,gw-813893,gw-813893,UNKNOWN_CLASS
+1684,ferulic acid,ferulic acid,Coumaric Acids
+1685,sulthiame,sulthiame,Other antiepileptics
+1686,(r)-warfarin,(r)-warfarin,Vitamin K antagonists
+1687,ethyl biscoumacetate,ethyl biscoumacetate,UNKNOWN_CLASS
+1688,nadroparin,nadroparin,Heparin group
+1689,triflusal,triflusal,Platelet aggregation inhibitors excl. heparin
+1691,ticagrelor,ticagrelor,Platelet aggregation inhibitors excl. heparin
+1694,spinosad,spinosad,Drug Combinations
+1695,ioflupane i-123,ioflupane I-123,Iodine (123I) compounds
+1696,deferiprone,deferiprone,Iron chelating agents
+1698,vismodegib,vismodegib,Hedgehog pathway inhibitors
+1699,spaglumic acid,spaglumic acid,UNKNOWN_CLASS
+1703,ulipristal,ulipristal,Emergency contraceptives
+1704,fingolimod,fingolimod,Sphingosine-1-phosphate (S1P) receptor modulators
+1706,gabapentin enacarbil,gabapentin enacarbil,Gabapentinoids
+1708,fidaxomicin,fidaxomicin,Antibiotics
+1710,taliglucerase alfa,taliglucerase alfa,Enzymes
+1713,vemurafenib,vemurafenib,B-Raf serine-threonine kinase (BRAF) inhibitors
+1716,icosapent ethyl,icosapent ethyl,Eicosapentaenoic Acid
+1719,tofacitinib,tofacitinib,Janus-associated kinase (JAK) inhibitors
+1721,enzalutamide,enzalutamide,Anti-androgens
+1726,glycerol phenylbutyrate,glycerol phenylbutyrate,Various alimentary tract and metabolism products
+1730,radium ra 223 dichloride,radium chloride Ra-223,Radioisotopes
+1735,macitentan,macitentan,Antihypertensives for pulmonary arterial hypertension
+1736,sofosbuvir,sofosbuvir,Antivirals for treatment of HCV infections
+1737,obinutuzumab,obinutuzumab,CD20 (Clusters of Differentiation 20) inhibitors
+1738,chlorcyclizine,chlorcyclizine,Piperazine derivatives
+1739,magaldrate,magaldrate,"Combinations and complexes of aluminium, calcium and magnesium compounds"
+1740,floctafenine,floctafenine,Other analgesics and antipyretics
+1741,ditazole,ditazole,UNKNOWN_CLASS
+1742,diosmin,diosmin,Bioflavonoids
+1743,bisacodyl,bisacodyl,Contact laxatives
+1745,ledipasvir,ledipasvir,Antivirals for treatment of HCV infections
+1746,vorapaxar,vorapaxar,Platelet aggregation inhibitors excl. heparin
+1751,tedizolid phosphate,tedizolid phosphate,Other antibacterials
+1753,metreleptin,metreleptin,Amino acids and derivatives
+1754,netupitant,netupitant,Piperazines
+1760,cobicistat,cobicistat,Other therapeutic products
+1762,trimetazidine,trimetazidine,Other cardiac preparations
+1763,tibolone,tibolone,Other estrogens
+1768,edoxaban,edoxaban,Direct factor Xa inhibitors
+1769,lenvatinib,lenvatinib,Other protein kinase inhibitors
+1771,idebenone,idebenone,Other psychostimulants and nootropics
+1773,trimebutine,trimebutine,"Synthetic anticholinergics, esters with tertiary amino group"
+1774,pinaverium,pinaverium,Other drugs for functional gastrointestinal disorders
+1775,quinagolide,quinagolide,Prolactine inhibitors
+1777,daclatasvir,daclatasvir,Antivirals for treatment of HCV infections
+1778,coenzyme m,2-mercaptoethanesulfonic acid,Mesna
+1779,diiodohydroxyquinoline,iodoquinol,Quinoline derivatives
+1781,eslicarbazepine acetate,eslicarbazepine acetate,Carboxamide derivatives
+1782,dienogest,dienogest,Pregnadien derivatives
+1783,potassium citrate,potassium citrate,Potassium
+1785,chromic chloride,chromic chloride,Chlorides
+1786,iothalamic acid,iothalamic acid,"Watersoluble, nephrotropic, high osmolar X-ray contrast media"
+1787,technetium tc-99m mebrofenin,technetium tc-99m mebrofenin,UNKNOWN_CLASS
+1788,technetium tc-99m medronate,technetium Tc 99m medronate,Technetium Tc 99m Medronate
+1790,uridine triacetate,uridine triacetate,Various alimentary tract and metabolism products
+1791,iron sucrose,iron sucrose,"Iron trivalent, oral preparations"
+1792,sodium citrate,sodium citrate,Salt solutions
+1793,technetium tc-99m disofenin,technetium Tc 99m disofenin,Technetium (99mTc) compounds
+1794,dasabuvir,dasabuvir,Antivirals for treatment of HCV infections
+1795,viloxazine,viloxazine,Other antidepressants
+1796,loxoprofen,loxoprofen,Propionic acid derivatives
+1798,dextran,dextran,Blood substitutes and plasma protein fractions
+1799,tegafur,tegafur,Pyrimidine analogues
+1800,gimeracil,gimeracil,UNKNOWN_CLASS
+1801,bemiparin,bemiparin,Heparin group
+1802,reviparin,reviparin,Heparin group
+1803,parnaparin,parnaparin,Heparin group
+1804,certoparin,certoparin,"Heparin, Low-Molecular-Weight"
+1807,strontium ranelate,strontium ranelate,UNKNOWN_CLASS
+1808,picosulfuric acid,picosulfuric acid,UNKNOWN_CLASS
+1809,ubidecarenone,ubidecarenone,Other cardiac preparations
+1811,bismuth subcitrate potassium,bismuth subcitrate potassium,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+1812,activated charcoal,activated charcoal,Charcoal preparations
+1813,lumacaftor,lumacaftor,Other respiratory system products
+1814,polyethylene glycol,polyethylene glycols,Osmotically acting laxatives
+1815,tianeptine,tianeptine,Other antidepressants
+1816,rolapitant,rolapitant,Other antiemetics
+1817,iodide i-131,iodine I-131,Iodine products
+1818,ombitasvir,ombitasvir,Antivirals for treatment of HCV infections
+1819,paritaprevir,paritaprevir,Antivirals for treatment of HCV infections
+1820,tenofovir alafenamide,tenofovir alafenamide,Nucleoside and nucleotide reverse transcriptase inhibitors
+1821,ioxaglic acid,ioxaglic acid,"Watersoluble, nephrotropic, low osmolar X-ray contrast media"
+1822,"synthetic conjugated estrogens, a","synthetic conjugated estrogens, A",Estradiol Congeners
+1823,"synthetic conjugated estrogens, b","synthetic conjugated estrogens, B",Estradiol Congeners
+1824,zinc oxide,zinc oxide,Zinc Oxide
+1825,zinc sulfate,zinc sulfate,Zinc
+1826,sodium fluoride,sodium fluoride,Caries prophylactic agents
+1827,osimertinib,osimertinib,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors
+1828,tipiracil,tipiracil,Thymidine Phosphorylase Inhibitors
+1829,chymotrypsin,chymotrypsin,Enzymes
+1831,norgestrel,norgestrel,Norgestrel
+1832,technetium tc-99m sulfur colloid,technetium Tc-99m sulfur colloid,"Technetium (99mTc), particles and colloids"
+1833,magnesium chloride,magnesium chloride,Magnesium
+1834,monopotassium phosphate,monobasic potassium phosphate,Phosphates
+1835,iodide i-123,iodide ion I-123,Iodine Radioisotopes
+1836,protirelin,thyrotropin-releasing hormone,Tests for thyreoidea function
+1837,indium in-111 chloride,indium In-111 chloride,Indium
+1838,fludeoxyglucose (18f),fludeoxyglucose (18f),Other diagnostic radiopharmaceuticals for tumour detection
+1839,urea c-13,urea c-13,Solutions producing osmotic diuresis
+1840,simethicone,simethicone,Surfactant Activity
+1841,urea c-14,urea [14C],Solutions producing osmotic diuresis
+1842,omega-3-acid ethyl esters,omega-3 acid ethyl esters (USP),UNKNOWN_CLASS
+1843,dexchlorpheniramine maleate,dexchlorpheniramine maleate,Substituted alkylamines
+1844,choline c-11,choline C-11,Choline
+1846,omega-3-carboxylic acids,omega-3 carboxylic acids,UNKNOWN_CLASS
+1848,pancrelipase amylase,amylase,Enzyme preparations
+1849,pancrelipase protease,protease,Enzymatic Activity
+1850,hydrogen fluoride,hydrofluoric acid,Hydrofluoric Acid
+1852,vitamin d,vitamin D,Vitamin D
+1853,desirudin,desirudin,Direct thrombin inhibitors
+1855,potassium bicarbonate,potassium bicarbonate,Potassium
+1856,magnesium citrate,magnesium citrate,Osmotically acting laxatives
+1857,racepinephrine,racepinephrine,Racepinephrine
+1860,chromium,chromium,Chromium Radioisotopes
+1861,zinc citrate,zinc citrate,UNKNOWN_CLASS
+1862,antithrombin alfa,antithrombin alfa,Heparin group
+1863,zeaxanthin,zeaxanthin,Zeaxanthins
+1864,tetrofosmin,tetrofosmin,UNKNOWN_CLASS
+1865,pentoxyverine,carbetapentane,Other cough suppressants
+1866,magnesium glycinate,magnesium glycinate,Glycine
+1867,alcloxa,alcloxa,UNKNOWN_CLASS
+1868,methylcellulose,methylcellulose,Bulk-forming laxatives
+1869,zinc gluconate,zinc gluconate,Zinc
+1870,chromium picolinate,chromium picolinate,Picolinic Acids
+1871,levomefolic acid,levomefolic acid,Tetrahydrofolates
+1872,protein c,"protein C, human",Enzymes
+1874,sennosides,"sennosides, USP",Contact laxatives
+1875,moxidectin,moxidectin,Other antinematodals
+1876,lesinurad,lesinurad,Preparations increasing uric acid excretion
+1877,elbasvir,elbasvir,Antivirals for treatment of HCV infections
+1878,grazoprevir,grazoprevir,Antivirals for treatment of HCV infections
+1880,asunaprevir,asunaprevir,Antivirals for treatment of HCV infections
+1881,etafedrine,etafedrine,UNKNOWN_CLASS
+1882,bilastine,bilastine,UNKNOWN_CLASS
+1883,antithrombin iii human,"antithrombin III, human",Heparin group
+1884,normethadone,normethadone,Opium alkaloids and derivatives
+1885,oxilofrine,oxilofrine,Ephedrine
+1886,velpatasvir,velpatasvir,Antivirals for treatment of HCV infections
+1887,rupatadine,rupatadine,UNKNOWN_CLASS
+1889,isavuconazole,isavuconazole,Triazole and tetrazole derivatives
+1890,delamanid,delamanid,UNKNOWN_CLASS
+1891,amifampridine,amifampridine,Other nervous system drugs
+1892,vinflunine,vinflunine,UNKNOWN_CLASS
+1893,pitolisant,pitolisant,Other nervous system drugs
+1894,tafamidis,tafamidis,Other nervous system drugs
+1895,tucatinib,tucatinib,Human epidermal growth factor receptor 2 (HER2) tyrosine kinase inhibitors
+1896,rebamipide,rebamipide,UNKNOWN_CLASS
+1897,triheptanoin,triheptanoin,Various alimentary tract and metabolism products
+1898,fruquintinib,fruquintinib,Vascular endothelial growth factor receptor (VEGFR) tyrosine kinase inhibitors
+1904,tropisetron,tropisetron,Serotonin (5HT3) antagonists
+1906,tezacaftor,tezacaftor,Other respiratory system products
+1909,lasmiditan,lasmiditan,Selective serotonin (5HT1) agonists
+1910,rilmenidine,rilmenidine,Imidazoline receptor agonists
+1911,vonoprazan,vonoprazan,Proton pump inhibitors
+1912,ebastine,ebastine,Other antihistamines for systemic use
+1913,cabotegravir,cabotegravir,Integrase inhibitors
+1914,rifamycin,rifamycin SV,Antibiotics
+1916,talazoparib,talazoparib,Poly (ADP-ribose) polymerase (PARP) inhibitors
+1917,tenapanor,tenapanor,Other drugs for constipation
+1918,momelotinib,momelotinib,Janus-associated kinase (JAK) inhibitors
+1919,capmatinib,capmatinib,Cellular-mesenchymal-epithelial transition factor (c-MET) kinase inhibitors
+1920,niraparib,niraparib,Poly (ADP-ribose) polymerase (PARP) inhibitors
+1921,fostemsavir,fostemsavir,Other antivirals
+1922,bictegravir,bictegravir,"Antivirals for treatment of HIV infections, combinations"
+1923,tivozanib,tivozanib,Vascular endothelial growth factor receptor (VEGFR) tyrosine kinase inhibitors
+1924,baricitinib,baricitinib,Janus-associated kinase (JAK) inhibitors
+1929,indium in-111 pentetreotide,indium In-111 pentetreotide,Indium (111In) compounds
+1930,osilodrostat,osilodrostat,Anticorticosteroids
+1931,relugolix,relugolix,Other hormone antagonists and related agents
+1933,romosozumab,romosozumab,Other drugs affecting bone structure and mineralization
+1935,apalutamide,apalutamide,Anti-androgens
+1939,bempedoic acid,bempedoic acid,Other lipid modifying agents
+1941,selinexor,selinexor,Other antineoplastic agents
+1942,delafloxacin,delafloxacin,Fluoroquinolones
+1943,avelumab,avelumab,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors
+1946,dacomitinib,dacomitinib,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors
+1947,binimetinib,binimetinib,Mitogen-activated protein kinase (MEK) inhibitors
+1949,elagolix,elagolix,Anti-gonadotropin-releasing hormones
+1950,letaxaban,letaxaban,UNKNOWN_CLASS
+1955,nirogacestat,nirogacestat,Other antineoplastic agents
+1956,fostamatinib,fostamatinib,Other systemic hemostatics
+1958,ponesimod,ponesimod,Sphingosine-1-phosphate (S1P) receptor modulators
+1960,voxilaprevir,voxilaprevir,Antivirals for treatment of HCV infections
+1961,sarecycline,sarecycline,Tetracyclines
+1962,letermovir,letermovir,Other antivirals
+1965,gilteritinib,gilteritinib,Other protein kinase inhibitors
+1966,erdafitinib,erdafitinib,Fibroblast growth factor receptor (FGFR) tyrosine kinase inhibitors
+1969,gepirone,gepirone,Other antidepressants
+1970,capivasertib,capivasertib,Other protein kinase inhibitors
+1971,estetrol,estetrol,"Natural and semisynthetic estrogens, plain"
+1973,polatuzumab vedotin,polatuzumab vedotin,Other monoclonal antibodies and antibody drug conjugates
+1974,edaravone,edaravone,Other nervous system drugs
+1975,triclabendazole,triclabendazole,Other antitrematodal agents
+1976,vadadustat,vadadustat,Other antianemic preparations
+1979,propiverine,propiverine,Drugs for urinary frequency and incontinence
+1980,darexaban,darexaban,UNKNOWN_CLASS
+1981,doravirine,doravirine,Non-nucleoside reverse transcriptase inhibitors
+1982,eravacycline,eravacycline,Tetracyclines
+1983,rucaparib,rucaparib,Poly (ADP-ribose) polymerase (PARP) inhibitors
+1985,siponimod,siponimod,Sphingosine-1-phosphate (S1P) receptor modulators
+1986,seladelpar,seladelpar,Other drugs for bile therapy
+1993,omaveloxolone,omaveloxolone,Other nervous system drugs
+1994,samidorphan,samidorphan,"Diazepines, oxazepines, thiazepines and oxepines"
+1997,nafamostat,nafamostat,UNKNOWN_CLASS
+1999,givinostat,givinostat,Other drugs for disorders of the musculo-skeletal system
+2000,sotagliflozin,sotagliflozin,Sodium-glucose co-transporter 2 (SGLT2) inhibitors
+2001,monteplase,monteplase,UNKNOWN_CLASS
+2002,benserazide,benserazide,Benserazide
+2004,gabexate,gabexate,UNKNOWN_CLASS
+2005,secnidazole,secnidazole,Nitroimidazole derivatives
+2006,quizartinib,quizartinib,Other protein kinase inhibitors
+2007,oxatomide,oxatomide,Piperazine derivatives
+2009,resmetirom,resmetirom,Liver therapy
+2011,lactitol,lactitol,Osmotically acting laxatives
+2013,silicon,silicon,Chlorides
+2016,lusutrombopag,lusutrombopag,Other systemic hemostatics
+2017,fluindione,fluindione,Vitamin K antagonists
+2018,pancrelipase lipase,lipase,Enzymatic Activity
+2019,protein s human,"protein S, human",Protein S
+2020,plecanatide,plecanatide,Other drugs for constipation
+2021,pepsin,pepsin A,Enzyme preparations
+2023,clorindione,clorindione,UNKNOWN_CLASS
+2024,diphenadione,diphenadione,UNKNOWN_CLASS
+2025,sodium feredetate,sodium ironedetate,"Iron trivalent, oral preparations"
+2026,tioclomarol,tioclomarol,Vitamin K antagonists
+2027,almasilate,aluminum magnesium silicate,"Combinations and complexes of aluminium, calcium and magnesium compounds"
+2028,melagatran,melagatran,UNKNOWN_CLASS
+2029,saruplase,saruplase,UNKNOWN_CLASS
+2030,naftazone,naftazone,Other capillary stabilizing agents
+2031,camostat,camostat,UNKNOWN_CLASS
+2032,tilactase,lactase,Enzyme preparations
+2033,fluorodopa (18f),fluorodopa,Other diagnostic radiopharmaceuticals for tumour detection
+2034,anethole trithione,anethole trithione,Various alimentary tract and metabolism products
+2035,fenofibric acid,fenofibric acid,Fibrates
+2036,enasidenib,enasidenib,Isocitrate dehydrogenase (IDH) inhibitors
+2037,pibrentasvir,pibrentasvir,Antivirals for treatment of HCV infections
+2038,glecaprevir,glecaprevir,Antivirals for treatment of HCV infections
+2040,testosterone undecanoate,testosterone undecanoate,3-oxoandrosten (4) derivatives
+2041,ferric cation,ferric cation,UNKNOWN_CLASS
+2042,estradiol acetate,estradiol acetate,"Natural and semisynthetic estrogens, plain"
+2043,estradiol cypionate,estradiol cypionate,"Natural and semisynthetic estrogens, plain"
+2044,estradiol valerate,estradiol valerate,"Natural and semisynthetic estrogens, plain"
+2046,ox bile extract,Bos taurus bile preparation,UNKNOWN_CLASS
+2047,bromotheophylline,bromotheophylline,UNKNOWN_CLASS
+2048,fosnetupitant,fosnetupitant,Piperazines
+2049,galcanezumab,galcanezumab,Calcitonin gene-related peptide (CGRP) antagonists
+2050,(s)-warfarin,(s)-warfarin,UNKNOWN_CLASS
+2051,tocopherylquinone,alpha-tocopherylquinone,Vitamin E
+2052,silodrate,silodrate,UNKNOWN_CLASS
+2053,tenofovir,tenofovir,Tenofovir
+2054,centella asiatica,Centella asiatica extract,Plant Extracts
+2055,vibrio cholerae cvd 103-hgr strain live antigen,Vibrio cholerae CVD 103-HGR strain live antigen,Increased Antibody Activity
+2056,magnesium ascorbate,magnesium ascorbate,Ascorbic Acid
+2057,zinc ascorbate,zinc ascorbate,UNKNOWN_CLASS
+2060,ferrous ascorbate,ferrous ascorbate,"Iron bivalent, oral preparations"
+2062,"sodium phosphate, dibasic","sodium phosphate, dibasic",Electrolyte Activity
+2063,"sodium phosphate, monobasic, unspecified form","sodium phosphate, monobasic",Electrolyte Activity
+2064,"sodium phosphate, dibasic, unspecified form","sodium phosphate, dibasic",Electrolyte Activity
+2065,lithium citrate,lithium citrate,Citrates
+2067,magnesium,magnesium,Magnesium
+2069,chromium nicotinate,chromium nicotinic acid complex,Nicotinic Acids
+2070,"zinc sulfate, unspecified form",zinc sulfate,Zinc
+2072,segesterone acetate,segesterone acetate,Drug Combinations
+2073,prednisolone phosphate,prednisolone phosphate,Corticosteroids for local oral treatment
+2074,calcium polycarbophil,calcium polycarbophil,Bulk-forming laxatives
+2075,inotersen,inotersen,Other nervous system drugs
+2077,dabigatran,dabigatran,Dabigatran
+2078,mecasermin rinfabate,mecasermin rinfabate,Somatropin and somatropin agonists
+2079,solriamfetol,solriamfetol,Centrally acting sympathomimetics
+2080,etrasimod,etrasimod,Sphingosine-1-phosphate (S1P) receptor modulators
+2083,vibegron,vibegron,Drugs for urinary frequency and incontinence
+2084,ritlecitinib,ritlecitinib,Janus-associated kinase (JAK) inhibitors
+2087,umbralisib,umbralisib,Other protein kinase inhibitors
+2091,aprocitentan,aprocitentan,Other antihypertensives
+2092,upadacitinib,upadacitinib,Janus-associated kinase (JAK) inhibitors
+2093,gefapixant,gefapixant,UNKNOWN_CLASS
+2095,vamorolone,vamorolone,Glucocorticoids
+2100,tovorafenib,tovorafenib,B-Raf serine-threonine kinase (BRAF) inhibitors
+2101,inavolisib,inavolisib,Phosphatidylinositol-3-kinase (Pi3K) inhibitors
+2102,risdiplam,risdiplam,Other drugs for disorders of the musculo-skeletal system
+2103,ubrogepant,ubrogepant,Calcitonin gene-related peptide (CGRP) antagonists
+2104,xanomeline,xanomeline,Other antipsychotics
+2105,danicopan,danicopan,Complement inhibitors
+2106,elexacaftor,elexacaftor,Other respiratory system products
+2108,belzutifan,belzutifan,Other antineoplastic agents
+2109,benzhydrocodone,benzhydrocodone,Analgesia
+2110,zuranolone,zuranolone,Other antidepressants
+2111,valoctocogene roxaparvovec,valoctocogene roxaparvovec,Blood coagulation factors
+2112,prednisolone acetate,prednisolone acetate,Corticosteroids for local oral treatment
+2116,triazavirin,triazavirin,UNKNOWN_CLASS
+2117,molnupiravir,molnupiravir,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+2118,lenacapavir,lenacapavir,Other antivirals
+2120,cedazuridine,cedazuridine,Uridine
+2122,copper oxodotreotide cu-64,copper oxodotreotide CU-64,Organometallic Compounds
+2123,berotralstat,berotralstat,Drugs used in hereditary angioedema
+2124,atogepant,atogepant,Calcitonin gene-related peptide (CGRP) antagonists
+2126,eplontersen,eplontersen,Other nervous system drugs
+2127,lazertinib,lazertinib,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors
+2128,leniolisib,leniolisib,Other immunostimulants
+2129,maralixibat,maralixibat,Other drugs for bile therapy
+2131,odevixibat,odevixibat,Other drugs for bile therapy
+2133,sulopenem etzadroxil,sulopenem etzadroxil,Other cephalosporins and penems
+2135,serdexmethylphenidate,serdexmethylphenidate,Centrally acting sympathomimetics
+2136,deucravacitinib,deucravacitinib,Janus-associated kinase (JAK) inhibitors
+2137,nirmatrelvir,nirmatrelvir,Pyrrolidinones
+2138,insulin icodec,insulin icodec,"Insulins and analogues for injection, long-acting"
+2139,belumosudil,belumosudil,Selective immunosuppressants
+2140,fidanacogene elaparvovec,fidanacogene elaparvovec,Blood coagulation factors
+2141,repotrectinib,repotrectinib,Other protein kinase inhibitors
+2142,l-acetylleucine,levacetylleucine,Other nervous system drugs
+2143,linzagolix,linzagolix,Anti-gonadotropin-releasing hormones
+2144,vorasidenib,vorasidenib,Isocitrate dehydrogenase (IDH) inhibitors
+2146,fecal microbiota,"fecal microbiota, live",Unknown Physiological Effect
+2147,revumenib,revumenib,Other antineoplastic agents
+2148,deuruxolitinib,deuruxolitinib,Janus-associated kinase (JAK) inhibitors
+2149,benzgalantamine,benzgalantamine,Anticholinesterases
